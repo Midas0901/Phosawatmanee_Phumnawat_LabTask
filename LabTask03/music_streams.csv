@@ -1,0 +1,1201 @@
+track_id,title,artist,genre,year,duration,duration_sec,tempo_bpm,key,energy,danceability,valence,acousticness,speechiness,loudness_db,explicit,streams_millions,monthly_listeners,playlist_adds,chart_peak,label
+TRK00001,Memories,Juno Calloway,R&B,2024,3:15,195,85,F Minor,0.502,0.297,0.872,0.694,0.148,-8.8,False,3.73,176,8336,,AWAL
+TRK00002,Tears,Cleo Nova,Indie,2020,2:40,160,68,F# Major,0.61,0.258,0.545,0.485,0.111,-3.9,False,3.1,170,1625,,A24 Sounds
+TRK00003,Soul,Cole Voss ft. Indigo Ashford,Rock,2017,3:55,235,140,D Major,0.742,0.556,0.483,0.281,0.05,-4.1,True,18.22,770,42971,,Dead Oceans
+TRK00004,Heart,Asha Ashford,Rock,2022,3:05,185,73,A Major,0.643,0.378,0.634,0.505,0.092,-8.6,False,0.23,1,484,,Sony Music
+TRK00005,Bones,Theo Blaine,Hip-Hop,2015,3:09,189,143,G# Major,0.77,0.317,0.223,0.394,0.10500000000000001,-13.4,False,0.72,1,1101,,A24 Sounds
+TRK00006,Wasted Tears Still,Obsidian Coast,Pop,2023,3:07,187,106,F# Minor,0.494,0.176,0.557,0.674,0.423,-12.0,False,1.44,153,1540,200.0,Secretly Canadian
+TRK00007,Electric Silence,Axel Voss ft. Skye Monroe,R&B,2021,3:29,209,144,F Minor,0.685,0.264,0.723,0.394,0.13,-7.6,True,0.46,2,420,110.0,Secretly Canadian
+TRK00008,Days,Cleo Cruz,Indie,2021,2:39,159,78,B Minor,0.114,0.001,0.566,0.899,0.154,-13.0,False,2.24,157,1587,,Sub Pop
+TRK00009,Blazing Tears,Juno Reid ft. Marcus Fox,Hip-Hop,2021,2:02,122,146,B Major,0.494,0.389,0.469,0.655,0.741,-8.8,True,1.97,102,4133,6.0,A24 Sounds
+TRK00010,Blazing Roads Now,Devon Laurent,Hip-Hop,2021,3:44,224,115,A Minor,0.821,0.434,0.706,0.222,0.5549999999999999,-2.5,False,14.84,764,19932,1.0,Warner Music
+TRK00011,Echoes,Petra Cain ft. Finn Kade,Hip-Hop,2019,2:07,127,123,E Major,0.523,0.477,0.532,0.688,0.252,-6.3,False,3.69,295,6623,,Warner Music
+TRK00012,Golden Winter,Lila Holt,Pop,2019,3:59,239,91,C Minor,0.488,0.301,0.511,0.612,0.071,-7.3,False,3.14,168,5692,,Beggars Group
+TRK00013,Nights,Aria Pierce,Hip-Hop,2020,4:26,266,108,A# Major,0.459,0.258,0.338,0.501,0.6900000000000001,-11.1,False,2.54,196,5126,,Big Machine
+TRK00014,Ghostly Waves,Indigo Monroe ft. Luna Vale,Pop,2024,3:21,201,74,F# Minor,0.716,0.468,0.846,0.294,0.084,-6.9,False,1.08,48,2145,,Universal Music
+TRK00015,Velvet Rain Away,Obsidian Coast,R&B,2017,4:16,256,129,D Minor,0.204,0.328,0.442,0.825,0.045,-8.4,False,13.04,872,23441,24.0,AWAL
+TRK00016,Silence,Nora Steele ft. Elijah Nova,Hip-Hop,2019,3:26,206,70,A Major,0.515,0.143,0.704,0.522,1.0,-6.7,True,19.95,1434,17711,,Universal Music
+TRK00017,Love,Indigo Pierce,Electronic,2018,4:28,268,110,G# Minor,1.0,0.882,0.502,0.291,0.039,-5.0,False,0.85,132,482,,A24 Sounds
+TRK00018,Lonely Shadows,Rhys Cross,Rock,2020,3:10,190,122,F Major,0.519,0.472,0.466,0.55,0.02,-4.4,False,34.16,2191,66286,,Warner Music
+TRK00019,Ghostly Night,Zoe Steele,Indie,2017,1:57,117,156,D# Major,0.78,0.504,0.153,0.412,0.182,-7.0,False,1.71,143,2664,,Big Machine
+TRK00020,Dark Stars Alone,Devon Reid ft. Cleo Hartley,Latin,2023,3:24,204,89,E Minor,0.936,0.774,0.5,0.149,0.046,-5.7,True,1.59,44,2425,,Beggars Group
+TRK00021,Broken World,Petra Lowe ft. Elijah Blaine,Hip-Hop,2017,4:32,272,149,D Minor,0.795,0.472,0.74,0.361,0.34800000000000003,-9.3,True,7.57,591,11923,,Concord
+TRK00022,Stars,Jace Drake ft. Mia Pierce,Pop,2022,3:47,227,127,B Major,0.537,0.389,0.023,0.728,0.351,-3.5,False,8.72,587,6835,,Secretly Canadian
+TRK00023,Lies,Skye Adler,R&B,2019,3:07,187,143,A# Major,0.459,0.223,0.463,0.615,0.027,-10.6,False,3.77,235,3574,,Sub Pop
+TRK00024,Frozen Eyes,Obsidian Coast,Pop,2021,3:39,219,126,G Major,0.782,0.644,0.276,0.308,0.079,-8.2,False,2.66,129,5733,,Warner Music
+TRK00025,Blazing Night Alone,Cole Solis,Pop,2018,4:04,244,77,D# Minor,0.573,0.273,0.613,0.438,0.269,-3.2,False,18.9,1453,33726,,A24 Sounds
+TRK00026,Ghostly Time Still,Elijah Mack,Pop,2023,3:24,204,119,G Minor,0.617,0.394,0.232,0.504,0.142,-9.2,True,1.88,201,3805,,Universal Music
+TRK00027,Blues,Nora West ft. Ember Wren,Indie,2024,5:07,307,117,F# Major,0.225,0.241,0.514,0.989,0.071,-12.2,False,3.88,125,3194,,AWAL
+TRK00028,Lost Tears Again,The Drift,Pop,2018,3:07,187,129,B Major,0.506,0.476,0.41,0.432,0.555,-8.9,True,37.22,2203,94365,,Warner Music
+TRK00029,Quiet Lies,Zoe Hartley,Rock,2024,4:05,245,131,C Minor,0.657,0.312,0.938,0.468,0.076,-2.6,True,0.75,12,1073,10.0,Sony Music
+TRK00030,Shattered Dreams,Remy Wren,Hip-Hop,2019,3:56,236,122,C Minor,0.661,0.535,0.485,0.266,0.339,-15.4,True,2.28,73,4634,,Universal Music
+TRK00031,Sweet Soul,The Pale Hours,Electronic,2021,3:00,180,102,D# Major,0.902,0.449,0.047,0.229,0.307,-7.1,False,15.84,718,26359,,Sub Pop
+TRK00032,Sweet Lies,Rhys Drake,Hip-Hop,2022,3:11,191,96,D Minor,0.46,0.0,0.511,0.664,0.54,-9.7,True,8.34,446,13934,,Sony Music
+TRK00033,Blazing Lights,Electric Fauna,Indie,2018,4:06,246,106,F# Major,0.218,0.037,0.312,0.636,0.236,-8.1,False,13.16,851,32195,8.0,AWAL
+TRK00034,Lonely Roads,Lila Laurent,R&B,2021,3:33,213,139,D# Major,0.376,0.361,0.571,0.646,0.04,-8.7,True,0.75,1,581,,Beggars Group
+TRK00035,Fire,Remy Wren ft. Finn Mack,Hip-Hop,2016,3:40,220,131,G Minor,0.881,0.571,0.304,0.33,0.657,-4.1,True,6.19,403,4252,,AWAL
+TRK00036,Burning Dreams,Lyra Voss,Hip-Hop,2022,2:25,145,75,D# Minor,0.893,0.506,0.334,0.301,0.28200000000000003,-7.3,False,2.9,150,2182,,A24 Sounds
+TRK00037,Reckless Nights Still,Juno Mack,R&B,2020,3:52,232,144,E Major,0.388,0.26,0.515,0.73,0.045,-4.0,False,79.77,5518,238372,60.0,Interscope
+TRK00038,Silver Silence,Aria Kade,R&B,2024,3:38,218,110,D# Minor,0.522,0.342,0.765,0.465,0.098,-3.0,False,12.15,412,34237,,A24 Sounds
+TRK00039,Crimson Skies,Elijah West,Hip-Hop,2019,3:25,205,101,A Minor,0.671,0.523,0.259,0.498,0.28800000000000003,-7.4,True,4.02,171,9050,,Universal Music
+TRK00040,Quiet Rain,Theo Mack ft. Soren Monroe,Hip-Hop,2024,3:41,221,130,E Minor,0.428,0.053,0.806,0.586,1.0,-8.8,True,6.15,535,9956,,Warner Music
+TRK00041,Frozen Nights,Electric Fauna,Pop,2017,3:11,191,132,G# Minor,0.448,0.277,0.851,0.727,0.111,-6.2,False,4.4,372,3135,3.0,Sony Music
+TRK00042,Shattered Summer,Mia Calloway,Pop,2022,3:05,185,113,F# Minor,0.551,0.376,0.41,0.282,0.044,-5.5,False,10.42,582,26594,,Sony Music
+TRK00043,Burning Summer,Skye Wren,Pop,2019,3:18,198,88,B Minor,0.68,0.251,0.492,0.421,0.037,-11.5,False,1.36,84,1324,,Concord
+TRK00044,Skies,Juno Wren ft. Soren Drake,Pop,2018,3:09,189,81,F# Major,0.562,0.172,0.592,0.562,0.079,-6.7,False,24.28,1956,28701,,Universal Music
+TRK00045,Quiet Love,Electric Fauna,Pop,2017,4:50,290,73,E Minor,0.811,0.476,0.223,0.513,0.028,-8.4,True,0.73,46,1899,39.0,Universal Music
+TRK00046,Winter,Echo Chamber,Indie,2022,4:02,242,86,G# Major,0.549,0.358,0.604,0.571,0.046,-9.0,False,5.48,246,6265,,Beggars Group
+TRK00047,Time,The Hollow Kings,R&B,2018,2:50,170,110,C Minor,0.311,0.204,0.514,0.774,0.068,-9.9,False,1.41,137,3682,,Interscope
+TRK00048,Silver Heart,Sage Nova,Indie,2022,4:44,284,117,B Major,0.313,0.126,0.716,0.795,0.059,-9.7,False,4.44,319,10943,108.0,Beggars Group
+TRK00049,Reckless Soul,Solar Hymn,Electronic,2024,3:11,191,118,D# Major,0.941,0.528,0.656,0.398,0.147,-3.1,False,15.32,688,39728,,Dead Oceans
+TRK00050,Blazing Chains,Axel Laurent,Electronic,2019,3:28,208,112,A Minor,0.907,0.534,0.511,0.229,0.045,-8.8,False,0.45,12,983,,Sub Pop
+TRK00051,Silver Lies,Devon Blaine,Pop,2015,4:01,241,118,E Major,0.335,0.26,0.226,0.564,0.011,-3.5,False,3.25,141,4486,,Sony Music
+TRK00052,Reckless Stars,Juno Stone ft. Cleo Wren,Electronic,2017,2:12,132,123,E Major,0.921,0.773,0.504,0.072,0.021,-7.0,False,0.63,1,1343,,AWAL
+TRK00053,Golden Time,Lyra Mack,Hip-Hop,2017,3:18,198,75,F Major,0.7,0.144,0.34,0.52,0.243,-11.5,False,2.85,132,7332,,Warner Music
+TRK00054,Midnight Night,Finn Kade,Rock,2021,3:05,185,70,C Minor,0.797,0.605,0.511,0.389,0.051,-6.8,False,0.64,1,1519,43.0,Sony Music
+TRK00055,Quiet Fire Forever,Skye Ashford,Country,2023,3:35,215,113,A Major,0.798,0.503,0.271,0.331,0.031,-11.7,False,5.21,421,13832,16.0,Dead Oceans
+TRK00056,Night,Lila Drake ft. Petra Vale,Indie,2019,3:41,221,92,E Major,0.769,0.573,0.659,0.314,0.393,-5.4,False,2.38,204,7042,5.0,Big Machine
+TRK00057,Waves,Remy Bane,Pop,2017,3:24,204,147,C Minor,0.473,0.473,0.52,0.643,0.159,-8.2,True,10.82,449,24078,,Warner Music
+TRK00058,Bitter Days,Echo Chamber,R&B,2022,3:22,202,126,F Minor,0.605,0.288,0.771,0.541,0.078,-4.5,False,20.74,1299,58493,,A24 Sounds
+TRK00059,Dark Nights Again,Theo Solis ft. Indigo West,Pop,2019,4:07,247,85,E Minor,0.868,0.696,0.796,0.363,0.099,-2.5,False,4.19,313,4941,,Warner Music
+TRK00060,Dark Summer,Ember Solis,Pop,2022,3:38,218,84,E Major,0.698,0.278,0.406,0.309,0.066,-13.6,False,13.42,766,39370,,Concord
+TRK00061,Sacred Lies,Kai Nova,Pop,2024,3:29,209,80,E Minor,0.726,0.49,0.263,0.207,0.03,-9.1,False,25.59,1158,71033,143.0,Warner Music
+TRK00062,Burning World Tonight,Ember Cruz ft. Devon Laurent,Pop,2019,3:33,213,86,D# Minor,0.775,0.47,0.442,0.27,0.187,-11.7,False,1.25,20,753,,Sony Music
+TRK00063,Rain,Marcus Blaine,Electronic,2021,4:37,277,129,G Minor,0.446,0.296,0.373,0.481,0.162,-1.0,True,26.99,2107,53335,,A24 Sounds
+TRK00064,Quiet Fire Alone,Kai Vale ft. Lyra Solano,Hip-Hop,2023,3:34,214,107,A Minor,0.718,0.328,0.131,0.257,0.051000000000000004,-9.0,False,4.02,131,7064,3.0,Secretly Canadian
+TRK00065,Roads,Cleo Drake ft. Vera Shaw,Pop,2022,3:07,187,110,G Major,0.614,0.46,0.298,0.697,0.098,-12.1,False,1.18,30,2996,,Sub Pop
+TRK00066,Summer,Marcus Wren,Latin,2023,2:14,134,104,G# Minor,0.74,0.703,0.112,0.136,0.107,-1.0,False,6.22,373,5074,8.0,Dead Oceans
+TRK00067,Shattered Silence Together,Vera Voss,Rock,2023,2:33,153,110,C# Minor,0.744,0.348,0.276,0.461,0.063,-10.0,False,3.84,143,6985,3.0,Beggars Group
+TRK00068,Wild Lights,Static Bloom,Hip-Hop,2021,3:09,189,102,F# Major,0.658,0.454,0.554,0.582,1.0,-13.2,False,0.67,1,1174,,Sony Music
+TRK00069,Shadows,Kai Bane,Rock,2021,3:23,203,81,C Major,0.769,0.62,0.636,0.503,0.403,-11.6,True,1.0,14,1488,,Warner Music
+TRK00070,Shattered Mind,Soren Reid,Rock,2022,3:06,186,73,D Major,0.951,0.577,0.637,0.272,0.061,-7.0,False,35.29,1182,105180,,A24 Sounds
+TRK00071,Sweet Summer,The Drift,Rock,2022,3:40,220,71,D Minor,0.386,0.441,0.571,0.85,0.069,-7.3,False,6.03,522,11148,3.0,Warner Music
+TRK00072,Crimson Lights,Marcus Calloway ft. Skye Solis,Electronic,2022,3:05,185,131,F Major,0.51,0.271,0.566,0.806,0.063,-10.4,True,28.83,1036,44199,,Big Machine
+TRK00073,Sweet Winter,Nora Ashford ft. Vera Nova,Indie,2020,2:52,172,109,C# Minor,0.473,0.291,0.697,0.585,0.05,-9.2,False,2.42,125,6391,,Secretly Canadian
+TRK00074,Crimson Dreams,Iron Lullaby,Hip-Hop,2023,3:50,230,136,B Minor,0.464,0.163,0.197,0.682,0.11699999999999999,-7.3,True,1.49,57,1262,,Warner Music
+TRK00075,Fearless Heart,Finn Pierce,Rock,2018,4:19,259,116,A Major,0.748,0.504,0.19,0.555,0.123,-2.9,False,0.46,12,560,,Warner Music
+TRK00076,Eyes,Sage Wren ft. Mia Cruz,Pop,2017,2:45,165,109,G# Major,0.662,0.431,0.702,0.367,0.394,-6.3,False,14.42,424,17264,,Warner Music
+TRK00077,Neon Fire,Petra Calloway,Indie,2020,3:36,216,110,D Major,0.669,0.524,0.207,0.435,0.284,-9.5,False,7.09,237,20094,,A24 Sounds
+TRK00078,Grace,Dex Voss ft. Ember Fox,Hip-Hop,2019,2:15,135,69,D Major,0.895,0.493,0.547,0.209,0.46199999999999997,-8.3,False,2.44,137,6590,,Secretly Canadian
+TRK00079,Broken Shadows,Zoe Adler,Hip-Hop,2022,2:31,151,121,C Minor,0.578,0.28,0.495,0.593,0.036000000000000004,-4.8,True,1.5,136,3025,53.0,Sub Pop
+TRK00080,Chains,Ember Ashford,Latin,2018,3:05,185,130,G# Minor,0.679,0.506,0.489,0.229,0.018,-1.6,False,17.81,1026,23136,23.0,Sony Music
+TRK00081,Hollow Stars,Jace Ashford,Rock,2022,4:10,250,120,D Minor,0.859,0.754,0.352,0.485,0.192,-11.4,False,3.34,57,5578,,Concord
+TRK00082,Sweet Tears,Skye Stone ft. Juno Shaw,Pop,2021,2:57,177,124,C Minor,0.48,0.4,0.371,0.68,0.3,-3.6,False,3.37,258,6496,,Beggars Group
+TRK00083,Electric Soul,River Lowe,Hip-Hop,2017,2:56,176,69,G# Major,0.751,0.747,0.332,0.47,0.384,-8.6,True,1.88,111,3478,,Warner Music
+TRK00084,Quiet Winter,Kai Drake,Hip-Hop,2019,3:28,208,92,D Minor,0.775,0.581,0.83,0.096,0.192,-13.2,True,2.44,172,2781,,Beggars Group
+TRK00085,Lost Silence,Electric Fauna,Latin,2021,3:28,208,154,A Major,0.822,0.607,0.293,0.218,0.242,-13.9,False,8.54,680,7055,27.0,Interscope
+TRK00086,Wasted World,Lila Monroe,Hip-Hop,2023,2:57,177,143,C Major,0.559,0.458,0.776,0.732,0.44999999999999996,-2.8,True,0.67,1,1855,,Dead Oceans
+TRK00087,Silver Fire Together,Zoe Blaine,Pop,2020,4:42,282,122,F Major,0.581,0.586,0.876,0.514,0.204,-2.4,False,4.62,101,9711,,Sony Music
+TRK00088,Frozen Fire,Vera Wren ft. Asha Ashford,Rock,2018,3:17,197,107,A# Major,0.866,0.736,0.509,0.1,0.019,-9.5,False,14.26,984,12302,34.0,Sony Music
+TRK00089,Mind,The Hollow Kings,Hip-Hop,2019,3:31,211,110,D Minor,0.512,0.181,0.24,0.617,0.324,-8.2,False,3.71,209,11035,,Universal Music
+TRK00090,Velvet Rain Inside,Ember Bane ft. Skye Nova,Pop,2017,3:12,192,82,G Minor,0.451,0.405,0.336,0.721,0.339,-13.7,False,16.13,597,24649,,A24 Sounds
+TRK00091,Reckless Rain Alone,Iron Lullaby,Indie,2015,3:44,224,95,F# Major,0.735,0.515,0.465,0.476,0.125,-4.8,False,23.17,1070,54042,,Beggars Group
+TRK00092,Neon Summer,Devon Solano ft. Lila Bane,Pop,2024,4:14,254,143,D# Major,0.656,0.399,0.674,0.457,0.175,-7.6,False,13.73,570,12930,,Universal Music
+TRK00093,Restless Time,Axel Wren ft. Ember Wren,Indie,2017,4:30,270,86,D Minor,0.533,0.098,0.602,0.71,0.085,-12.9,False,2.04,87,5777,47.0,Jagjaguwar
+TRK00094,Lost Roads Alone,Juno Nova ft. Devon Fox,R&B,2017,2:58,178,82,E Minor,0.776,0.289,0.117,0.295,0.089,-6.8,False,3.91,267,2729,87.0,Interscope
+TRK00095,World,Juno Quinn,Pop,2024,4:09,249,109,A Minor,0.765,0.446,0.483,0.453,0.252,-12.4,False,6.65,485,19215,47.0,Concord
+TRK00096,Burning Mind,Velvet Riot,R&B,2022,3:48,228,84,C# Major,0.427,0.073,0.39,0.675,0.048,-5.5,False,2.28,182,5284,16.0,Big Machine
+TRK00097,Lost Shadows,River Ashford,R&B,2020,4:04,244,118,D Major,0.246,0.112,0.344,0.787,0.044,-11.3,False,2.16,139,2307,,AWAL
+TRK00098,Lost Memories,Paper Wolves,Electronic,2022,3:24,204,103,C Minor,0.948,0.716,0.776,0.196,0.056,-6.3,False,2.02,65,1923,,Big Machine
+TRK00099,Silver Roads,Velvet Riot,Rock,2024,3:20,200,142,E Minor,0.494,0.24,0.604,0.564,0.084,-9.8,False,115.77,4766,300162,2.0,Warner Music
+TRK00100,Dark Chains,Dex Hartley,Pop,2017,4:03,243,117,D Major,0.795,0.528,0.287,0.368,0.023,-15.8,False,2.88,126,1727,,Universal Music
+TRK00101,Blazing Stars,Static Bloom,Pop,2019,4:03,243,103,C# Major,0.555,0.211,0.635,0.521,0.147,-4.0,False,16.6,918,13042,,Universal Music
+TRK00102,Lonely Silence Forever,Ember Hartley,R&B,2024,4:26,266,126,F Major,0.721,0.51,0.456,0.511,0.072,-3.8,True,1.37,136,2989,4.0,Interscope
+TRK00103,Broken Roads,Indigo Hartley,Pop,2023,3:35,215,98,B Minor,0.567,0.44,0.76,0.482,0.163,-9.3,True,38.56,2762,26738,,Sony Music
+TRK00104,Silver Fire,Jace Calloway,Hip-Hop,2024,3:23,203,117,G# Major,0.5,0.126,0.52,0.788,0.045,-6.5,False,2.59,105,4799,34.0,Universal Music
+TRK00105,Midnight Night Together,Lila Ashford,Rock,2019,1:54,114,114,F Minor,0.493,0.215,0.564,0.536,0.163,-6.0,True,4.43,273,8572,,AWAL
+TRK00106,Distant Chains,Indigo Cruz,Pop,2024,2:26,146,77,G Minor,0.475,0.131,0.283,0.73,0.239,-5.9,False,0.39,2,212,,Sony Music
+TRK00107,Frozen Winter,Dex Blaine,R&B,2020,3:12,192,96,F Major,0.372,0.313,0.718,0.818,0.117,-1.5,False,17.75,731,25611,41.0,A24 Sounds
+TRK00108,Midnight Grace,The Hollow Kings,R&B,2022,2:45,165,124,B Major,0.526,0.365,0.552,0.599,0.084,-6.0,False,23.76,1313,13574,,Secretly Canadian
+TRK00109,Wild Memories,Axel Mack,Indie,2024,3:58,238,124,F# Major,0.683,0.437,0.378,0.463,0.164,-8.8,True,0.91,86,2654,,Sub Pop
+TRK00110,Cloudy Roads,Nora Cruz,Pop,2018,2:37,157,102,C# Major,0.412,0.25,0.539,0.583,0.227,-6.0,True,18.96,987,19686,,Sony Music
+TRK00111,Midnight Silence,Indigo Kade,Hip-Hop,2018,3:08,188,75,F Minor,0.642,0.462,0.121,0.424,0.375,-9.0,False,0.72,1,1601,,Sub Pop
+TRK00112,Golden Lies Away,Electric Fauna,Indie,2022,3:09,189,133,C Minor,0.425,0.324,0.528,0.686,0.132,-11.2,False,9.55,503,20861,,A24 Sounds
+TRK00113,Lonely Nights Tonight,Asha Solis ft. Juno Adler,Hip-Hop,2023,4:13,253,99,A# Major,0.588,0.313,0.684,0.524,0.927,-3.2,False,2.9,212,7048,,Warner Music
+TRK00114,Velvet Stars Still,Elijah Drake,Electronic,2016,3:04,184,120,C Minor,0.822,0.445,0.526,0.484,0.151,-5.6,False,23.15,1022,30982,,Sub Pop
+TRK00115,Ghostly Shadows,Crater Lake,Rock,2023,3:44,224,133,G Major,0.612,0.39,0.546,0.456,0.043,-14.0,False,5.84,447,5612,19.0,Interscope
+TRK00116,Silver Skies Again,Petra Adler,Hip-Hop,2020,3:34,214,135,B Minor,0.436,0.257,0.553,0.604,0.678,-9.9,True,13.96,696,25494,7.0,Warner Music
+TRK00117,Shattered Soul,Mia Nova ft. Ember Reid,Hip-Hop,2020,4:01,241,66,G Minor,0.516,0.624,0.681,0.387,0.22199999999999998,-4.8,True,20.78,1179,46460,,Universal Music
+TRK00118,Crimson Waves,Sage West,Electronic,2020,3:59,239,119,D Major,0.523,0.286,0.619,0.659,0.084,-13.0,True,2.85,232,6806,,Interscope
+TRK00119,Silver Shadows,Theo Monroe,Pop,2024,3:26,206,124,C# Minor,0.399,0.3,0.593,0.747,0.089,-10.1,False,4.09,186,2545,,Beggars Group
+TRK00120,Dark Tears,Mia Laurent ft. Aria Laurent,Indie,2017,2:23,143,135,B Minor,0.569,0.435,0.494,0.662,0.178,-1.0,False,0.97,10,2310,,A24 Sounds
+TRK00121,Blazing Love,Echo Chamber,Rock,2022,3:18,198,125,G# Major,0.658,0.624,0.368,0.598,0.333,-8.7,False,2.84,87,2218,,Beggars Group
+TRK00122,Shattered Night,Remy Pierce ft. Remy Mack,Pop,2017,3:26,206,128,F# Minor,0.713,0.35,0.771,0.524,0.084,-3.7,False,50.16,2296,90870,49.0,Interscope
+TRK00123,Timeless Chains,Sage Laurent ft. River Bane,Electronic,2024,3:38,218,135,C# Major,0.956,0.809,0.445,0.335,0.328,-2.2,True,11.33,772,21397,,A24 Sounds
+TRK00124,Shattered Memories Always,Soren Hartley ft. Elijah Fox,Hip-Hop,2023,2:59,179,71,G# Major,0.628,0.388,0.354,0.571,0.28200000000000003,-10.7,True,1.09,33,891,,Sony Music
+TRK00125,Bitter Bones Away,Nora Cain,Pop,2018,4:10,250,101,D Minor,0.447,0.641,0.406,0.734,0.252,-6.6,False,34.33,1890,99900,,Sony Music
+TRK00126,Bitter Bones,Marcus West,Latin,2019,3:28,208,100,C Major,0.885,0.626,0.371,0.071,0.096,-1.0,False,6.86,245,14371,,Concord
+TRK00127,Crimson Echoes Inside,Kai Quinn,Electronic,2020,2:52,172,118,D# Major,1.0,0.478,0.481,0.068,0.055,-5.9,False,12.24,701,12971,,Concord
+TRK00128,Lost Blues,Cole Reid,Electronic,2020,3:10,190,85,D# Major,0.617,0.373,0.261,0.355,0.382,-1.0,False,7.87,367,4936,,Secretly Canadian
+TRK00129,Silver Bones,Finn Fox,Indie,2023,4:40,280,76,A Major,0.479,0.498,0.441,0.769,0.051,-9.7,True,7.28,287,17745,,Dead Oceans
+TRK00130,Wild Chains,Rhys Laurent,Rock,2021,3:52,232,119,C# Major,0.663,0.442,0.758,0.376,0.049,-1.2,False,0.31,1,807,,Warner Music
+TRK00131,Reckless Heart,Lila Mack,Rock,2020,4:07,247,103,A Major,0.665,0.424,0.55,0.393,0.03,-7.4,False,17.53,1357,12736,,Warner Music
+TRK00132,Hollow Mind,Marcus Reid,Pop,2022,2:47,167,108,C Minor,0.859,0.659,0.451,0.314,0.226,-8.6,False,0.22,10,251,49.0,Interscope
+TRK00133,Sacred Summer,Sage Drake,Pop,2021,3:01,181,135,G Major,0.716,0.417,0.17,0.278,0.273,-5.3,False,15.65,1022,32958,21.0,Jagjaguwar
+TRK00134,Timeless Shadows,Skye Solano,Hip-Hop,2017,3:01,181,151,C# Minor,0.642,0.388,0.557,0.532,0.333,-7.9,False,4.66,343,7211,9.0,Interscope
+TRK00135,Dark Memories,Nora Kade,Rock,2017,3:34,214,129,A# Minor,0.586,0.249,0.082,0.276,0.037,-7.8,False,12.14,710,16465,,Secretly Canadian
+TRK00136,Neon Bones,Asha Hartley,R&B,2019,3:20,200,120,B Major,0.728,0.715,0.651,0.276,0.082,-5.8,True,5.08,333,7930,,Concord
+TRK00137,Blazing Winter,Devon Solis,Rock,2022,3:08,188,89,F Minor,0.766,0.327,0.203,0.411,0.064,-13.8,False,16.31,783,28758,,Warner Music
+TRK00138,Silver Dreams,Marcus Lowe,Electronic,2017,3:13,193,120,F Minor,0.692,0.474,0.172,0.297,0.036,-10.3,False,4.18,218,4019,,Sub Pop
+TRK00139,Sweet Dreams Alone,Aria Kade,Indie,2021,2:57,177,80,G Minor,0.668,0.501,0.619,0.621,0.056,-5.0,False,6.02,291,8850,4.0,Beggars Group
+TRK00140,Fearless Lies Alone,Nora Blaine,Latin,2019,3:20,200,81,C Minor,1.0,0.648,0.479,0.206,0.123,-4.0,False,7.0,333,4721,,Warner Music
+TRK00141,Neon Tears,Jace Bane,Hip-Hop,2022,4:09,249,74,A Major,0.196,0.0,0.707,0.979,0.153,-6.2,True,48.29,2741,24876,,Dead Oceans
+TRK00142,Neon Silence,Crater Lake,Country,2015,2:30,150,143,G# Major,0.351,0.088,0.66,0.762,0.104,-6.5,False,8.85,294,26001,,A24 Sounds
+TRK00143,Broken Lights,Indigo Calloway,R&B,2021,3:40,220,136,A# Minor,0.681,0.516,0.183,0.454,0.02,-6.1,False,0.75,26,477,8.0,Dead Oceans
+TRK00144,Blazing Roads,Electric Fauna,Pop,2016,4:19,259,126,C Minor,0.616,0.291,0.503,0.388,0.315,-4.1,False,1.96,57,1193,,Warner Music
+TRK00145,Quiet World Now,Ember Laurent,Hip-Hop,2020,3:20,200,117,E Minor,0.518,0.047,0.325,0.697,0.18,-12.5,True,9.05,349,24660,,Sony Music
+TRK00146,Midnight Fire,Skye Steele,Pop,2015,3:07,187,91,D# Minor,0.772,0.556,0.482,0.435,0.165,-9.3,False,20.86,1017,61330,,Big Machine
+TRK00147,Neon Roads,The Drift,Electronic,2021,4:02,242,82,C# Major,0.789,0.391,0.425,0.619,0.095,-7.8,False,1.63,60,4256,6.0,Secretly Canadian
+TRK00148,Lights,Lila Blaine,Rock,2023,2:50,170,116,B Major,0.697,0.541,0.497,0.542,0.113,-6.8,False,77.62,2953,65889,,Concord
+TRK00149,Wild Summer Inside,Ember Wren ft. Kai Monroe,Rock,2017,3:26,206,131,A Minor,1.0,0.622,0.891,0.152,0.033,-14.9,False,5.15,334,10808,,Universal Music
+TRK00150,Crimson Nights Away,Theo Monroe ft. River Solano,R&B,2023,2:47,167,129,B Major,0.414,0.234,0.522,0.704,0.045,-11.9,False,7.29,472,16346,,Secretly Canadian
+TRK00151,Distant Fire,Cole Fox,Hip-Hop,2022,2:16,136,115,D Minor,0.728,0.481,0.143,0.468,0.135,-7.6,True,0.82,24,1991,,Sony Music
+TRK00152,Bitter Roads,Cole West ft. Nora Kade,Hip-Hop,2021,3:21,201,64,B Minor,0.341,0.062,0.222,0.867,0.252,-4.0,True,17.82,1422,13939,36.0,Beggars Group
+TRK00153,Shattered Days,Crater Lake,Indie,2022,2:39,159,107,G# Major,0.368,0.124,0.29,0.864,0.237,-9.0,False,2.35,118,3470,,Interscope
+TRK00154,Restless Rain,Electric Fauna,Latin,2020,3:27,207,135,G# Major,0.638,0.378,0.494,0.47,0.116,-9.8,False,1.58,124,1880,31.0,Secretly Canadian
+TRK00155,Distant Summer,Obsidian Coast,R&B,2022,4:09,249,149,A Minor,0.68,0.282,0.296,0.31,0.04,-5.6,False,2.78,96,5938,,A24 Sounds
+TRK00156,Cloudy Silence,Kai Vale,Pop,2023,4:37,277,138,D Minor,0.871,0.666,0.444,0.081,0.088,-8.6,True,25.47,1045,34613,,Universal Music
+TRK00157,Midnight Skies,Vera Pierce,Pop,2023,3:31,211,122,B Minor,0.599,0.346,0.659,0.384,0.077,-4.4,False,7.73,643,13697,,Jagjaguwar
+TRK00158,Dark Heart,Nora Laurent,Pop,2019,4:06,246,84,A Major,0.503,0.124,0.371,0.527,0.062,-8.3,False,1.3,101,2685,,Sony Music
+TRK00159,Wild Time,Paper Wolves,Hip-Hop,2022,3:42,222,146,D# Major,0.72,0.39,0.512,0.605,0.243,-11.4,True,2.11,194,5622,,Beggars Group
+TRK00160,Electric Days,Elijah West,Pop,2017,3:12,192,82,D# Major,0.279,0.196,0.261,0.959,0.151,-2.5,False,25.6,1461,71738,200.0,Sony Music
+TRK00161,Burning World,Theo Stone,Country,2021,2:14,134,116,F Major,0.837,0.482,0.26,0.446,0.046,-3.2,False,3.07,137,6857,,AWAL
+TRK00162,Crimson Roads,Rhys Cross,Electronic,2015,4:29,269,129,F# Major,0.796,0.573,0.233,0.511,0.062,-10.8,False,8.4,278,7484,,Dead Oceans
+TRK00163,Ghostly Mind,River Holt,Hip-Hop,2018,2:47,167,138,E Minor,0.292,0.27,0.718,0.682,0.54,-6.1,True,11.72,692,31905,,Sony Music
+TRK00164,Wasted Lights,Static Bloom,Hip-Hop,2022,4:20,260,146,F# Major,0.502,0.663,0.51,0.417,0.357,-8.6,False,0.05,1,50,6.0,A24 Sounds
+TRK00165,Fearless Lies,Elijah Pierce,Hip-Hop,2024,3:47,227,128,D# Minor,0.506,0.49,0.695,0.474,0.684,-5.3,False,21.95,1185,13893,41.0,Warner Music
+TRK00166,Hollow Blues,The Hollow Kings,Rock,2016,2:50,170,87,D Minor,0.861,0.331,0.577,0.067,0.259,-10.6,False,1.35,92,2150,,Secretly Canadian
+TRK00167,Burning Bones,Rhys Drake,Electronic,2021,3:39,219,127,D# Minor,0.974,0.583,0.215,0.087,0.028,-4.4,True,2.61,227,5772,27.0,Secretly Canadian
+TRK00168,Blazing Bones Tonight,Aria Kade,Pop,2022,4:48,288,122,F Minor,0.783,0.472,0.525,0.313,0.103,-3.3,False,31.07,2237,27136,23.0,Dead Oceans
+TRK00169,Wasted Bones,The Hollow Kings,Indie,2024,4:25,265,84,A Major,0.573,0.453,0.215,0.562,0.055,-10.8,False,27.83,1317,34743,13.0,Concord
+TRK00170,Burning Mind Away,Rhys Voss ft. Sage Holt,Pop,2022,3:08,188,136,E Minor,0.423,0.144,0.641,0.678,0.031,-7.3,False,7.97,342,5580,,Universal Music
+TRK00171,Faded Love Alone,Aria Solis,Hip-Hop,2017,3:00,180,108,D# Major,0.436,0.209,0.466,0.568,0.132,-3.2,True,10.56,659,21600,,Interscope
+TRK00172,Crimson Bones,Zoe Hartley,Latin,2017,3:31,211,85,A# Major,0.692,0.276,0.611,0.515,0.065,-11.0,False,14.6,877,33150,6.0,Sony Music
+TRK00173,Broken Lies,Electric Fauna,Pop,2022,3:21,201,123,D Minor,0.583,0.295,0.537,0.453,0.065,-9.8,False,26.95,2182,48488,,Sony Music
+TRK00174,Wasted Love Tonight,Marcus Solis ft. Ember Voss,Pop,2018,4:13,253,139,C# Major,0.754,0.411,0.691,0.398,0.051,-5.2,False,31.18,1340,50233,63.0,Sony Music
+TRK00175,Dark Skies,Cleo Nova ft. Elijah Lowe,Electronic,2024,3:55,235,130,A# Major,0.624,0.362,0.396,0.368,0.081,-8.1,True,4.88,176,12781,,A24 Sounds
+TRK00176,Sacred Night,Marcus Quinn ft. Cleo Holt,Hip-Hop,2024,2:23,143,98,C# Minor,0.933,0.44,0.224,0.384,1.0,-13.0,True,1.63,52,2523,,Concord
+TRK00177,Hollow Winter,Ember Pierce,Pop,2024,3:44,224,116,F Major,0.664,0.569,0.565,0.471,0.021,-8.6,False,3.04,264,4877,,Sony Music
+TRK00178,Cloudy Dreams,Juno Calloway,Pop,2019,3:20,200,141,F Major,0.455,0.362,0.667,0.717,0.204,-1.4,False,4.88,209,9483,1.0,Universal Music
+TRK00179,Golden Lies,Soren Mack ft. Vera Voss,Pop,2022,3:28,208,92,A# Major,0.813,0.326,0.428,0.204,0.081,-1.0,False,3.92,173,8857,,Secretly Canadian
+TRK00180,Burning Love Together,Skye Stone,Rock,2022,3:36,216,98,F Major,0.941,0.615,0.516,0.268,0.058,-9.7,False,1.13,15,2760,45.0,Sony Music
+TRK00181,Velvet Silence,Lila Mack,Pop,2015,4:13,253,113,G Minor,0.752,0.27,0.704,0.467,0.016,-10.7,False,7.16,328,4310,5.0,Interscope
+TRK00182,Wasted Mind,Electric Fauna,R&B,2019,4:04,244,114,E Minor,0.277,0.368,0.27,0.533,0.151,-9.1,False,0.54,1,1419,,Jagjaguwar
+TRK00183,Distant Silence,Rhys Hartley,Indie,2018,2:59,179,121,D Major,0.526,0.568,0.614,0.719,0.026,-1.2,False,4.6,206,7490,200.0,Concord
+TRK00184,Wasted Chains,Velvet Riot,Pop,2020,3:25,205,122,A# Minor,0.978,0.628,0.761,0.068,0.159,-4.6,False,5.05,336,13961,,Universal Music
+TRK00185,Dark Mind,Finn Voss,Hip-Hop,2024,3:10,190,119,G Minor,0.564,0.247,0.473,0.574,0.9930000000000001,-2.4,True,4.93,266,9075,,Interscope
+TRK00186,Lost Winter,Electric Fauna,Pop,2023,2:23,143,111,A# Minor,0.353,0.136,0.633,0.932,0.029,-4.0,False,12.76,403,21559,3.0,Sony Music
+TRK00187,Neon Waves,Juno Steele ft. Finn Calloway,Hip-Hop,2019,3:23,203,115,A Minor,0.774,0.44,0.301,0.495,0.627,-12.1,False,10.53,344,10408,,AWAL
+TRK00188,Wild Dreams,Nora Lowe,Pop,2021,4:37,277,78,D Minor,0.551,0.343,0.866,0.38,0.084,-10.8,False,75.15,2449,125801,,Concord
+TRK00189,Silver Rain,Remy Blaine,R&B,2018,2:22,142,154,A# Minor,0.38,0.439,0.069,0.675,0.015,-9.9,True,2.1,74,3637,,Sub Pop
+TRK00190,Distant Roads Inside,Mia Drake ft. Kai Drake,Hip-Hop,2019,3:26,206,103,F# Minor,0.521,0.472,0.514,0.731,0.093,-9.3,False,5.95,332,16280,,A24 Sounds
+TRK00191,Crimson Bones Now,Asha Steele ft. Aria Drake,Rock,2016,3:25,205,117,D Major,0.583,0.515,0.411,0.436,0.095,-9.9,False,5.39,437,14648,,Beggars Group
+TRK00192,Restless Blues,Dex Bane,Electronic,2022,3:38,218,74,E Major,0.713,0.487,0.275,0.386,0.113,-9.5,True,5.23,159,8974,12.0,Jagjaguwar
+TRK00193,Hollow Lights Forever,Juno Pierce ft. Jace Monroe,Indie,2022,2:50,170,132,B Major,0.33,0.053,0.595,0.689,0.023,-5.3,False,0.81,39,2161,,Secretly Canadian
+TRK00194,Sacred Winter,Ember Kade ft. Ember Fox,Hip-Hop,2023,2:33,153,133,F# Minor,0.759,0.386,0.452,0.461,0.252,-7.0,False,0.91,60,2398,,Interscope
+TRK00195,Velvet Blues,The Hollow Kings,Pop,2024,2:35,155,61,C# Major,0.6,0.399,0.424,0.336,0.159,-3.2,True,4.28,152,12287,11.0,AWAL
+TRK00196,Midnight Summer,Marcus Monroe ft. Devon Blaine,Latin,2018,4:18,258,128,F# Minor,0.389,0.085,0.691,0.764,0.182,-6.6,False,0.53,129,744,16.0,Beggars Group
+TRK00197,Lonely Nights,Juno Mack ft. Axel Calloway,Hip-Hop,2023,2:50,170,96,C Major,0.849,0.594,0.343,0.246,0.177,-9.9,False,2.73,175,2813,,Universal Music
+TRK00198,Lonely Eyes Still,Sage Monroe,Electronic,2017,3:08,188,138,B Minor,0.752,0.602,0.674,0.397,0.117,-6.8,False,1.77,71,5061,,Dead Oceans
+TRK00199,Bitter Mind Now,Devon Steele,Electronic,2020,4:47,287,148,G# Major,0.535,0.424,0.194,0.545,0.194,-12.8,False,2.82,132,5533,40.0,Jagjaguwar
+TRK00200,Neon Nights,Kai Stone ft. Zoe Mack,Rock,2021,2:59,179,136,D# Major,0.991,0.715,0.568,0.279,0.162,-15.6,True,18.21,1525,30349,,AWAL
+TRK00201,Distant Lies,Cole Mack,Pop,2016,3:40,220,117,D Major,0.71,0.2,0.61,0.429,0.167,-5.2,False,1.0,119,1528,108.0,Sony Music
+TRK00202,Ghostly Lies,Cole Drake ft. Finn Ashford,Pop,2017,4:07,247,131,B Minor,0.429,0.466,0.408,0.83,0.09,-3.9,False,12.69,580,9033,,Sony Music
+TRK00203,Reckless Chains,Zoe Adler,Rock,2019,4:06,246,78,A# Major,0.507,0.11,0.452,0.713,0.076,-7.2,False,1.97,117,1990,,Dead Oceans
+TRK00204,Lost Roads,Asha Drake,Rock,2017,2:36,156,76,A Major,0.689,0.426,0.74,0.353,0.102,-8.9,False,2.29,87,2814,6.0,Warner Music
+TRK00205,Quiet Waves,Crater Lake,R&B,2024,3:00,180,112,G Minor,0.642,0.504,0.115,0.65,0.045,-12.2,True,7.77,198,14594,,Dead Oceans
+TRK00206,Ghostly Days,Skye Holt,Electronic,2019,3:38,218,134,A Minor,0.888,0.627,0.514,0.328,0.2,-3.4,False,2.9,209,5196,200.0,Secretly Canadian
+TRK00207,Cloudy Night,Kai Pierce,Country,2021,4:40,280,123,C# Minor,0.345,0.045,0.695,0.744,0.024,-5.8,False,1.31,116,2432,,Concord
+TRK00208,Burning Rain,The Drift,Latin,2024,2:58,178,87,G# Minor,0.649,0.268,0.625,0.583,0.055,-6.5,False,2.62,209,1810,,Warner Music
+TRK00209,Golden Heart,Lila Stone,R&B,2021,3:08,188,91,C Major,0.738,0.52,0.276,0.285,0.08,-7.5,False,0.41,44,215,,Big Machine
+TRK00210,Velvet Dreams,Lyra Hartley ft. Axel Lowe,Pop,2020,3:43,223,151,B Minor,0.227,0.219,0.522,0.653,0.12,-9.1,False,6.82,275,11306,,Sony Music
+TRK00211,Bitter Memories,Vera Reid,Hip-Hop,2024,3:51,231,128,D Major,0.824,0.381,0.396,0.344,0.41700000000000004,-11.4,True,0.08,34,78,,Secretly Canadian
+TRK00212,Silver Days,Axel Lowe,Electronic,2018,3:53,233,108,A# Minor,0.466,0.358,0.506,0.554,0.27,-6.6,False,13.06,535,35643,38.0,Concord
+TRK00213,Timeless Winter,Indigo Calloway,Electronic,2018,2:55,175,107,D# Minor,0.88,0.36,0.393,0.545,0.087,-9.4,False,9.16,564,14447,26.0,Interscope
+TRK00214,Velvet Stars,Rhys Hartley ft. Finn Mack,Pop,2021,3:07,187,109,A# Major,0.386,0.338,0.532,0.599,0.046,-9.0,False,33.51,2311,46243,,Universal Music
+TRK00215,Restless Lies,Cleo Kade,Rock,2020,3:35,215,132,C Major,1.0,0.526,0.571,0.205,0.073,-1.5,False,70.93,3574,131930,,Big Machine
+TRK00216,Wild Night,Dex Solano,Hip-Hop,2023,4:15,255,128,C# Minor,0.744,0.495,0.39,0.428,0.192,-7.7,True,14.25,1045,29518,,Dead Oceans
+TRK00217,Midnight Blues,Velvet Riot,Hip-Hop,2016,3:18,198,127,E Minor,0.419,0.26,0.517,0.813,0.372,-16.1,False,1.8,11,1268,,A24 Sounds
+TRK00218,Restless Stars Tonight,Dex Adler,Indie,2022,3:26,206,77,C# Minor,0.528,0.506,0.145,0.458,0.035,-9.4,False,70.77,5150,166546,,Concord
+TRK00219,Bitter Summer,Rhys Monroe,Hip-Hop,2022,2:48,168,126,G# Minor,0.434,0.316,0.158,0.459,0.21299999999999997,-11.0,False,0.89,1,751,10.0,Jagjaguwar
+TRK00220,Bitter Summer Tonight,Jace Fox,Rock,2024,4:38,278,137,D# Minor,0.69,0.365,0.409,0.615,0.301,-8.0,False,0.36,1,528,,Sub Pop
+TRK00221,Midnight Lights Again,The Drift,Rock,2017,3:33,213,85,F Major,0.973,0.683,0.509,0.231,0.095,-12.5,False,45.52,2001,63371,23.0,Sony Music
+TRK00222,Sweet Tears Again,Marcus Voss,Rock,2019,4:08,248,75,G Minor,0.538,0.65,0.892,0.667,0.035,-6.0,False,9.04,376,17383,7.0,Warner Music
+TRK00223,Ghostly Stars,Midnight Radius,Pop,2024,3:28,208,124,A Major,0.679,0.545,0.587,0.56,0.063,-8.5,False,0.37,67,822,,Jagjaguwar
+TRK00224,Lost Memories Now,Cole Cruz ft. Cole Stone,Electronic,2022,3:30,210,134,D Minor,0.713,0.455,0.64,0.553,0.014,-9.2,False,0.72,74,1801,,Sub Pop
+TRK00225,Fearless Nights Forever,Midnight Radius,Hip-Hop,2015,2:30,150,145,F# Minor,0.546,0.238,0.283,0.518,0.23399999999999999,-7.0,False,8.3,335,15088,,Sony Music
+TRK00226,Sweet Stars,Juno Bane,Electronic,2016,2:05,125,148,G# Major,0.664,0.345,0.476,0.391,0.307,-7.8,False,1.32,57,1172,,Dead Oceans
+TRK00227,Faded Days,Lila Calloway ft. River Drake,Pop,2023,4:15,255,129,F Minor,0.603,0.487,0.519,0.278,0.032,-8.0,False,1.64,131,3673,70.0,Concord
+TRK00228,Lost Days Again,Midnight Radius,Latin,2021,3:30,210,74,A# Minor,0.358,0.109,0.398,0.594,0.026,-8.3,False,53.86,3363,91400,60.0,A24 Sounds
+TRK00229,Lost Mind Now,Juno Bane,R&B,2021,3:35,215,145,F Major,0.49,0.319,0.373,0.615,0.049,-7.6,False,68.21,2236,134532,,Interscope
+TRK00230,Neon Stars,Obsidian Coast,Hip-Hop,2024,2:40,160,143,D Minor,0.345,0.426,0.423,0.64,0.516,-6.3,True,5.13,187,8255,,Concord
+TRK00231,Velvet Time,Lila Adler ft. Cole Reid,Hip-Hop,2019,2:53,173,136,E Minor,0.715,0.486,0.659,0.291,0.9630000000000001,-6.7,False,3.4,149,5238,,Warner Music
+TRK00232,Wild Lies,Electric Fauna,Hip-Hop,2018,4:07,247,103,C Major,0.427,0.126,0.265,0.664,0.35100000000000003,-3.6,True,13.31,1004,29992,15.0,Interscope
+TRK00233,Silver Lies Away,Velvet Riot,R&B,2022,4:33,273,81,B Major,0.339,0.525,0.696,0.89,0.029,-9.4,False,2.02,39,3656,63.0,Jagjaguwar
+TRK00234,Reckless Echoes,Juno Cain ft. Marcus Quinn,Electronic,2024,3:03,183,92,C Major,0.583,0.626,0.511,0.527,0.081,-6.7,False,0.23,95,613,,Dead Oceans
+TRK00235,Electric World Always,Remy West,Electronic,2019,3:53,233,143,C Minor,0.824,0.606,0.385,0.205,0.344,-1.0,False,0.11,1,259,4.0,AWAL
+TRK00236,Golden Chains,Skye Voss,Indie,2022,3:34,214,72,D Major,0.613,0.577,0.347,0.662,0.064,-7.6,True,3.82,313,6458,,Dead Oceans
+TRK00237,Hollow Lies Now,Remy Voss,Rock,2017,3:22,202,71,G Major,1.0,0.613,0.567,0.107,0.092,-7.5,False,12.89,1024,13347,8.0,Universal Music
+TRK00238,Sweet Echoes,Dex Nova,Electronic,2018,4:37,277,81,G Minor,0.658,0.529,0.239,0.651,0.1,-11.9,False,4.2,222,2284,,Dead Oceans
+TRK00239,Faded Memories,Petra West ft. Rhys Monroe,Rock,2024,3:10,190,126,B Minor,0.512,0.274,0.537,0.559,0.024,-10.0,False,12.16,783,12324,,Sub Pop
+TRK00240,Wasted Dreams Forever,Cleo Ashford ft. Sage Ashford,Electronic,2017,4:14,254,135,B Minor,0.755,0.301,0.549,0.408,0.182,-7.9,True,13.37,1016,16086,18.0,Big Machine
+TRK00241,Frozen Dreams,Soren Quinn ft. Axel Bane,Rock,2015,3:41,221,128,C Minor,0.738,0.843,0.119,0.597,0.163,-5.6,True,24.58,1426,19548,,Sony Music
+TRK00242,Restless Bones,Nora Steele ft. Lila Laurent,R&B,2023,3:26,206,145,F# Major,0.55,0.161,0.576,0.398,0.017,-5.2,False,5.38,341,11689,,Beggars Group
+TRK00243,Timeless Fire,River Bane,Pop,2020,4:19,259,112,G Major,0.425,0.318,0.254,0.534,0.028,-6.4,False,5.95,142,7825,,Secretly Canadian
+TRK00244,Broken Nights Still,Mia Solis,Pop,2020,3:38,218,121,F# Minor,0.338,0.26,0.055,0.69,0.038,-4.7,True,3.96,199,2279,10.0,Big Machine
+TRK00245,Quiet Time,Theo Wren ft. Marcus West,Hip-Hop,2023,3:23,203,78,C Major,0.921,0.671,0.427,0.246,0.44699999999999995,-11.0,True,3.02,72,4808,,Warner Music
+TRK00246,Neon Blues Always,Luna Cruz ft. River Pierce,Country,2018,4:19,259,85,C Major,0.637,0.401,0.688,0.807,0.045,-5.8,False,0.53,1,1304,,Dead Oceans
+TRK00247,Fearless Heart Inside,Elijah Hartley,Rock,2022,4:14,254,127,D Minor,0.481,0.302,0.523,0.509,0.113,-7.5,False,19.27,529,26002,63.0,Sub Pop
+TRK00248,Fearless Rain,Remy Stone ft. Elijah Kade,Hip-Hop,2019,4:13,253,66,E Major,0.589,0.402,0.592,0.372,0.21299999999999997,-7.1,True,2.51,154,6917,,Concord
+TRK00249,Shattered Bones,Ghost Circuit,Hip-Hop,2017,1:30,90,106,G# Minor,0.729,0.541,0.645,0.304,0.261,-8.8,True,2.31,200,6079,6.0,Warner Music
+TRK00250,Burning Memories,Electric Fauna,Rock,2022,3:44,224,126,C# Minor,0.828,0.538,0.694,0.365,0.122,-10.8,False,2.08,158,5664,,Sub Pop
+TRK00251,Dreams,Axel Holt ft. Lila Mack,Indie,2019,3:35,215,96,D Minor,0.419,0.263,0.348,0.724,0.102,-11.8,False,0.72,31,1562,,AWAL
+TRK00252,Wasted Grace,The Pale Hours,Latin,2024,3:26,206,138,B Major,0.982,0.453,0.369,0.13,0.081,-6.4,True,3.8,252,9562,22.0,Dead Oceans
+TRK00253,Shattered Echoes,The Drift,Indie,2024,3:50,230,95,G# Major,0.558,0.645,0.373,0.556,0.107,-5.8,True,8.3,233,12221,2.0,Big Machine
+TRK00254,Distant Days,Luna Holt,Indie,2023,3:37,217,114,E Minor,0.625,0.481,0.368,0.733,0.098,-8.0,False,1.69,37,3773,,AWAL
+TRK00255,Fearless Memories Still,The Pale Hours,Pop,2019,3:53,233,103,C Minor,0.637,0.443,0.483,0.495,0.069,-7.6,False,15.94,1200,16892,,Jagjaguwar
+TRK00256,Bitter Eyes Forever,Petra Kade,Hip-Hop,2018,3:17,197,126,C# Major,0.387,0.164,0.77,0.729,0.17400000000000002,-10.0,False,2.55,235,2580,,Warner Music
+TRK00257,Burning Skies,Iron Lullaby,Electronic,2024,4:24,264,109,D Major,0.52,0.197,0.779,0.811,0.369,-5.7,False,0.58,1,1658,,AWAL
+TRK00258,Fearless Days,Vera Drake,Electronic,2021,3:57,237,154,E Minor,0.965,0.748,0.448,0.144,0.058,-7.3,False,24.92,996,46651,,Concord
+TRK00259,Lonely Nights Still,River Fox,Pop,2022,3:48,228,110,G# Major,0.576,0.352,0.277,0.448,0.245,-8.8,False,5.44,142,3694,,Interscope
+TRK00260,Faded Winter Together,Rhys Stone ft. Cleo Cruz,R&B,2023,3:46,226,115,F Major,0.353,0.316,0.423,0.661,0.047,-4.5,False,12.97,713,12882,10.0,A24 Sounds
+TRK00261,Blazing Bones,The Drift,Pop,2019,4:11,251,131,G# Major,0.662,0.241,0.541,0.407,0.157,-5.2,False,13.1,589,21658,,Universal Music
+TRK00262,Frozen Waves,Cole Solis,Hip-Hop,2017,4:06,246,108,A# Major,0.735,0.694,0.549,0.193,1.0,-12.9,False,1.2,43,3137,,Warner Music
+TRK00263,Neon Echoes,Theo Monroe,Hip-Hop,2022,3:23,203,84,G Major,0.718,0.593,0.544,0.442,0.189,-7.3,True,2.13,113,5835,,Sony Music
+TRK00264,Dark Waves,The Drift,Indie,2022,4:05,245,120,B Major,0.725,0.46,0.522,0.446,0.048,-10.9,False,16.11,946,12624,,Interscope
+TRK00265,Frozen Time,Ghost Circuit,R&B,2019,3:34,214,135,B Minor,0.396,0.323,0.511,0.661,0.058,-7.0,False,44.96,2723,29452,1.0,Secretly Canadian
+TRK00266,Lost Stars,Axel Pierce ft. Aria Solano,Rock,2022,4:40,280,79,F Major,0.649,0.526,0.851,0.51,0.081,-18.5,False,4.56,290,3667,12.0,Jagjaguwar
+TRK00267,Quiet Dreams,Electric Fauna,R&B,2023,4:09,249,145,E Major,0.491,0.132,0.845,0.638,0.106,-6.8,True,1.87,76,4073,16.0,Jagjaguwar
+TRK00268,Bitter Night,Lyra Drake,R&B,2020,3:03,183,128,F Major,0.433,0.516,0.439,0.496,0.08,-5.0,True,37.04,1652,67860,2.0,A24 Sounds
+TRK00269,Electric Lights,Ghost Circuit,Hip-Hop,2019,4:56,296,89,D# Minor,0.32,0.276,0.54,0.779,0.177,-7.9,True,1.83,79,4290,,Big Machine
+TRK00270,Dark Fire,Rhys Holt,R&B,2023,2:07,127,87,B Major,0.108,0.0,0.391,0.981,0.392,-11.6,False,6.47,301,12832,,A24 Sounds
+TRK00271,Midnight Heart,Iron Lullaby,Pop,2023,3:51,231,123,G# Major,0.785,0.357,0.8,0.18,0.07,-1.0,True,2.42,287,1790,17.0,Universal Music
+TRK00272,Fearless Fire,Skye Adler ft. Skye Stone,Rock,2024,3:01,181,151,G Minor,0.848,0.689,0.759,0.497,0.05,-3.5,False,6.02,216,6887,7.0,Sony Music
+TRK00273,Broken Summer Tonight,Velvet Riot,Pop,2017,4:39,279,131,A# Minor,0.488,0.347,0.223,0.461,0.16,-9.4,True,1.2,28,1594,67.0,Dead Oceans
+TRK00274,Wasted Love Still,Luna Nova ft. Petra Vale,Hip-Hop,2024,3:37,217,134,A Minor,0.836,0.611,0.677,0.195,0.486,-8.4,False,2.61,77,5922,,AWAL
+TRK00275,Broken Tears,Electric Fauna,Rock,2023,2:57,177,77,G Major,0.686,0.45,0.74,0.475,0.254,-14.4,False,1.87,99,3725,,A24 Sounds
+TRK00276,Timeless Lies,Skye Reid,Pop,2022,3:17,197,81,E Major,0.656,0.286,0.801,0.539,0.384,-5.8,True,9.93,619,28469,11.0,Warner Music
+TRK00277,Fearless Bones Again,Luna Nova,Rock,2019,3:00,180,122,E Major,0.803,0.593,0.336,0.451,0.108,-12.3,False,5.12,146,4422,,Sony Music
+TRK00278,Lost Night,River Pierce ft. Juno Fox,Electronic,2015,3:15,195,86,D# Minor,0.726,0.444,0.594,0.487,0.065,-5.2,False,12.73,621,36236,,Interscope
+TRK00279,Wasted Memories,Static Bloom,Electronic,2021,3:15,195,134,D# Major,0.841,0.544,0.38,0.265,0.018,-3.9,False,1.43,130,1502,,A24 Sounds
+TRK00280,Distant Night,Marcus Laurent,Pop,2019,2:58,178,125,G# Major,0.833,0.874,0.409,0.347,0.039,-7.7,False,3.16,168,4293,,Dead Oceans
+TRK00281,Fearless Blues,Marcus Steele,Pop,2019,3:37,217,88,C# Major,0.31,0.323,0.416,0.714,0.097,-11.2,False,9.32,699,5465,,Dead Oceans
+TRK00282,Crimson Stars,Electric Fauna,Hip-Hop,2024,3:42,222,86,A Minor,0.354,0.36,0.24,0.738,0.096,-3.1,False,12.95,792,16075,10.0,Warner Music
+TRK00283,Crimson Tears,Sage Voss ft. River Kade,Indie,2017,2:49,169,127,G# Major,0.325,0.592,0.526,0.748,0.023,-7.5,False,0.63,73,629,,A24 Sounds
+TRK00284,Crimson World,Skye Nova,Indie,2024,2:24,144,90,F# Major,0.619,0.456,0.576,0.444,0.087,-7.2,False,6.41,352,6686,,Secretly Canadian
+TRK00285,Burning Fire Tonight,Sage Solis,Hip-Hop,2021,3:39,219,130,D# Minor,0.495,0.339,0.536,0.562,0.45899999999999996,-10.8,True,1.45,89,2799,1.0,Universal Music
+TRK00286,Frozen Blues,Ghost Circuit,Electronic,2023,3:47,227,95,A Minor,1.0,0.555,0.656,0.0,0.067,-6.8,False,13.76,922,33739,,Secretly Canadian
+TRK00287,Broken Eyes,Echo Chamber,Rock,2019,3:55,235,121,F# Minor,0.88,0.509,0.75,0.396,0.168,-8.2,False,46.46,1649,109756,,Sony Music
+TRK00288,Lost Rain Forever,Ghost Circuit,Latin,2022,3:48,228,141,A# Minor,0.817,0.244,0.152,0.382,0.134,-12.1,False,0.14,42,360,,Warner Music
+TRK00289,Lonely Silence,Aria Voss,Pop,2021,4:27,267,75,F# Major,0.547,0.466,0.309,0.286,0.206,-2.8,False,1.78,31,4144,,Concord
+TRK00290,Shattered Winter,Ember Hartley,Rock,2024,4:05,245,131,B Minor,0.828,0.361,0.295,0.433,0.467,-1.3,False,5.98,206,17588,35.0,Sony Music
+TRK00291,Distant Memories,Petra Shaw ft. Axel West,Electronic,2018,5:09,309,75,E Major,0.874,0.694,0.798,0.294,0.664,-3.9,True,4.1,330,2239,,Beggars Group
+TRK00292,Velvet Lights,Sage Drake,Hip-Hop,2018,5:25,325,140,B Minor,0.862,0.554,0.576,0.198,0.44099999999999995,-4.5,False,13.96,607,41457,86.0,Warner Music
+TRK00293,Midnight Time,Axel Mack ft. River Solis,Pop,2024,2:20,140,127,F Major,0.728,0.491,0.626,0.295,0.057,-1.3,False,4.7,202,7165,138.0,A24 Sounds
+TRK00294,Faded Silence,Midnight Radius,Pop,2017,2:04,124,127,A Minor,0.586,0.375,0.492,0.449,0.086,-11.2,False,2.06,74,3490,,Big Machine
+TRK00295,Hollow Memories,Dex Solis,Rock,2022,3:27,207,62,A# Minor,1.0,0.844,0.196,0.088,0.289,-11.2,False,1.11,1,2157,,Secretly Canadian
+TRK00296,Sweet Roads Inside,Vera Laurent,Electronic,2016,3:46,226,119,F# Major,0.468,0.474,0.609,0.53,0.04,-9.0,False,0.87,118,453,,Concord
+TRK00297,Frozen Tears Again,Rhys Nova ft. Remy Blaine,Electronic,2016,3:24,204,123,G Major,1.0,0.646,0.518,0.404,0.261,-6.5,False,1.55,59,1479,16.0,A24 Sounds
+TRK00298,Broken Time Tonight,Rhys Quinn ft. Cole Reid,Pop,2022,3:54,234,110,D Minor,0.6,0.264,0.245,0.565,0.072,-8.5,True,2.01,55,3246,,Sony Music
+TRK00299,Shattered Rain,Zoe Holt,Indie,2021,3:17,197,146,E Major,0.28,0.311,0.415,1.0,0.098,-11.1,False,6.88,281,16675,10.0,A24 Sounds
+TRK00300,Lonely Days,Zoe Holt,Hip-Hop,2022,3:01,181,117,B Minor,0.567,0.232,0.302,0.573,0.129,-7.5,True,3.43,216,9176,12.0,Warner Music
+TRK00301,Velvet Night,Sage Solano,Latin,2021,3:06,186,105,F Major,0.801,0.303,0.627,0.429,0.028,-7.8,False,1.79,63,1556,,Jagjaguwar
+TRK00302,Sweet Tears Still,The Pale Hours,Pop,2023,3:19,199,83,C# Minor,0.454,0.365,0.448,0.531,0.066,-4.6,False,1.14,44,1319,,Warner Music
+TRK00303,Timeless Memories,Ghost Circuit,Indie,2024,3:59,239,135,G Minor,0.607,0.565,0.546,0.494,0.233,-7.3,False,1.7,33,3431,,Secretly Canadian
+TRK00304,Timeless Love,Ghost Circuit,Country,2019,3:09,189,118,A Major,0.342,0.166,0.587,0.717,0.047,-14.2,True,1.99,34,2790,,Sub Pop
+TRK00305,Electric Memories,The Drift,Indie,2019,3:16,196,133,G# Minor,0.389,0.309,0.283,0.763,0.298,-6.2,True,1.56,61,1941,4.0,A24 Sounds
+TRK00306,Quiet Days,Indigo Solano,R&B,2019,3:49,229,128,A Minor,0.619,0.344,0.239,0.499,0.052,-2.0,True,9.92,389,14466,16.0,Concord
+TRK00307,Wild Fire,Petra Laurent,Hip-Hop,2023,3:19,199,79,C Minor,0.6,0.491,0.198,0.562,0.10500000000000001,-7.4,True,24.99,1331,56327,,Beggars Group
+TRK00308,Sacred World Now,Indigo Laurent,Electronic,2020,4:09,249,80,B Minor,0.602,0.545,0.641,0.556,0.101,-4.0,False,0.9,1,896,,Big Machine
+TRK00309,Hollow Love Now,Elijah Steele ft. Mia Adler,Rock,2022,2:52,172,135,F# Minor,0.663,0.394,0.761,0.433,0.141,-9.3,True,17.99,591,11779,,Universal Music
+TRK00310,Bitter Blues,Ember Hartley ft. Cole Cross,Hip-Hop,2021,2:44,164,116,F# Major,0.846,0.406,0.56,0.275,0.28500000000000003,-5.5,True,10.29,608,5233,,Jagjaguwar
+TRK00311,Sacred Echoes,Juno Bane,Latin,2022,3:39,219,111,B Major,0.778,0.302,0.346,0.297,0.093,-10.1,False,5.31,289,9646,,Universal Music
+TRK00312,Reckless Winter,Iron Lullaby,Hip-Hop,2023,3:42,222,145,A Major,0.695,0.581,0.652,0.574,0.8879999999999999,-8.4,True,30.71,1352,34550,5.0,Jagjaguwar
+TRK00313,Silver Nights,Finn Adler,Hip-Hop,2021,2:54,174,80,D Minor,0.787,0.352,0.143,0.334,0.267,-8.3,False,3.35,197,6378,,Universal Music
+TRK00314,Distant Bones Inside,Ember Quinn,Country,2021,4:18,258,87,G Minor,0.681,0.495,0.439,0.495,0.056,-5.8,True,7.05,443,19052,,AWAL
+TRK00315,Electric Summer,Marcus Ashford,Hip-Hop,2019,4:40,280,123,D# Major,0.488,0.426,0.745,0.591,0.099,-10.4,False,4.86,259,5997,,Sony Music
+TRK00316,Sacred Bones,Kai Nova ft. Elijah Stone,Pop,2021,3:03,183,163,D# Minor,0.745,0.414,0.372,0.532,0.227,-12.6,False,4.46,373,4276,,Secretly Canadian
+TRK00317,Blazing Eyes,Solar Hymn,Hip-Hop,2019,4:24,264,109,E Major,0.674,0.415,0.567,0.222,0.17400000000000002,-5.9,True,7.51,483,3784,,Sony Music
+TRK00318,Dark Nights,Rhys Ashford,R&B,2023,1:56,116,83,A# Minor,0.762,0.635,0.889,0.427,0.063,-6.0,False,4.48,243,13231,17.0,Secretly Canadian
+TRK00319,Sacred Eyes,Ember Solano,Indie,2020,4:08,248,112,G# Minor,0.779,0.393,0.275,0.226,0.19,-7.1,False,7.62,312,13655,22.0,Secretly Canadian
+TRK00320,Silver Time,Lyra Pierce,Pop,2017,2:54,174,89,E Minor,0.55,0.23,0.825,0.607,0.425,-4.2,False,1.71,1,4283,63.0,Sony Music
+TRK00321,Frozen Tears,Petra Laurent,Electronic,2018,4:04,244,124,B Minor,0.434,0.249,0.432,0.635,0.1,-8.2,False,1.79,38,4734,7.0,Secretly Canadian
+TRK00322,Broken Days,Sage Solano ft. Skye Wren,Rock,2021,2:50,170,78,D# Minor,0.786,0.69,0.365,0.194,0.074,-6.5,False,1.74,138,5199,19.0,Warner Music
+TRK00323,Cloudy Time,Solar Hymn,Electronic,2024,3:24,204,113,D Major,0.739,0.706,0.223,0.449,0.082,-8.7,False,2.64,243,6993,28.0,Interscope
+TRK00324,Dark Grace,Skye Reid,Electronic,2019,2:56,176,103,F Minor,0.91,0.578,0.579,0.299,0.057,-8.4,True,15.44,650,19070,,Beggars Group
+TRK00325,Lost Heart,The Drift,Country,2019,3:19,199,78,F Major,0.323,0.11,0.27,0.714,0.062,-6.3,False,2.27,161,4337,47.0,Secretly Canadian
+TRK00326,Sweet Roads,Luna Mack,Hip-Hop,2020,4:37,277,147,D# Minor,0.807,0.674,0.184,0.342,0.186,-1.0,True,9.71,355,28225,,Big Machine
+TRK00327,Silver Soul,Ember Laurent,Hip-Hop,2024,3:23,203,137,D# Minor,0.886,0.342,0.357,0.311,0.51,-4.9,False,5.99,265,12479,,Universal Music
+TRK00328,Sacred Time,Remy Cain,Rock,2023,4:47,287,138,D# Major,0.715,0.499,0.636,0.569,0.076,-5.6,False,2.38,261,5765,91.0,Dead Oceans
+TRK00329,Blazing Shadows,Aria Drake,Hip-Hop,2017,3:12,192,87,C Major,0.894,0.575,0.404,0.247,0.732,-4.8,True,22.46,1495,62139,39.0,Sony Music
+TRK00330,Fearless Silence Inside,Electric Fauna,Rock,2022,4:24,264,78,A# Major,0.831,0.721,0.359,0.457,0.075,-15.7,False,10.93,519,22233,7.0,Jagjaguwar
+TRK00331,Golden Stars,Theo Reid,Pop,2023,2:25,145,123,G# Minor,0.895,0.777,0.7,0.28,0.061,-6.4,False,4.23,215,9437,,A24 Sounds
+TRK00332,Crimson Lights Away,Ghost Circuit,Pop,2023,3:16,196,86,C Major,0.625,0.274,0.163,0.655,0.228,-4.3,False,3.8,159,7488,15.0,Interscope
+TRK00333,Burning Memories Still,Aria Solano,Country,2021,3:07,187,126,B Minor,0.74,0.504,0.723,0.38,0.084,-7.2,False,4.72,323,6355,,Beggars Group
+TRK00334,Midnight Lies,Midnight Radius,Pop,2023,4:25,265,89,G Major,0.665,0.352,0.501,0.388,0.074,-7.7,False,0.58,6,650,,Secretly Canadian
+TRK00335,Frozen Blues Tonight,The Drift,Electronic,2022,3:34,214,146,A Minor,0.905,0.547,0.446,0.144,0.084,-10.8,False,1.44,116,3000,,Secretly Canadian
+TRK00336,Timeless Stars,Elijah Ashford ft. Juno Voss,R&B,2018,2:08,128,147,D# Minor,0.531,0.432,0.383,0.571,0.265,-9.0,False,7.51,326,22175,,Sub Pop
+TRK00337,Timeless Blues,Remy Voss,Pop,2016,2:37,157,115,C Major,0.674,0.391,0.542,0.366,0.105,-10.4,False,0.52,64,1450,,Secretly Canadian
+TRK00338,Frozen Echoes,Vera Pierce,Pop,2020,2:49,169,150,D Minor,0.916,0.623,0.312,0.436,0.223,-4.0,True,1.57,98,1608,,Secretly Canadian
+TRK00339,Golden Waves Together,Petra Ashford,Hip-Hop,2016,4:02,242,84,G# Major,0.502,0.46,0.707,0.494,0.20400000000000001,-2.2,False,2.45,55,6386,,Sub Pop
+TRK00340,Blazing Nights,Axel Laurent,Rock,2020,3:58,238,147,A# Minor,0.557,0.574,0.131,0.472,0.196,-1.0,False,181.23,13913,100178,11.0,Sub Pop
+TRK00341,Sweet Memories Always,Soren Fox,Hip-Hop,2023,3:16,196,83,F Major,0.953,0.66,0.335,0.307,0.29700000000000004,-10.5,False,10.13,446,19992,,AWAL
+TRK00342,Lonely Echoes,Neon Static,Electronic,2023,3:06,186,113,F Minor,0.88,0.588,0.436,0.438,0.166,-9.8,True,17.58,656,49678,,Dead Oceans
+TRK00343,Shattered Eyes,Rhys Calloway,Pop,2015,3:54,234,113,G Major,0.642,0.262,0.591,0.574,0.178,-10.1,False,1.42,118,4115,,AWAL
+TRK00344,Wild Love,Sage Hartley ft. Finn Bane,Pop,2016,2:44,164,109,C# Minor,0.178,0.338,0.833,0.985,0.039,-11.1,True,6.53,421,13109,,Universal Music
+TRK00345,Velvet Love,Devon Adler,Pop,2022,3:44,224,135,G# Major,0.524,0.41,0.214,0.571,0.087,-11.0,False,0.43,24,893,,Sub Pop
+TRK00346,Hollow Rain,Sage West ft. Aria Drake,Hip-Hop,2021,3:41,221,110,G Minor,0.798,0.538,0.263,0.354,0.5309999999999999,-9.3,False,2.72,124,4011,,Universal Music
+TRK00347,Neon Soul,Kai Lowe,Hip-Hop,2017,3:17,197,87,F# Major,0.408,0.277,0.391,0.915,0.603,-4.4,True,7.9,566,18241,,Sony Music
+TRK00348,Fearless World,Crater Lake,Country,2023,3:42,222,90,D# Major,0.828,0.589,0.51,0.54,0.224,-10.0,False,0.67,1,746,,Secretly Canadian
+TRK00349,Faded Skies Forever,Theo Calloway,Pop,2018,3:31,211,144,A# Minor,0.479,0.419,0.504,0.703,0.089,-3.8,False,6.86,416,4010,,Warner Music
+TRK00350,Cloudy Stars,Devon Reid,Rock,2016,3:46,226,124,A# Major,0.73,0.6,0.506,0.549,0.281,-2.7,False,7.57,337,19593,,Concord
+TRK00351,Quiet Grace,Petra Steele,Rock,2023,2:36,156,83,D# Major,0.379,0.472,0.567,0.8,0.049,-6.5,False,1.93,181,1256,,Concord
+TRK00352,Golden Fire,Luna Calloway,Electronic,2022,3:50,230,113,A Minor,0.694,0.485,0.546,0.3,0.025,-3.2,False,1.42,67,3069,,Big Machine
+TRK00353,Distant Heart,Soren Cruz,Electronic,2020,4:06,246,105,G Major,0.689,0.693,0.345,0.444,0.066,-12.3,False,1.64,158,2611,1.0,A24 Sounds
+TRK00354,Burning Waves,Devon Adler ft. Mia Laurent,Pop,2022,3:39,219,132,G# Minor,0.267,0.322,0.172,0.966,0.214,-9.5,False,2.68,110,1629,,Big Machine
+TRK00355,Burning Waves Away,Luna Hartley ft. Nora Cain,Electronic,2024,3:50,230,84,G# Major,0.811,0.519,0.456,0.438,0.034,-6.8,True,2.81,122,2527,,Jagjaguwar
+TRK00356,Blazing Grace,Crater Lake,Hip-Hop,2015,3:23,203,129,A# Minor,0.542,0.119,0.589,0.559,0.07500000000000001,-6.7,False,7.87,318,5916,38.0,Beggars Group
+TRK00357,Blazing Rain,The Drift,R&B,2022,4:01,241,130,A Minor,0.447,0.303,0.677,0.823,0.021,-2.5,False,2.1,128,2175,51.0,Big Machine
+TRK00358,Faded Days Always,Elijah Laurent,Pop,2018,3:29,209,85,D# Major,0.705,0.676,0.501,0.48,0.148,-11.0,False,33.04,1197,68993,48.0,Universal Music
+TRK00359,Blazing World,Mia Reid,Electronic,2021,2:43,163,78,D Major,0.939,0.502,0.305,0.339,0.026,-9.4,False,33.23,1961,64019,66.0,Dead Oceans
+TRK00360,Sweet Mind,Neon Static,Electronic,2020,3:58,238,135,G# Minor,0.96,0.636,0.621,0.277,0.127,-7.8,False,5.65,330,8940,,A24 Sounds
+TRK00361,Lost Soul,The Hollow Kings,Electronic,2020,2:25,145,131,C Minor,0.884,0.598,0.15,0.358,0.063,-9.3,False,2.66,216,6936,,Concord
+TRK00362,Burning Tears,Velvet Riot,Pop,2018,3:38,218,132,D Major,0.757,0.624,0.725,0.468,0.044,-11.1,False,2.06,1,4908,,Sony Music
+TRK00363,Lonely Time,Jace West ft. Dex Holt,Electronic,2023,3:12,192,68,F# Major,0.555,0.306,0.714,0.712,0.037,-9.2,False,6.37,379,14057,,AWAL
+TRK00364,Sweet Waves,Crater Lake,R&B,2020,3:10,190,68,B Major,0.687,0.325,0.593,0.622,0.097,-8.4,True,7.88,310,15737,187.0,Concord
+TRK00365,Crimson Heart,Nora Vale,Rock,2024,3:34,214,132,C# Minor,0.629,0.489,0.165,0.443,0.045,-2.4,False,3.27,163,7325,,Secretly Canadian
+TRK00366,Wasted Soul,Crater Lake,Hip-Hop,2020,3:00,180,126,D# Minor,0.829,0.435,0.67,0.379,0.246,-11.1,True,2.49,109,2655,,Universal Music
+TRK00367,Timeless Mind,Dex Reid ft. Sage Calloway,Pop,2023,3:46,226,98,G# Major,0.439,0.028,0.719,0.801,0.113,-4.6,False,6.68,343,7679,,Universal Music
+TRK00368,Restless Summer Alone,Juno Cain,Hip-Hop,2021,3:29,209,91,F# Minor,0.963,0.884,0.546,0.214,0.402,-3.0,True,4.57,165,5690,3.0,Interscope
+TRK00369,Bitter Nights,Sage Quinn,R&B,2020,3:04,184,136,C# Minor,0.469,0.435,0.568,0.468,0.173,-9.3,True,1.98,96,4658,,Interscope
+TRK00370,Fearless Grace,Vera Holt ft. Remy Vale,Hip-Hop,2022,4:18,258,107,A# Minor,0.817,0.795,0.189,0.237,0.28200000000000003,-6.6,True,4.86,246,7682,,Sony Music
+TRK00371,Wasted Blues,Velvet Riot,Electronic,2023,3:35,215,122,C# Major,0.766,0.62,0.826,0.286,0.035,-5.5,False,1.92,195,5565,,Sub Pop
+TRK00372,Dark Eyes,Aria Kade ft. Sage Shaw,R&B,2021,3:51,231,134,A Major,0.332,0.311,0.531,0.679,0.119,-6.1,False,1.57,1,942,,AWAL
+TRK00373,Frozen World Forever,Lyra Adler,Electronic,2020,4:21,261,79,G Major,0.776,0.556,0.377,0.29,0.139,-7.2,False,4.13,196,6021,,Sub Pop
+TRK00374,Wild Blues,Cole Pierce,Electronic,2022,4:20,260,73,D Minor,0.631,0.384,0.376,0.619,0.071,-9.9,True,1.99,33,1764,,Dead Oceans
+TRK00375,Hollow Bones,Nora Monroe,Electronic,2022,3:49,229,114,D Major,0.606,0.466,0.37,0.482,0.065,-5.2,False,1.62,93,4116,33.0,Jagjaguwar
+TRK00376,Shattered Nights,Lyra Laurent ft. Juno Adler,Rock,2020,3:15,195,81,F# Major,0.739,0.403,0.586,0.56,0.595,-8.8,False,16.19,855,27507,,A24 Sounds
+TRK00377,Ghostly Echoes,Soren Cruz ft. Mia Ashford,Pop,2023,2:33,153,60,D Minor,0.846,0.4,0.352,0.188,0.029,-7.4,True,2.53,84,5186,13.0,Warner Music
+TRK00378,Silver Summer Inside,Cole Drake,Indie,2020,3:35,215,78,F# Minor,0.324,0.164,0.465,0.698,0.122,-6.9,True,45.67,2024,91105,,Beggars Group
+TRK00379,Broken Skies,Ember Cain,Latin,2021,4:09,249,133,C# Major,0.877,0.751,0.53,0.311,0.19,-4.5,True,9.44,520,6585,4.0,A24 Sounds
+TRK00380,Crimson Summer Forever,River Pierce ft. Indigo Blaine,Rock,2022,3:40,220,91,E Major,0.958,0.45,0.472,0.331,0.062,-1.0,False,1.44,18,3541,,Secretly Canadian
+TRK00381,Faded World,Lyra Bane,Country,2024,1:30,90,114,F Major,0.787,0.341,0.522,0.508,0.072,-10.1,False,19.16,1298,48952,,Dead Oceans
+TRK00382,Faded Blues Tonight,Dex Solis ft. Rhys Nova,Latin,2019,4:00,240,131,A# Major,0.844,0.631,0.82,0.26,0.06,-7.3,False,1.63,135,3290,,Warner Music
+TRK00383,Faded Bones Always,Ember Vale ft. Axel Calloway,Rock,2018,4:02,242,117,A Major,0.569,0.312,0.671,0.664,0.082,-12.7,True,53.54,1848,64374,,Concord
+TRK00384,Crimson Silence,Rhys Stone ft. Axel Ashford,R&B,2018,3:16,196,133,F Major,0.073,0.115,0.87,0.74,0.169,-2.3,False,5.52,273,12752,,Dead Oceans
+TRK00385,Bitter Love Forever,Cole Laurent,Electronic,2022,4:05,245,75,G# Major,1.0,0.789,0.185,0.305,0.07,-7.3,False,8.5,440,19139,,Big Machine
+TRK00386,Hollow Lights Still,Echo Chamber,Pop,2021,3:51,231,149,G# Minor,0.348,0.291,0.307,0.561,0.989,-8.5,False,4.35,333,12098,,Universal Music
+TRK00387,Broken Heart,Kai Blaine,Pop,2020,3:01,181,77,E Minor,0.747,0.397,0.572,0.456,0.057,-7.3,False,5.87,536,4656,,Universal Music
+TRK00388,Ghostly Tears,Paper Wolves,Rock,2018,4:15,255,77,G# Major,0.505,0.508,0.569,0.732,0.247,-7.1,True,3.06,212,8489,,Universal Music
+TRK00389,Sacred Mind,Lila Vale ft. Ember Fox,R&B,2024,2:39,159,72,D Minor,0.346,0.329,0.787,0.83,0.127,-10.1,True,1.27,1,3451,4.0,Big Machine
+TRK00390,Fearless Fire Alone,Aria Wren,Hip-Hop,2021,3:25,205,72,G# Major,0.419,0.276,0.366,0.468,0.27,-3.3,False,6.5,576,8084,1.0,Universal Music
+TRK00391,Ghostly Stars Now,Lyra Ashford ft. Theo Voss,R&B,2022,3:21,201,123,G# Minor,0.235,0.15,0.389,0.758,0.266,-5.2,False,15.91,1190,36441,,Dead Oceans
+TRK00392,Velvet Summer,Aria Monroe,Electronic,2017,2:56,176,120,C# Minor,0.675,0.491,0.613,0.546,0.023,-4.8,False,0.87,9,1008,,A24 Sounds
+TRK00393,Dark Lies,Velvet Riot,Electronic,2017,3:39,219,95,F# Minor,0.657,0.383,0.433,0.557,0.115,-9.9,False,30.34,1254,33002,,Secretly Canadian
+TRK00394,Frozen Night,Ember Stone,Hip-Hop,2016,4:17,257,121,C Minor,0.713,0.235,0.713,0.463,0.138,-10.1,False,8.9,593,18724,,Warner Music
+TRK00395,Reckless Heart Tonight,Lyra Solano,Rock,2020,4:14,254,118,F Major,0.954,0.725,0.891,0.0,0.058,-7.9,False,2.36,63,1475,,Warner Music
+TRK00396,Frozen Mind,Zoe Laurent,Pop,2021,3:54,234,89,A Major,0.449,0.389,0.352,0.785,0.056,-4.7,False,2.31,133,1712,,Warner Music
+TRK00397,Sweet Blues,River Monroe,Hip-Hop,2019,2:23,143,132,C Major,0.823,0.213,0.413,0.507,0.11399999999999999,-5.7,False,46.68,2179,100378,,Warner Music
+TRK00398,Midnight Rain,Nora Solis,Pop,2020,2:36,156,147,G# Major,0.745,0.556,0.164,0.424,0.022,-10.2,False,14.09,870,40574,200.0,Sub Pop
+TRK00399,Restless Echoes,Luna Cross,Pop,2015,3:33,213,111,B Minor,0.428,0.524,0.318,0.685,0.112,-5.2,False,17.85,1315,10443,45.0,Sony Music
+TRK00400,Distant Tears,Cole West,Pop,2020,3:26,206,72,B Major,0.473,0.15,0.209,0.682,0.078,-10.9,False,3.0,221,1671,,Jagjaguwar
+TRK00401,Reckless Bones,Soren Blaine ft. Cleo Fox,Rock,2017,3:08,188,74,C# Major,0.94,0.601,0.546,0.423,0.065,-9.8,False,8.43,678,5790,,Universal Music
+TRK00402,Bitter World,Luna Ashford ft. Cole Bane,Rock,2017,4:39,279,120,F# Minor,1.0,0.625,0.552,0.23,0.151,-6.9,False,6.45,342,3251,10.0,AWAL
+TRK00403,Lost Mind,Soren Cain ft. Lila Wren,Hip-Hop,2015,3:31,211,130,G# Minor,0.777,0.738,0.187,0.355,0.354,-11.6,False,3.23,193,9111,,Sub Pop
+TRK00404,Crimson Summer,Vera Ashford,Indie,2022,3:48,228,88,A Minor,0.215,0.297,0.706,0.874,0.066,-10.9,False,4.84,129,8155,,A24 Sounds
+TRK00405,Sweet Heart,Zoe Monroe ft. Lila Drake,Rock,2024,4:05,245,132,C Minor,0.61,0.274,0.576,0.511,0.942,-2.1,False,17.96,1030,40055,33.0,Warner Music
+TRK00406,Sweet Dreams Inside,Lila Monroe ft. Theo Nova,Country,2022,3:29,209,89,A Minor,0.863,0.609,0.859,0.31,0.185,-2.7,False,33.6,2453,51776,63.0,Secretly Canadian
+TRK00407,Reckless Lights,Iron Lullaby,Electronic,2017,5:05,305,124,A# Major,0.584,0.702,0.443,0.321,0.58,-1.0,False,2.95,296,8829,,Big Machine
+TRK00408,Silver Memories,Finn Vale,Pop,2024,2:51,171,76,F Minor,0.903,0.499,0.58,0.34,0.059,-5.9,False,0.77,55,1308,42.0,Universal Music
+TRK00409,Shattered Tears,Ghost Circuit,Country,2024,3:04,184,147,D Major,0.514,0.333,0.442,0.729,0.1,-5.2,False,35.93,1329,102334,8.0,Concord
+TRK00410,Electric Shadows Tonight,Petra Steele ft. Skye Nova,Indie,2021,2:51,171,65,C# Major,0.652,0.496,0.446,0.601,0.03,-8.0,False,35.98,1420,76422,,Sub Pop
+TRK00411,Golden Summer Again,Asha Voss ft. Devon Ashford,Electronic,2017,4:26,266,145,C Minor,1.0,0.565,0.966,0.314,0.063,-8.7,False,6.89,411,19769,,A24 Sounds
+TRK00412,Hollow Night,Midnight Radius,Rock,2023,3:57,237,149,A# Major,0.888,0.824,0.503,0.283,0.051,-4.4,True,43.4,2000,75422,,Sony Music
+TRK00413,Timeless Waves,Lila Hartley,Rock,2024,3:06,186,81,C Major,0.496,0.256,0.12,0.621,0.902,-2.7,False,6.49,245,17504,,Jagjaguwar
+TRK00414,Wild Stars,Midnight Radius,Rock,2023,2:54,174,119,F Major,0.664,0.237,0.342,0.612,0.047,-4.7,False,1.29,112,1721,,Sony Music
+TRK00415,Velvet World Together,Mia Nova,R&B,2022,4:20,260,148,G Minor,0.592,0.311,0.801,0.63,0.068,-10.4,False,0.76,20,1636,,AWAL
+TRK00416,Distant Skies Together,Crater Lake,Rock,2022,3:41,221,109,A# Minor,1.0,0.741,0.317,0.378,0.026,-6.1,False,0.75,47,1532,,Interscope
+TRK00417,Silver World,Vera Holt ft. Marcus Pierce,Pop,2024,4:21,261,130,A Major,0.376,0.133,0.608,0.618,0.126,-10.2,True,4.27,253,7331,44.0,Sony Music
+TRK00418,Faded Skies,Vera Bane ft. Cole Fox,Pop,2016,3:25,205,143,F# Minor,0.863,0.603,0.201,0.228,0.04,-8.6,False,2.22,29,3893,,Universal Music
+TRK00419,Reckless Eyes,Kai Shaw ft. Ember Nova,Pop,2017,3:46,226,73,C# Major,0.432,0.36,0.362,0.614,0.171,-1.8,True,1.93,72,1785,,Warner Music
+TRK00420,Sacred Waves,Juno Shaw,Hip-Hop,2023,3:38,218,96,F# Minor,0.64,0.247,0.486,0.375,0.06,-11.7,True,3.67,61,10147,38.0,Sony Music
+TRK00421,Lost Bones,Remy Solis,Hip-Hop,2017,3:03,183,90,D Major,0.642,0.338,0.706,0.328,0.22199999999999998,-1.0,False,12.5,718,20444,,Universal Music
+TRK00422,Sacred Silence,Dex Bane,Indie,2020,3:22,202,110,C Major,0.658,0.477,0.578,0.53,0.019,-5.6,False,2.04,105,1792,13.0,Concord
+TRK00423,Timeless Heart,Zoe Adler,Pop,2019,2:42,162,93,F# Minor,0.68,0.54,0.521,0.504,0.055,-9.1,False,1.63,88,3685,34.0,Warner Music
+TRK00424,Dark Skies Inside,Jace Voss,Hip-Hop,2019,3:46,226,85,A Minor,0.227,0.072,0.27,0.848,0.195,-7.3,False,2.21,155,5122,,Secretly Canadian
+TRK00425,Lost Days,Dex Mack,Pop,2015,3:56,236,146,D Major,0.578,0.397,0.456,0.58,0.051,-9.9,True,13.43,706,8229,34.0,Interscope
+TRK00426,Blazing Echoes,Mia Solis,Rock,2021,4:05,245,70,A# Major,0.865,0.522,0.491,0.132,0.055,-9.4,False,3.82,361,5088,7.0,Concord
+TRK00427,Faded Night,Ghost Circuit,Electronic,2020,3:52,232,112,A Minor,0.953,0.721,0.464,0.18,0.179,-7.2,False,5.98,375,11724,,AWAL
+TRK00428,Timeless Lights,The Drift,Rock,2021,3:22,202,106,C# Major,0.538,0.422,0.731,0.534,0.467,-8.7,False,31.47,1772,80373,,Universal Music
+TRK00429,Blazing Silence,Zoe Stone,Country,2019,4:26,266,126,G# Major,0.438,0.232,0.287,0.655,0.108,-10.8,True,166.71,7485,212807,,AWAL
+TRK00430,Hollow Nights Now,Obsidian Coast,Latin,2024,4:01,241,156,B Minor,0.569,0.437,0.266,0.37,0.041,-8.3,False,9.75,777,12179,11.0,Warner Music
+TRK00431,Wild Waves,Mia Holt,Indie,2022,4:20,260,108,G Major,0.686,0.388,0.473,0.34,0.086,-12.1,True,8.49,435,19878,,Beggars Group
+TRK00432,Bitter Dreams,Cole Kade,R&B,2024,4:22,262,129,D# Major,0.543,0.417,0.621,0.513,0.062,-12.0,False,0.91,76,953,,Sub Pop
+TRK00433,Distant Nights,Static Bloom,Hip-Hop,2020,3:22,202,82,C# Major,0.944,0.68,0.6,0.372,0.501,-12.0,False,6.71,434,18385,8.0,Sub Pop
+TRK00434,Faded Soul Always,Soren Steele ft. Cole West,Rock,2015,3:42,222,77,A# Major,0.964,0.959,0.678,0.26,0.103,-1.7,False,4.4,309,10894,55.0,Warner Music
+TRK00435,Reckless World,Solar Hymn,Hip-Hop,2023,3:56,236,111,F# Minor,0.271,0.129,0.77,0.906,0.069,-6.1,True,13.46,730,36781,,Dead Oceans
+TRK00436,Timeless Eyes,Kai Adler,R&B,2023,2:43,163,117,C Minor,0.241,0.137,0.351,0.793,0.198,-5.4,False,2.54,18,3516,,Big Machine
+TRK00437,Electric Blues,The Drift,Pop,2016,2:44,164,115,F# Major,0.356,0.141,0.282,0.715,0.178,-7.5,False,5.29,261,4836,10.0,Dead Oceans
+TRK00438,Distant Love,Nora Nova,Pop,2022,2:38,158,129,C# Minor,0.734,0.333,0.717,0.473,0.271,-5.7,False,9.22,602,18095,14.0,Secretly Canadian
+TRK00439,Sweet Memories,Nora Pierce ft. Remy Bane,Pop,2022,3:23,203,121,G Major,0.69,0.385,0.443,0.427,0.054,-3.4,True,49.56,2247,48317,,AWAL
+TRK00440,Sweet Bones,Kai Bane,Electronic,2017,3:14,194,121,E Major,0.778,0.599,0.449,0.303,0.104,-6.1,False,31.28,2473,36450,,Secretly Canadian
+TRK00441,Silver Night,Marcus Calloway,Electronic,2021,2:32,152,111,C Minor,0.944,0.717,0.578,0.066,0.032,-1.8,False,21.67,1617,32535,,Concord
+TRK00442,Neon Summer Again,Remy Laurent,Pop,2019,3:33,213,125,E Major,0.629,0.45,0.549,0.425,0.079,-7.6,False,10.65,302,17645,,Warner Music
+TRK00443,Lonely Soul,Skye Steele,Rock,2015,3:23,203,134,E Minor,0.902,0.545,0.912,0.379,0.113,-5.4,False,2.31,114,3016,11.0,Secretly Canadian
+TRK00444,Golden Rain Tonight,Cole Stone,Hip-Hop,2024,4:12,252,154,D# Major,0.778,0.437,0.59,0.529,0.14700000000000002,-5.0,True,10.91,780,13220,,Sony Music
+TRK00445,Golden Echoes,Midnight Radius,R&B,2021,4:43,283,125,D# Minor,0.395,0.128,0.246,0.591,0.108,-10.8,False,1.53,86,1708,,Jagjaguwar
+TRK00446,Fearless Winter,Ghost Circuit,Pop,2023,3:44,224,81,C Minor,0.713,0.385,0.858,0.222,0.094,-7.4,True,3.23,108,7187,,Universal Music
+TRK00447,Sweet Eyes Again,Nora Reid ft. Luna Calloway,Pop,2023,3:01,181,135,F# Major,0.634,0.231,0.693,0.604,0.057,-13.9,False,42.6,1714,53876,,Universal Music
+TRK00448,Quiet Mind,Marcus Cross,Electronic,2024,3:52,232,76,A Minor,1.0,0.84,0.501,0.208,0.251,-8.0,True,8.54,328,19095,,Beggars Group
+TRK00449,Distant Echoes Inside,Cleo Solano,Electronic,2020,3:27,207,136,C Major,0.595,0.644,0.626,0.362,0.068,-8.5,False,5.59,342,13176,,Sub Pop
+TRK00450,Fearless Mind,Electric Fauna,Indie,2020,3:18,198,90,C# Major,0.679,0.17,0.442,0.084,0.091,-8.7,False,6.6,523,15084,,Big Machine
+TRK00451,Wild Echoes,River Solis,Electronic,2019,2:54,174,134,G# Major,0.648,0.462,0.638,0.366,0.025,-8.9,False,3.66,220,10197,,Beggars Group
+TRK00452,Silver Soul Still,Devon Voss,Country,2022,3:09,189,122,E Minor,0.363,0.274,0.308,0.654,0.124,-5.7,False,0.25,1,721,7.0,Beggars Group
+TRK00453,Velvet Skies,Indigo Nova,Hip-Hop,2021,3:20,200,79,G Minor,0.575,0.403,0.446,0.402,0.168,-10.6,True,0.81,92,702,,Sony Music
+TRK00454,Midnight World,Dex Mack ft. Finn Lowe,Hip-Hop,2023,3:58,238,117,C# Minor,0.414,0.186,0.388,0.752,0.5309999999999999,-1.0,True,9.42,485,12259,,Dead Oceans
+TRK00455,Wasted Shadows Now,Soren Solano,Latin,2020,3:46,226,132,C Minor,0.691,0.592,0.588,0.35,0.029,-5.5,False,1.26,110,3111,,Concord
+TRK00456,Crimson Lies,Theo Monroe,Pop,2017,4:36,276,97,G Major,0.411,0.325,0.51,0.673,0.116,-10.3,False,3.56,142,8738,37.0,Sony Music
+TRK00457,Ghostly Soul,Cole Bane ft. Theo Solano,R&B,2024,3:53,233,112,A# Minor,0.432,0.426,0.224,0.939,0.014,-5.2,False,0.86,14,582,,Dead Oceans
+TRK00458,Bitter Tears Forever,Skye Holt,Pop,2023,3:43,223,121,C Minor,0.74,0.378,0.554,0.422,0.134,-4.0,False,1.66,145,4822,,Interscope
+TRK00459,Crimson Fire,Soren Drake,Rock,2020,3:15,195,138,D Minor,0.683,0.25,0.209,0.44,0.071,-6.2,False,4.13,224,10905,,Sony Music
+TRK00460,Neon Grace,The Hollow Kings,Pop,2022,2:48,168,129,A Minor,0.424,0.336,0.616,0.65,0.113,-11.0,False,13.96,763,38362,,Jagjaguwar
+TRK00461,Sweet Night Again,Lyra Quinn,Electronic,2021,3:05,185,118,A# Minor,0.527,0.208,0.61,0.659,0.051,-1.0,False,18.02,1219,18217,7.0,AWAL
+TRK00462,Blazing Night,Devon Ashford,R&B,2023,3:00,180,127,F# Major,0.318,0.354,0.309,0.811,0.038,-5.3,True,1.62,191,2838,,Dead Oceans
+TRK00463,Golden Lights Forever,Lyra Quinn ft. Mia Cruz,Pop,2020,1:50,110,69,F Minor,0.575,0.076,0.191,0.42,0.058,-11.9,False,6.19,471,9912,,Universal Music
+TRK00464,Neon Fire Always,Nora Solis,Pop,2021,2:49,169,139,D Minor,0.307,0.134,0.604,0.705,0.096,-6.8,False,0.66,17,924,71.0,Sub Pop
+TRK00465,Reckless Waves,Vera Quinn,Hip-Hop,2016,4:28,268,93,D Minor,0.868,0.478,0.666,0.226,0.39,-8.3,False,4.39,315,4690,12.0,Jagjaguwar
+TRK00466,Golden Night,Axel Nova ft. Theo Nova,Hip-Hop,2018,3:41,221,139,G Major,0.929,0.557,0.337,0.223,0.315,-7.5,False,14.22,888,12073,,Warner Music
+TRK00467,Timeless Soul,Asha West,Hip-Hop,2023,3:13,193,144,F Major,0.486,0.352,0.079,0.83,0.11699999999999999,-11.7,True,3.87,323,10357,,Interscope
+TRK00468,Lonely Winter,Ghost Circuit,Country,2020,3:42,222,110,E Minor,0.579,0.432,0.59,0.611,0.357,-7.3,False,23.0,1124,42000,,AWAL
+TRK00469,Cloudy Waves,Dex Laurent,Pop,2015,2:13,133,87,C Minor,0.429,0.368,0.259,0.647,0.107,-10.4,False,12.04,343,24104,14.0,Universal Music
+TRK00470,Sacred Nights Alone,Luna Ashford,Hip-Hop,2018,3:38,218,81,G# Minor,0.672,0.542,0.217,0.612,0.15000000000000002,-8.7,False,5.63,371,6497,34.0,Warner Music
+TRK00471,Timeless Tears Alone,Ghost Circuit,Rock,2020,4:16,256,96,D# Minor,0.837,0.52,0.397,0.353,0.115,-6.1,False,3.01,161,8541,,Sony Music
+TRK00472,Sacred Tears,Remy Steele,Hip-Hop,2022,3:22,202,113,D# Minor,0.488,0.612,0.429,0.413,0.30300000000000005,-9.2,True,2.1,85,5965,36.0,AWAL
+TRK00473,Midnight Love,Luna Quinn,Hip-Hop,2020,2:20,140,124,C Minor,0.493,0.515,0.162,0.805,0.21299999999999997,-8.5,True,0.62,1,1350,,Sony Music
+TRK00474,Lonely Summer,Luna Blaine,Electronic,2023,3:11,191,77,G# Major,0.931,0.561,0.71,0.236,0.065,-4.6,False,0.78,66,1015,18.0,Concord
+TRK00475,Golden Nights,Ember Mack,Electronic,2023,4:16,256,70,G Major,1.0,0.631,0.475,0.0,0.18,-10.6,True,15.39,1024,16653,,AWAL
+TRK00476,Burning Time,Cole Cross,R&B,2020,3:37,217,81,F Minor,0.463,0.254,0.342,0.438,0.327,-9.8,False,29.75,1899,59148,20.0,Concord
+TRK00477,Lost Summer,Cleo Ashford,Hip-Hop,2023,2:33,153,120,B Major,0.458,0.349,0.51,0.769,0.048,-11.9,True,1.04,1,2685,,A24 Sounds
+TRK00478,Distant Echoes,Ember Lowe,Electronic,2017,4:57,297,79,C Major,1.0,0.514,0.561,0.01,0.22,-10.4,False,4.48,93,13070,,Beggars Group
+TRK00479,Frozen Memories,Static Bloom,Indie,2020,2:39,159,116,B Minor,0.665,0.322,0.163,0.63,0.083,-7.0,False,0.54,55,362,17.0,AWAL
+TRK00480,Hollow Love,Petra Calloway,Indie,2017,3:18,198,124,C Major,0.5,0.022,0.403,0.61,0.099,-5.3,True,1.15,8,1535,,Beggars Group
+TRK00481,Wild Silence,Aria Cruz,Country,2016,2:48,168,120,A Minor,0.278,0.125,0.54,0.863,0.242,-10.3,False,5.71,332,8438,,Big Machine
+TRK00482,Broken Love,Luna Vale ft. Devon Hartley,Hip-Hop,2016,2:48,168,66,F# Major,0.572,0.521,0.524,0.512,0.03,-5.4,True,2.08,211,2958,,Dead Oceans
+TRK00483,Hollow Nights,Soren Kade,Latin,2017,3:10,190,86,D# Minor,0.722,0.448,0.358,0.485,0.158,-7.1,False,0.34,1,737,,Universal Music
+TRK00484,Faded Nights,The Drift,R&B,2023,3:51,231,92,C# Major,0.653,0.411,0.546,0.516,0.229,-12.3,False,39.43,1673,73655,,AWAL
+TRK00485,Blazing Summer,River Quinn,R&B,2021,4:16,256,130,F Minor,0.457,0.336,0.758,0.63,0.047,-6.9,False,3.92,196,10695,,Sub Pop
+TRK00486,Midnight Stars,Static Bloom,Electronic,2024,3:12,192,155,A Minor,0.826,0.397,0.629,0.211,0.027,-3.3,True,1.01,49,1066,,Interscope
+TRK00487,Golden Blues,Cleo Voss ft. Marcus Lowe,Latin,2021,2:49,169,93,F Major,0.748,0.49,0.51,0.445,0.305,-14.1,False,4.94,362,7401,,Secretly Canadian
+TRK00488,Cloudy Memories,Obsidian Coast,Rock,2022,3:45,225,86,C Major,0.461,0.424,0.509,0.413,0.02,-1.0,False,3.78,81,7003,,Jagjaguwar
+TRK00489,Distant Stars,Luna Reid,R&B,2018,3:46,226,74,D Major,0.678,0.484,0.361,0.569,0.115,-9.6,False,7.12,391,18098,,Sub Pop
+TRK00490,Electric Mind Tonight,Jace Mack,Electronic,2021,3:36,216,81,G# Major,0.682,0.58,0.786,0.478,0.186,-13.3,False,2.69,255,6881,,Jagjaguwar
+TRK00491,Quiet Lights,Static Bloom,R&B,2020,3:37,217,113,F# Major,0.3,0.372,0.626,0.816,0.113,-7.0,True,6.26,303,16579,40.0,AWAL
+TRK00492,Cloudy World Always,Cole Cross ft. Soren Lowe,R&B,2024,3:23,203,126,G Major,0.471,0.399,0.284,0.309,0.129,-4.6,False,14.46,892,25996,,Big Machine
+TRK00493,Crimson Echoes,River Calloway,Pop,2024,3:31,211,116,G# Minor,0.567,0.269,0.576,0.411,0.066,-8.5,False,0.76,73,839,,Universal Music
+TRK00494,Quiet Tears,Iron Lullaby,Hip-Hop,2018,3:20,200,133,D# Major,0.731,0.427,0.529,0.355,0.357,-6.4,True,1.67,107,3867,,Sony Music
+TRK00495,Blazing Echoes Tonight,Solar Hymn,Hip-Hop,2022,4:08,248,60,A Major,0.643,0.688,0.727,0.566,0.14100000000000001,-1.0,False,12.5,952,36083,,Concord
+TRK00496,Velvet Night Now,The Hollow Kings,R&B,2022,4:52,292,111,D Major,0.478,0.355,0.497,0.504,0.052,-6.8,False,2.05,102,2487,2.0,Big Machine
+TRK00497,Velvet Grace,Axel Cross ft. Luna Bane,Electronic,2021,3:34,214,74,B Major,1.0,0.675,0.798,0.506,0.084,-1.0,True,3.76,248,3744,64.0,Jagjaguwar
+TRK00498,Dark Bones,Lyra Quinn,Indie,2017,3:27,207,97,D# Minor,0.742,0.362,0.733,0.375,0.024,-3.1,False,2.22,155,1234,25.0,Interscope
+TRK00499,Silver Blues Forever,Vera Pierce ft. Nora Solis,R&B,2022,3:37,217,119,E Minor,0.381,0.235,0.471,0.573,0.13,-7.3,False,2.47,204,5350,,Dead Oceans
+TRK00500,Dark Echoes Now,Juno Nova,Electronic,2023,3:02,182,90,F Minor,0.573,0.473,0.666,0.519,0.011,-6.5,False,2.22,3,4134,,Secretly Canadian
+TRK00501,Midnight Chains,Axel Hartley,Pop,2020,3:56,236,76,F Major,0.727,0.475,0.449,0.304,0.11,-8.6,True,0.81,1,677,,Warner Music
+TRK00502,Lonely Mind Again,Kai Calloway ft. Theo Cain,Electronic,2021,3:44,224,116,F Major,0.605,0.321,0.262,0.374,0.118,-6.6,False,7.59,435,7580,9.0,Big Machine
+TRK00503,Fearless Love Always,Echo Chamber,Indie,2017,3:11,191,131,B Major,0.278,0.14,0.725,0.899,0.043,-5.5,False,16.3,737,35135,15.0,AWAL
+TRK00504,Shattered Memories,Zoe Ashford,Electronic,2024,4:01,241,91,A Minor,0.784,0.676,0.399,0.434,0.031,-8.9,True,3.37,214,5358,,Sub Pop
+TRK00505,Reckless Bones Together,Petra Reid ft. Vera Monroe,Indie,2017,3:28,208,119,F# Major,0.777,0.599,0.613,0.44,0.059,-12.3,False,14.07,510,15238,18.0,Dead Oceans
+TRK00506,Dark Blues,Mia West ft. Luna Ashford,Latin,2018,2:50,170,130,F Minor,0.665,0.507,0.781,0.621,0.137,-2.9,False,2.17,26,4371,,Big Machine
+TRK00507,Frozen Shadows,The Drift,Hip-Hop,2019,3:40,220,142,D Minor,0.548,0.418,0.643,0.62,0.324,-4.1,True,2.02,149,1275,,Warner Music
+TRK00508,Faded Chains,Theo Pierce,R&B,2023,3:36,216,77,A Minor,0.774,0.337,0.622,0.253,0.034,-12.5,False,7.2,223,3891,,A24 Sounds
+TRK00509,Bitter Lies,Jace Kade,Rock,2022,4:03,243,133,C# Minor,0.92,0.636,0.565,0.349,0.089,-6.9,False,7.32,464,8434,,Sub Pop
+TRK00510,Electric Lies,Skye Drake,Rock,2015,3:59,239,89,D Minor,0.755,0.64,0.438,0.261,0.101,-3.9,False,3.5,163,4283,,Warner Music
+TRK00511,Cloudy Echoes,Obsidian Coast,Pop,2018,3:23,203,143,E Major,0.451,0.257,0.607,0.582,0.098,-4.3,False,9.92,722,7548,,Warner Music
+TRK00512,Quiet Nights,Finn Quinn ft. Nora Holt,Hip-Hop,2023,3:09,189,85,A# Major,0.369,0.377,0.221,0.699,0.11099999999999999,-9.9,True,0.79,58,621,99.0,Warner Music
+TRK00513,Sacred Heart,The Drift,Pop,2020,3:27,207,121,D Minor,0.602,0.468,0.32,0.501,0.093,-4.1,True,2.8,249,2574,,Sony Music
+TRK00514,Electric Nights,Juno West,Electronic,2015,3:41,221,102,G Minor,0.619,0.518,0.491,0.29,0.171,-7.4,False,14.21,612,32846,17.0,Sub Pop
+TRK00515,Hollow Tears Inside,Finn Voss,Pop,2024,3:45,225,162,C Major,0.558,0.37,0.511,0.437,0.126,-6.1,True,14.82,955,37278,,Sony Music
+TRK00516,Broken Nights,Remy Solis,Hip-Hop,2017,3:38,218,160,F Major,0.723,0.594,0.676,0.419,0.342,-10.7,True,12.14,507,11581,,AWAL
+TRK00517,Distant Roads,Lila Cruz ft. River Cruz,Rock,2021,3:24,204,107,F# Major,0.757,0.287,0.427,0.321,0.305,-20.0,False,15.75,887,33735,,Warner Music
+TRK00518,Quiet Echoes Again,Solar Hymn,Hip-Hop,2019,4:05,245,88,F Minor,0.911,0.597,0.583,0.406,0.28200000000000003,-10.2,False,2.55,118,2764,,Sony Music
+TRK00519,Sacred Memories,Devon West,Indie,2023,3:01,181,129,G# Major,0.57,0.47,0.566,0.7,0.042,-5.6,False,0.46,1,1242,,Dead Oceans
+TRK00520,Neon Tears Tonight,Zoe Solano,Rock,2023,5:01,301,124,D Major,0.993,0.687,0.549,0.071,0.042,-8.2,True,3.01,127,3528,22.0,Universal Music
+TRK00521,Neon Love,Elijah Solano,Pop,2020,3:56,236,68,E Major,0.682,0.597,0.803,0.462,0.094,-5.2,False,9.5,346,7832,,Dead Oceans
+TRK00522,Burning Love,Axel Laurent,Latin,2022,2:44,164,82,C# Minor,0.863,0.539,0.107,0.5,0.026,-3.6,False,11.87,368,18966,,Universal Music
+TRK00523,Silver Summer Forever,Remy Stone ft. Lila Voss,Indie,2024,3:34,214,109,A# Minor,0.476,0.233,0.19,0.603,0.064,-8.7,False,2.14,22,1895,,A24 Sounds
+TRK00524,Ghostly Waves Inside,Vera Fox,Electronic,2023,3:56,236,77,A Major,1.0,0.421,0.734,0.151,0.119,-9.0,False,1.2,88,1195,89.0,Secretly Canadian
+TRK00525,Wasted Dreams,Devon Adler,R&B,2020,3:14,194,129,G Minor,0.728,0.435,0.274,0.521,0.209,-15.2,False,1.34,116,1805,20.0,Concord
+TRK00526,Bitter Winter Together,The Pale Hours,Pop,2021,2:30,150,135,C Major,0.874,0.64,0.167,0.268,0.024,-12.9,True,2.06,92,4432,6.0,Universal Music
+TRK00527,Golden Dreams,Zoe Hartley ft. Indigo Cain,R&B,2024,2:48,168,145,C# Minor,0.654,0.532,0.248,0.629,0.089,-12.2,True,0.36,1,285,,Jagjaguwar
+TRK00528,Sweet Grace,Vera Adler,Pop,2015,3:48,228,78,A Minor,0.434,0.086,0.678,0.581,0.078,-5.6,False,2.04,225,2468,18.0,Sony Music
+TRK00529,Frozen Silence,Petra Kade ft. Marcus Holt,Rock,2015,2:20,140,80,G Major,0.886,0.74,0.391,0.234,0.085,-8.6,False,4.32,395,11430,,Jagjaguwar
+TRK00530,Distant Shadows Again,Kai Reid,Pop,2018,2:32,152,153,C Minor,0.432,0.144,0.39,0.749,0.092,-9.4,False,3.62,165,4287,,Universal Music
+TRK00531,Reckless Nights,Lila Quinn ft. Asha Solis,R&B,2023,3:47,227,124,A# Minor,0.319,0.19,0.573,0.757,0.08,-9.8,False,2.75,277,2533,,Interscope
+TRK00532,Crimson Nights,Remy Cruz ft. Remy Adler,Hip-Hop,2017,3:19,199,152,E Major,0.829,0.459,0.433,0.35,0.75,-10.2,True,1.67,110,3062,,Universal Music
+TRK00533,Restless Waves,Finn Stone,Hip-Hop,2019,3:01,181,138,G Major,0.609,0.454,0.445,0.284,0.666,-4.3,True,1.96,92,1143,16.0,Sony Music
+TRK00534,Cloudy Lights,River Wren,Pop,2022,3:08,188,131,C Minor,0.451,0.306,0.624,0.597,0.456,-7.2,False,2.04,205,5120,,Universal Music
+TRK00535,Lonely Love,River Wren,R&B,2018,2:31,151,115,B Major,0.224,0.241,0.785,0.924,0.081,-4.0,False,10.3,770,10878,,Concord
+TRK00536,Lost Nights,Aria Mack,Hip-Hop,2019,3:45,225,112,F# Minor,0.698,0.712,0.716,0.348,0.177,-15.2,True,4.13,336,3436,,Sony Music
+TRK00537,Hollow World Together,Mia Drake,Rock,2021,2:56,176,124,C# Major,0.974,0.689,0.593,0.305,0.038,-5.6,True,256.44,14724,646358,,Warner Music
+TRK00538,Golden Silence Inside,Aria Hartley,Hip-Hop,2018,3:07,187,125,D# Minor,0.278,0.1,0.757,0.81,0.162,-9.2,True,2.67,47,6960,,Sony Music
+TRK00539,Wild Waves Together,Solar Hymn,R&B,2024,3:40,220,72,F Minor,0.274,0.243,0.601,0.757,0.145,-8.5,False,7.49,426,17502,,Interscope
+TRK00540,Burning Roads Again,Echo Chamber,Pop,2018,3:17,197,86,D Minor,0.53,0.617,0.559,0.739,0.164,-2.8,False,2.75,181,2987,,Beggars Group
+TRK00541,Faded Roads,Nora Drake,Country,2023,3:00,180,120,A# Major,0.584,0.471,0.284,0.492,0.141,-8.9,False,2.73,173,4961,,Big Machine
+TRK00542,Lost Time,Juno Hartley,Hip-Hop,2021,2:11,131,89,D Minor,0.62,0.535,0.258,0.472,0.14400000000000002,-5.8,False,31.85,1854,93086,5.0,Sub Pop
+TRK00543,Sweet Tears Always,Asha Steele ft. Skye Stone,Pop,2017,3:41,221,81,A Minor,0.43,0.056,0.728,0.631,0.048,-11.1,True,14.98,612,25382,,Sony Music
+TRK00544,Hollow Memories Still,Paper Wolves,Hip-Hop,2017,3:30,210,142,D# Minor,0.447,0.345,0.178,0.652,1.0,-7.4,True,0.42,108,1207,,Big Machine
+TRK00545,Ghostly Love Alone,Lila Monroe,Pop,2021,3:07,187,80,E Minor,0.554,0.323,0.46,0.649,0.042,-13.1,True,1.11,110,2431,,Secretly Canadian
+TRK00546,Restless Tears Tonight,River Mack,Rock,2020,2:48,168,75,A Major,0.86,0.464,0.444,0.135,0.255,-7.7,True,3.48,127,9091,,Secretly Canadian
+TRK00547,Sweet Shadows,Sage Cain,Hip-Hop,2018,3:27,207,146,C Minor,0.802,0.518,0.507,0.463,0.339,-6.2,False,2.1,95,2060,,Warner Music
+TRK00548,Midnight Days,Theo Adler ft. Elijah Drake,Indie,2024,3:45,225,140,A# Major,0.763,0.511,0.397,0.398,0.046,-3.6,True,0.6,28,1690,29.0,AWAL
+TRK00549,Crimson Blues Always,Rhys Vale,Rock,2021,3:31,211,144,B Major,0.944,0.526,0.602,0.311,0.032,-10.4,False,4.86,129,12798,,Universal Music
+TRK00550,Velvet Shadows Forever,Marcus Solis,Pop,2024,4:29,269,118,G# Minor,0.837,0.57,0.806,0.617,0.047,-9.4,False,0.37,1,911,,Sony Music
+TRK00551,Burning Chains Together,Lila Kade,Rock,2018,3:54,234,84,D Major,0.666,0.409,0.875,0.406,0.115,-9.8,True,4.85,414,13837,,Warner Music
+TRK00552,Golden Roads,Devon Bane ft. Aria Shaw,Pop,2018,3:23,203,85,B Minor,0.535,0.446,0.458,0.425,0.04,-8.4,False,10.63,355,26279,27.0,Sony Music
+TRK00553,Bitter Eyes Tonight,Echo Chamber,Pop,2022,3:55,235,124,G Major,0.682,0.475,0.403,0.478,0.285,-10.9,False,13.06,589,25360,18.0,Sony Music
+TRK00554,Fearless Eyes,Indigo Drake ft. Jace Lowe,Hip-Hop,2019,3:29,209,80,C# Major,0.624,0.458,0.325,0.543,0.21000000000000002,-15.1,False,3.43,203,7277,,Universal Music
+TRK00555,Sacred Grace,Kai Mack ft. Axel Hartley,Pop,2018,3:29,209,95,F# Minor,0.732,0.613,0.44,0.519,0.144,-11.1,True,29.34,981,74882,,A24 Sounds
+TRK00556,Ghostly Silence,Iron Lullaby,Pop,2017,4:16,256,111,D# Major,0.776,0.582,0.439,0.315,0.135,-7.7,False,6.3,467,14949,3.0,Jagjaguwar
+TRK00557,Lost Chains Now,Juno Stone,Country,2016,2:53,173,98,D Minor,0.735,0.477,0.411,0.312,0.3,-8.0,False,12.24,916,24228,,Sub Pop
+TRK00558,Timeless Days,Nora Wren,Electronic,2023,3:28,208,135,G Minor,0.834,0.25,0.635,0.149,0.058,-5.6,False,1.62,89,3232,,Dead Oceans
+TRK00559,Midnight Fire Inside,Electric Fauna,Country,2019,4:12,252,77,C Major,0.78,0.579,0.489,0.212,0.089,-4.6,False,29.91,1152,80778,,Secretly Canadian
+TRK00560,Restless Chains,Vera Reid,Hip-Hop,2024,3:39,219,82,F Major,0.641,0.289,0.295,0.437,0.081,-9.1,False,4.23,304,2219,29.0,Warner Music
+TRK00561,Ghostly Summer Alone,Solar Hymn,Indie,2018,3:13,193,118,E Major,0.217,0.129,0.699,0.812,0.089,-13.1,False,31.97,2073,73367,,Sub Pop
+TRK00562,Wasted Stars Now,Rhys Mack,Hip-Hop,2020,2:22,142,96,C Minor,0.744,0.536,0.267,0.653,0.612,-6.1,False,24.3,1399,46513,,AWAL
+TRK00563,Velvet Eyes,Solar Hymn,Pop,2020,2:01,121,136,F Major,0.831,0.727,0.544,0.132,0.098,-7.5,True,5.81,361,15081,,AWAL
+TRK00564,Electric Night,Lila Cross,R&B,2021,4:46,286,132,E Minor,0.343,0.481,0.639,0.766,0.522,-8.4,False,7.08,380,7176,,Secretly Canadian
+TRK00565,Sweet Time,Soren Cruz,Pop,2024,3:39,219,71,F Minor,0.332,0.087,0.644,0.647,0.124,-3.2,True,3.36,154,6092,11.0,Warner Music
+TRK00566,Hollow Chains,Lyra Cain,Hip-Hop,2023,3:05,185,137,C# Major,0.681,0.258,0.426,0.482,0.159,-5.9,False,1.46,70,1195,,Sub Pop
+TRK00567,Midnight Winter,Lila West,R&B,2015,3:40,220,118,F# Minor,0.51,0.377,0.505,0.526,0.118,-7.1,False,8.79,646,18884,17.0,AWAL
+TRK00568,Neon Heart,Dex Shaw ft. Cleo Ashford,Electronic,2020,2:51,171,84,B Major,0.71,0.495,0.222,0.556,0.025,-6.9,False,8.43,445,20311,80.0,Interscope
+TRK00569,Golden Bones,Theo Ashford ft. Mia Vale,Rock,2023,3:14,194,115,D Minor,0.734,0.309,0.488,0.536,0.043,-4.5,True,0.51,53,1050,,Sub Pop
+TRK00570,Velvet Bones,Indigo Nova ft. Zoe Vale,Hip-Hop,2015,2:51,171,140,D# Major,0.635,0.41,0.707,0.478,0.093,-9.9,False,3.64,242,6868,,Dead Oceans
+TRK00571,Distant Grace,Rhys Vale,Pop,2021,2:33,153,81,C# Minor,0.323,0.294,0.487,0.914,0.083,-10.6,False,12.92,863,17551,,Interscope
+TRK00572,Quiet Heart,Kai Stone,Latin,2019,2:07,127,138,G Major,0.538,0.177,0.501,0.661,0.078,-8.3,False,27.81,1553,58386,,Sony Music
+TRK00573,Timeless Roads,Ember Nova,Pop,2020,2:26,146,115,F# Minor,0.184,0.0,0.162,1.0,0.215,-11.6,False,10.68,356,29356,23.0,Jagjaguwar
+TRK00574,Golden Bones Again,Finn Reid,Hip-Hop,2020,4:06,246,113,A Major,0.779,0.416,0.57,0.372,0.22799999999999998,-7.7,True,0.58,47,1336,,Jagjaguwar
+TRK00575,Neon Summer Now,Obsidian Coast,Pop,2020,2:49,169,124,C Minor,0.473,0.278,0.474,0.736,0.037,-7.2,False,1.06,78,590,,AWAL
+TRK00576,Electric Rain,Lila Drake,Country,2024,3:47,227,121,F# Minor,0.739,0.578,0.611,0.317,0.286,-7.7,False,2.71,103,4801,,Concord
+TRK00577,Hollow Fire,Electric Fauna,R&B,2021,4:03,243,114,F# Minor,0.642,0.372,0.613,0.382,0.008,-8.8,True,25.75,1973,60281,40.0,AWAL
+TRK00578,Timeless Echoes,Luna Cain,Rock,2024,3:28,208,110,F# Minor,0.891,0.587,0.565,0.549,0.085,-1.7,True,1.93,153,3397,,Warner Music
+TRK00579,Bitter Heart Now,Kai Cain ft. Kai Adler,Country,2023,3:16,196,122,D# Major,0.607,0.709,0.867,0.384,0.098,-4.2,False,16.71,1042,33058,18.0,Dead Oceans
+TRK00580,Sacred World,Static Bloom,Pop,2020,3:32,212,135,D# Major,0.558,0.229,0.729,0.501,0.081,-7.8,False,1.85,55,5141,11.0,Warner Music
+TRK00581,Distant Heart Together,Petra Steele ft. Aria Wren,Indie,2021,3:11,191,106,B Major,0.578,0.284,0.606,0.31,0.122,-7.2,False,8.35,536,22418,,A24 Sounds
+TRK00582,Velvet Chains,Obsidian Coast,Pop,2020,4:13,253,131,F Minor,0.417,0.366,0.786,0.565,0.09,-2.7,False,1.23,40,865,,Universal Music
+TRK00583,Electric Nights Forever,Kai Stone,Hip-Hop,2023,4:38,278,137,C# Major,0.914,0.732,0.458,0.149,0.366,-9.5,True,3.28,201,5826,8.0,Universal Music
+TRK00584,Wasted Bones Always,Vera Cain ft. Juno West,Pop,2018,4:22,262,129,F Major,0.436,0.341,0.502,0.571,0.051,-10.9,False,0.95,30,1953,,Universal Music
+TRK00585,Sacred Dreams Still,Marcus Laurent ft. Rhys Nova,Latin,2024,2:05,125,94,E Minor,0.941,0.865,0.548,0.283,0.026,-6.7,False,27.69,1847,72826,,Dead Oceans
+TRK00586,Wasted Love Inside,Nora Holt ft. Dex Blaine,Country,2022,3:10,190,70,F Major,0.617,0.445,0.47,0.571,0.079,-6.1,False,1.7,58,1978,,Beggars Group
+TRK00587,Neon Mind,Rhys Cain ft. Finn Ashford,Rock,2022,3:27,207,109,F Minor,0.775,0.227,0.732,0.259,0.036,-5.8,True,0.56,83,475,,Sony Music
+TRK00588,Dark Heart Again,Skye Steele,Pop,2021,3:45,225,78,B Major,0.691,0.463,0.434,0.352,0.046,-4.6,False,0.5,97,996,,Jagjaguwar
+TRK00589,Burning Eyes,Rhys Hartley ft. Skye Hartley,Hip-Hop,2021,2:21,141,128,C Major,0.432,0.201,0.554,0.784,0.624,-10.1,True,3.74,121,6242,,AWAL
+TRK00590,Blazing Grace Forever,Asha Cruz,Rock,2022,2:21,141,107,F Minor,0.608,0.589,0.634,0.718,0.285,-12.4,True,2.32,142,2654,,Big Machine
+TRK00591,Cloudy Waves Now,Juno Voss ft. Mia Voss,Hip-Hop,2022,4:17,257,138,C Minor,0.712,0.598,0.716,0.581,0.615,-9.5,True,9.76,520,27887,,Universal Music
+TRK00592,Wild Mind,Mia Stone ft. Kai Vale,Pop,2018,3:06,186,129,E Minor,0.376,0.022,0.375,0.502,0.177,-5.5,True,3.03,120,3920,,Concord
+TRK00593,Blazing Mind,Mia Voss,Electronic,2022,2:30,150,77,G Major,0.806,0.713,0.354,0.498,0.086,-10.7,False,19.12,960,12202,,Concord
+TRK00594,Sweet Night,Zoe Cross,Electronic,2020,2:45,165,133,G Major,0.688,0.579,0.308,0.672,0.185,-14.3,True,2.52,1,1630,,Interscope
+TRK00595,Velvet Waves,Zoe Nova,Country,2022,3:42,222,87,F Major,0.534,0.302,0.771,0.369,0.109,-7.0,False,15.95,1135,15993,59.0,Jagjaguwar
+TRK00596,Wasted Silence Away,Aria Vale,Rock,2021,2:56,176,137,D Major,0.467,0.293,0.407,0.756,0.39,-9.5,False,1.21,124,958,,Universal Music
+TRK00597,Electric Love,Lila Kade ft. Soren Vale,Hip-Hop,2018,3:36,216,129,G Minor,0.513,0.528,0.397,0.617,0.11699999999999999,-13.5,True,0.58,102,862,,A24 Sounds
+TRK00598,Broken Silence Together,Asha Kade ft. Cleo Wren,Rock,2023,2:50,170,112,B Major,0.952,0.343,0.549,0.199,0.141,-7.2,False,1.45,27,1016,,Universal Music
+TRK00599,Restless Nights,Theo Stone ft. Juno Pierce,Pop,2021,2:21,141,127,G# Minor,0.689,0.51,0.332,0.462,0.03,-8.9,False,0.96,35,1826,,Sony Music
+TRK00600,Lost Roads Inside,Ghost Circuit,Electronic,2021,4:21,261,74,A# Minor,0.897,0.736,0.831,0.336,0.141,-1.6,False,0.83,10,1262,,A24 Sounds
+TRK00601,Reckless Tears,The Pale Hours,R&B,2022,3:42,222,84,G# Major,0.398,0.246,0.463,0.821,0.021,-7.2,False,7.19,204,14342,,Concord
+TRK00602,Ghostly Rain Forever,River Shaw,Pop,2022,3:14,194,109,F# Minor,0.886,0.667,0.71,0.424,0.031,-5.4,False,2.98,124,8859,25.0,Universal Music
+TRK00603,Lost Lights,Lila Cross ft. Soren Shaw,Hip-Hop,2023,3:07,187,128,A Major,0.541,0.366,0.44,0.386,0.08700000000000001,-7.6,False,5.07,298,15107,,Sub Pop
+TRK00604,Blazing Lies,Aria Calloway,Indie,2018,4:23,263,90,A# Minor,0.609,0.286,0.742,0.435,0.1,-9.6,False,8.17,309,12602,,A24 Sounds
+TRK00605,Shattered Silence Always,Ember Ashford,Rock,2017,3:49,229,85,C# Major,0.906,0.476,0.417,0.286,0.109,-9.2,False,0.46,1,652,1.0,Sony Music
+TRK00606,Timeless World,Marcus Drake,Rock,2022,4:11,251,74,D Minor,0.77,0.6,0.497,0.573,0.583,-3.7,False,8.81,256,19416,196.0,Big Machine
+TRK00607,Bitter Time,Soren Holt,R&B,2018,3:05,185,143,D Major,0.416,0.181,0.7,0.34,0.076,-4.9,False,0.86,17,1220,,Sub Pop
+TRK00608,Wild Heart Tonight,Jace Laurent,Rock,2017,3:29,209,137,D Major,0.906,0.375,0.727,0.202,0.152,-12.7,False,1.94,153,4744,,Beggars Group
+TRK00609,Bitter Silence,River Ashford,Pop,2017,3:42,222,93,F Major,0.547,0.373,0.421,0.379,0.093,-11.9,False,0.35,151,701,,Universal Music
+TRK00610,Sacred Dreams,River Ashford,R&B,2019,3:06,186,119,F# Major,0.644,0.347,0.623,0.32,0.142,-11.7,False,9.69,338,9677,,Interscope
+TRK00611,Broken Mind,Cleo Lowe,Country,2024,3:23,203,69,D# Minor,0.442,0.119,0.39,0.765,0.092,-3.8,False,0.47,1,722,,Big Machine
+TRK00612,Shattered Stars,Dex Voss,Pop,2017,3:05,185,91,A Major,0.415,0.28,0.644,0.604,0.198,-13.6,False,0.86,9,2286,200.0,Jagjaguwar
+TRK00613,Wild Eyes Again,Axel Adler,Pop,2019,3:42,222,130,C# Minor,0.33,0.322,0.608,0.456,0.035,-4.7,False,0.96,79,1808,,A24 Sounds
+TRK00614,Blazing Echoes Away,Axel Holt,Electronic,2024,2:37,157,111,G# Major,0.83,0.542,0.351,0.317,0.012,-6.1,False,3.59,164,8166,8.0,Secretly Canadian
+TRK00615,Timeless Nights,Rhys Cruz ft. Mia Shaw,Electronic,2024,3:49,229,153,G# Major,1.0,0.501,0.512,0.444,0.115,-7.0,False,3.45,173,7847,,Beggars Group
+TRK00616,Shattered Skies,Jace Blaine,Hip-Hop,2018,3:39,219,86,F Major,0.671,0.504,0.385,0.246,0.056999999999999995,-9.2,True,11.83,877,20174,,Warner Music
+TRK00617,Wasted Waves Again,Luna Cruz,Rock,2024,3:19,199,132,G# Major,0.607,0.539,0.42,0.578,0.234,-3.3,False,3.7,248,4583,5.0,Concord
+TRK00618,Golden Waves,Jace Pierce,Electronic,2017,3:44,224,101,F Minor,0.577,0.685,0.459,0.727,0.053,-7.1,False,14.38,627,28628,,Beggars Group
+TRK00619,Burning Soul,Ghost Circuit,Rock,2023,3:13,193,121,D Major,0.581,0.58,0.125,0.529,0.036,-12.6,False,6.91,415,5408,,Warner Music
+TRK00620,Frozen Days Now,Luna Drake,Pop,2015,3:02,182,125,A Minor,0.518,0.196,0.532,0.817,0.712,-11.7,False,1.19,21,2372,179.0,Warner Music
+TRK00621,Quiet Bones,Indigo Cain,Pop,2020,3:48,228,130,F Major,0.544,0.474,0.334,0.486,0.081,-13.3,False,1.75,129,1324,,Interscope
+TRK00622,Lost Rain Together,Juno Bane ft. Remy Calloway,Hip-Hop,2019,3:49,229,118,F# Major,0.683,0.48,0.389,0.627,0.20700000000000002,-3.3,False,29.48,919,81202,,Universal Music
+TRK00623,Frozen Lies,Asha Monroe,Country,2022,3:08,188,133,G Major,0.248,0.0,0.623,0.947,0.149,-2.5,True,20.71,1237,48868,,Big Machine
+TRK00624,Midnight Roads,Soren Quinn,Rock,2015,3:04,184,127,A Minor,0.72,0.508,0.398,0.42,0.158,-3.7,False,11.84,523,11283,,Warner Music
+TRK00625,Crimson Eyes,River Pierce,Hip-Hop,2021,3:20,200,131,G Minor,0.3,0.464,0.406,0.582,0.612,-8.0,True,14.47,938,35620,6.0,Warner Music
+TRK00626,Silver Eyes,Kai Mack,Country,2022,3:06,186,148,D Minor,0.382,0.416,0.762,0.574,0.028,-12.5,False,7.69,576,17799,,Beggars Group
+TRK00627,Distant Blues,Remy Cross,Hip-Hop,2016,4:25,265,96,D# Major,0.512,0.191,0.214,0.309,0.378,-11.2,True,6.3,299,14623,,Warner Music
+TRK00628,Faded Stars Together,Cleo Voss,Rock,2024,3:39,219,86,B Major,0.602,0.393,0.528,0.59,0.065,-11.0,False,4.53,272,6062,,Universal Music
+TRK00629,Wasted Silence,Asha Blaine ft. Zoe Reid,Pop,2020,3:28,208,116,C# Minor,0.689,0.517,0.397,0.506,0.039,-7.7,False,37.85,2171,68389,,Sony Music
+TRK00630,Hollow Shadows,The Hollow Kings,R&B,2018,2:52,172,144,E Minor,0.387,0.009,0.592,0.7,0.085,-2.6,False,2.25,85,4419,,A24 Sounds
+TRK00631,Sacred Chains,Static Bloom,Electronic,2018,3:55,235,73,F# Minor,0.859,0.321,0.337,0.298,0.019,-2.7,False,5.63,181,8120,55.0,Beggars Group
+TRK00632,Lost Skies,Nora Adler ft. Cole Wren,R&B,2020,3:04,184,85,G Major,0.187,0.143,0.362,1.0,0.172,-9.2,False,0.45,1,855,18.0,Beggars Group
+TRK00633,Ghostly Love,Neon Static,Hip-Hop,2018,3:02,182,70,F# Minor,0.572,0.395,0.351,0.578,0.195,-15.3,False,0.64,1,710,,Sony Music
+TRK00634,Bitter Shadows Still,Indigo Blaine,Hip-Hop,2021,3:56,236,128,E Major,0.58,0.12,0.717,0.469,0.168,-11.6,False,44.24,3419,118882,83.0,Concord
+TRK00635,Burning Night,Nora Monroe,Pop,2022,3:42,222,139,F Minor,0.39,0.308,0.547,0.706,0.074,-3.3,False,9.36,537,27151,,Universal Music
+TRK00636,Neon Lies Again,River Wren,Latin,2020,1:52,112,65,C# Major,0.873,0.72,0.432,0.547,0.072,-6.7,False,3.15,193,4148,9.0,Universal Music
+TRK00637,Lonely World,Cole Voss,Pop,2020,3:21,201,116,B Minor,0.516,0.305,0.781,0.662,0.204,-8.7,True,4.6,119,6237,,Universal Music
+TRK00638,Reckless Roads Now,Echo Chamber,Electronic,2023,3:32,212,77,C# Major,0.792,0.523,0.203,0.32,0.034,-9.0,True,0.72,1,749,,Beggars Group
+TRK00639,Burning Chains,The Hollow Kings,Electronic,2019,3:14,194,125,G# Minor,0.768,0.579,0.262,0.38,0.06,-10.1,False,2.37,180,6308,12.0,Interscope
+TRK00640,Silver Lights,Soren Pierce,Pop,2022,3:33,213,78,G# Minor,0.592,0.446,0.526,0.582,0.069,-11.7,False,0.63,40,572,,Warner Music
+TRK00641,Faded Love,The Hollow Kings,Hip-Hop,2024,2:18,138,133,F# Minor,0.409,0.032,0.399,0.622,0.10500000000000001,-1.0,False,2.89,114,7216,,Sony Music
+TRK00642,Dark Time,Elijah Fox ft. Petra Cain,Pop,2018,1:39,99,114,G Major,0.361,0.108,0.486,0.65,0.093,-1.5,True,9.97,494,25730,,Universal Music
+TRK00643,Sweet Dreams,Obsidian Coast,Rock,2022,2:50,170,105,G Major,0.858,0.502,0.927,0.312,0.046,-10.4,False,7.57,305,9769,,Warner Music
+TRK00644,Midnight Bones,Obsidian Coast,Latin,2024,3:38,218,134,G Minor,0.554,0.24,0.559,0.739,0.027,-13.6,False,33.48,1350,81757,13.0,Warner Music
+TRK00645,Lost Dreams,Midnight Radius,Hip-Hop,2021,1:30,90,109,B Minor,0.995,0.852,0.71,0.299,0.375,-6.9,False,6.13,313,10006,,Big Machine
+TRK00646,Lost Eyes,Zoe Kade,Latin,2024,2:55,175,127,C Minor,0.892,0.669,0.557,0.237,0.283,-8.0,False,0.17,20,233,,Big Machine
+TRK00647,Lost Time Away,River Lowe,Pop,2019,2:14,134,82,D# Major,0.578,0.22,0.501,0.642,0.085,-5.3,False,52.24,2040,142795,120.0,Jagjaguwar
+TRK00648,Sacred Soul,Dex Drake,Hip-Hop,2021,3:18,198,114,A# Major,0.613,0.368,0.516,0.511,0.22799999999999998,-4.5,False,1.4,1,2287,,Sub Pop
+TRK00649,Quiet Chains,Skye Pierce ft. Soren Fox,Country,2019,4:41,281,118,A Major,0.771,0.659,0.423,0.425,0.074,-11.6,False,5.11,260,3260,71.0,Sub Pop
+TRK00650,Silver Love Still,Finn Adler,Indie,2015,3:19,199,145,G Minor,0.648,0.331,0.911,0.512,0.054,-3.0,False,4.63,203,9659,,Beggars Group
+TRK00651,Wild Memories Again,River Solis,Hip-Hop,2024,3:23,203,149,A# Major,0.616,0.52,0.8,0.254,0.627,-8.7,False,5.8,540,12441,63.0,Big Machine
+TRK00652,Lonely Rain,Skye Pierce,Electronic,2019,3:59,239,77,F# Major,0.615,0.593,0.073,0.142,0.088,-5.4,False,4.4,315,9181,,Interscope
+TRK00653,Fearless Soul,Elijah Calloway,Indie,2024,3:28,208,149,F Minor,0.699,0.625,0.44,0.468,0.014,-8.4,False,4.62,188,6471,,Concord
+TRK00654,Silver Dreams Together,Juno Monroe ft. Sage Bane,R&B,2022,3:19,199,118,C# Minor,0.163,0.131,0.487,0.767,0.214,-4.3,False,0.75,64,1647,,Sub Pop
+TRK00655,Bitter Winter Now,Asha Fox,Electronic,2024,4:02,242,129,E Minor,0.74,0.656,0.652,0.211,0.176,-15.8,False,122.5,6600,150397,,Big Machine
+TRK00656,Wild Soul,Ember Solis ft. Kai West,Pop,2024,3:45,225,145,D Major,0.893,0.507,0.414,0.187,0.133,-4.9,True,9.89,719,16426,,Sony Music
+TRK00657,Restless Mind,Ember Blaine,Pop,2021,3:38,218,117,C# Major,0.484,0.663,0.58,0.724,0.009,-10.4,False,4.47,293,4656,,Beggars Group
+TRK00658,Electric Time Forever,Soren Ashford,Electronic,2024,3:22,202,97,C Minor,1.0,0.684,0.512,0.243,0.082,-7.2,False,46.5,1893,94540,11.0,Big Machine
+TRK00659,Velvet Tears,Jace Solano,Rock,2023,3:14,194,88,D Major,0.923,0.761,0.632,0.354,0.168,-3.1,False,1.05,146,2652,,Sony Music
+TRK00660,Golden Time Again,Asha Bane ft. Indigo Kade,Pop,2021,4:02,242,124,G Minor,0.498,0.273,0.266,0.656,0.111,-10.3,False,12.92,1050,9614,17.0,Warner Music
+TRK00661,Shattered Shadows,Rhys Voss,Hip-Hop,2022,3:14,194,81,C Major,0.588,0.452,0.784,0.419,0.29100000000000004,-10.9,True,2.04,193,1157,,Warner Music
+TRK00662,Restless Night,Elijah Holt,Hip-Hop,2018,4:14,254,88,D# Minor,0.42,0.349,0.386,0.757,0.504,-8.8,True,6.95,412,16699,,Interscope
+TRK00663,Distant Soul,Cole Calloway,Rock,2015,2:47,167,74,A# Major,0.774,0.373,0.212,0.451,0.092,-9.0,False,7.04,375,9202,54.0,Jagjaguwar
+TRK00664,Distant Days Forever,Skye Calloway ft. Indigo Drake,Hip-Hop,2019,4:21,261,76,C Minor,0.906,0.455,0.429,0.261,0.645,-11.2,True,0.2,1,261,21.0,Jagjaguwar
+TRK00665,Distant Memories Still,Soren Fox ft. Lyra Vale,Hip-Hop,2020,3:45,225,134,B Minor,0.733,0.448,0.634,0.421,0.279,-7.1,False,0.65,1,1242,,A24 Sounds
+TRK00666,Shattered Grace Together,River Cross,Pop,2018,2:50,170,84,F# Major,0.595,0.541,0.509,0.619,0.088,-6.9,False,32.37,1773,55574,,Concord
+TRK00667,Distant Eyes Tonight,Velvet Riot,Indie,2021,3:46,226,132,F# Major,0.51,0.075,0.5,0.502,0.168,-5.9,False,3.01,180,2419,,A24 Sounds
+TRK00668,Faded Fire Now,Cole Monroe,Electronic,2022,3:02,182,134,F Major,0.553,0.309,0.21,0.688,0.06,-10.4,True,56.66,2655,136045,,A24 Sounds
+TRK00669,Lost Rain Away,Vera Calloway ft. Soren Bane,Pop,2022,3:28,208,103,F# Minor,0.682,0.627,0.593,0.522,0.034,-10.8,False,23.06,1339,21692,,AWAL
+TRK00670,Velvet Stars Forever,Petra Mack,Hip-Hop,2024,3:09,189,130,D Major,0.669,0.262,0.16,0.465,0.246,-7.9,True,3.19,236,8182,,Big Machine
+TRK00671,Sacred Stars,Juno Steele,Hip-Hop,2024,3:22,202,115,C Major,0.784,0.685,0.089,0.557,0.396,-8.4,False,2.84,179,6846,21.0,Universal Music
+TRK00672,Lost Night Together,Devon Vale ft. Jace Wren,Electronic,2024,4:03,243,103,F# Minor,0.636,0.256,0.165,0.336,0.172,-8.3,False,36.16,2741,33197,,AWAL
+TRK00673,Sweet Days Tonight,Devon Cross,Electronic,2022,3:47,227,77,F Minor,0.49,0.19,0.191,0.553,0.173,-10.0,False,64.65,2734,154871,,Secretly Canadian
+TRK00674,Quiet Memories,Axel Bane ft. Lyra Hartley,Electronic,2018,2:44,164,121,B Minor,0.701,0.435,0.497,0.357,0.078,-6.3,False,2.84,276,6112,8.0,Beggars Group
+TRK00675,Crimson Blues Together,Cole Cain,Electronic,2024,2:46,166,137,G# Major,0.64,0.678,0.522,0.531,0.072,-10.8,False,31.33,2019,92566,,Dead Oceans
+TRK00676,Reckless Time Again,Static Bloom,Pop,2018,3:37,217,145,C# Minor,0.248,0.072,0.173,0.943,0.051,-7.9,False,15.71,847,35812,7.0,Universal Music
+TRK00677,Fearless Rain Always,The Drift,Hip-Hop,2017,3:40,220,143,F# Major,0.56,0.121,0.648,0.434,0.30000000000000004,-8.6,False,19.56,716,28861,105.0,Universal Music
+TRK00678,Lonely Blues,Finn Calloway ft. Elijah Quinn,Pop,2019,3:01,181,83,F Major,0.322,0.013,0.225,1.0,0.022,-7.6,False,4.72,277,9676,28.0,AWAL
+TRK00679,Lonely Eyes Forever,Iron Lullaby,Rock,2022,4:27,267,126,B Minor,1.0,0.78,0.23,0.12,0.084,-3.4,True,1.75,1,3770,,Beggars Group
+TRK00680,Restless Roads,Axel Fox ft. Mia Laurent,Hip-Hop,2022,3:58,238,132,A Major,0.436,0.094,0.86,0.694,1.0,-12.1,False,1.07,116,2529,,Big Machine
+TRK00681,Lonely Time Away,Luna Calloway,R&B,2015,3:03,183,84,C Minor,0.521,0.505,0.323,0.584,0.025,-15.9,False,0.74,1,1236,35.0,AWAL
+TRK00682,Cloudy Fire Together,Petra Monroe,Pop,2023,3:00,180,116,G Major,0.709,0.471,0.526,0.438,0.093,-9.6,False,50.61,1645,130029,,Sony Music
+TRK00683,Sacred Rain,Lila Fox,Electronic,2018,3:18,198,108,G# Major,0.697,0.449,0.495,0.347,0.111,-11.5,True,4.18,93,5088,61.0,Interscope
+TRK00684,Cloudy Eyes,Indigo Drake ft. Elijah Ashford,Hip-Hop,2019,3:14,194,128,G# Minor,0.389,0.294,0.657,0.817,0.369,-18.0,False,0.93,1,2704,5.0,A24 Sounds
+TRK00685,Lonely Summer Again,Lyra Laurent,Hip-Hop,2019,4:15,255,141,C# Major,0.768,0.387,0.46,0.283,0.11399999999999999,-1.4,True,15.23,976,19434,,Warner Music
+TRK00686,Shattered Love,Luna Blaine ft. Devon Lowe,Electronic,2020,4:04,244,91,C# Minor,0.804,0.542,0.374,0.145,0.124,-5.5,False,2.23,223,1324,,Sub Pop
+TRK00687,Wild Skies Together,Finn Shaw,Pop,2023,3:28,208,144,D Minor,0.409,0.099,0.854,0.538,0.054,-5.2,True,1.81,95,1810,,Sub Pop
+TRK00688,Blazing Memories,Ghost Circuit,Hip-Hop,2016,3:53,233,82,F Major,0.358,0.422,0.245,0.887,0.078,-8.5,False,59.94,2741,168946,22.0,Secretly Canadian
+TRK00689,Wasted Winter,Luna Voss,Hip-Hop,2018,3:58,238,119,A# Minor,0.369,0.096,0.422,0.855,0.528,-6.0,True,0.73,1,1806,2.0,Universal Music
+TRK00690,Blazing Memories Alone,Asha Steele,Electronic,2015,3:29,209,119,D# Minor,0.736,0.54,0.693,0.17,0.14,-9.0,False,5.5,151,8791,,Sub Pop
+TRK00691,Frozen Time Together,Devon Shaw,Pop,2023,3:42,222,107,G# Minor,0.664,0.287,0.496,0.566,0.038,-4.6,True,1.96,58,5415,58.0,Warner Music
+TRK00692,Sacred Tears Inside,Marcus Bane,Country,2024,3:50,230,134,D Major,0.344,0.149,0.197,0.487,0.053,-6.8,True,1.6,55,1786,15.0,Jagjaguwar
+TRK00693,Cloudy Days,Midnight Radius,Latin,2022,3:46,226,91,C Minor,0.97,0.578,0.453,0.221,0.052,-7.6,False,0.63,57,682,,Secretly Canadian
+TRK00694,Wild Shadows Forever,Lila Cain,R&B,2022,2:57,177,133,A Minor,0.493,0.738,0.651,0.461,0.022,-7.4,True,4.54,193,3733,,A24 Sounds
+TRK00695,Sacred Night Alone,Iron Lullaby,Hip-Hop,2024,3:01,181,148,B Minor,0.487,0.315,0.438,0.717,0.45299999999999996,-2.4,True,1.36,128,2184,,Universal Music
+TRK00696,Restless Dreams Still,Marcus Vale ft. Juno Drake,Electronic,2019,3:16,196,116,G Major,0.683,0.329,0.241,0.52,0.156,-6.9,False,8.92,718,15925,,Big Machine
+TRK00697,Silver Echoes,Theo Holt ft. Sage Voss,Pop,2016,3:00,180,140,C Major,0.607,0.332,0.716,0.632,0.063,-11.1,False,3.83,210,3304,5.0,Universal Music
+TRK00698,Distant Rain,Marcus Solis ft. Asha Bane,Indie,2021,2:31,151,108,C Minor,0.429,0.068,0.242,0.621,0.08,-6.3,False,2.78,158,2186,152.0,Concord
+TRK00699,Hollow Soul,Lila Stone,Rock,2019,3:53,233,122,F# Minor,0.322,0.187,0.689,0.719,0.09,-5.8,False,1.34,63,1978,,Warner Music
+TRK00700,Timeless Silence,Juno Cruz,Pop,2021,3:40,220,136,C# Minor,0.404,0.522,0.687,0.497,0.1,-8.0,True,26.84,932,29028,22.0,Beggars Group
+TRK00701,Wild Heart Away,Asha Wren,Hip-Hop,2021,2:36,156,138,G# Minor,0.461,0.347,0.354,0.508,0.084,-7.7,True,10.87,476,21040,,A24 Sounds
+TRK00702,Reckless Memories,Static Bloom,R&B,2019,3:18,198,108,G Major,0.553,0.486,0.13,0.671,0.121,-11.2,True,1.71,49,3096,,Secretly Canadian
+TRK00703,Quiet Eyes,Dex Stone,Indie,2021,3:20,200,76,G Minor,0.448,0.164,0.731,0.686,0.032,-7.2,False,0.71,1,643,,Big Machine
+TRK00704,Restless Skies,Soren Cross,Rock,2020,3:34,214,147,D Major,0.475,0.28,0.122,0.633,0.142,-11.8,False,0.36,28,191,,Sub Pop
+TRK00705,Hollow Silence,Midnight Radius,Rock,2017,2:46,166,125,G Major,0.67,0.464,0.363,0.615,0.035,-8.4,True,17.97,1143,37952,52.0,Warner Music
+TRK00706,Electric Eyes,The Drift,R&B,2024,2:36,156,122,C# Major,0.268,0.073,0.097,0.63,0.029,-9.8,False,13.83,810,33637,38.0,Dead Oceans
+TRK00707,Midnight Roads Alone,Finn Bane,Indie,2022,3:47,227,123,G Minor,0.605,0.449,0.226,0.602,0.08,-4.1,False,16.37,1091,28167,,A24 Sounds
+TRK00708,Silver Winter,Velvet Riot,R&B,2016,2:29,149,78,F Major,0.342,0.308,0.194,0.585,0.079,-2.1,False,3.49,156,6766,18.0,Jagjaguwar
+TRK00709,Blazing Days Again,Dex Calloway,Hip-Hop,2017,3:18,198,142,F# Major,0.457,0.373,0.816,0.812,0.267,-11.5,True,11.68,881,33921,4.0,Sony Music
+TRK00710,Wasted Waves,River Voss ft. Mia Wren,Electronic,2017,3:15,195,115,G Major,0.979,0.615,0.367,0.282,0.04,-7.5,False,15.57,1008,37667,3.0,Dead Oceans
+TRK00711,Blazing Fire,Vera Cruz ft. Elijah Voss,Indie,2016,3:22,202,86,F# Major,0.505,0.481,0.495,0.712,0.097,-8.6,True,3.72,247,4964,97.0,Secretly Canadian
+TRK00712,Dark Stars,Marcus Pierce,Pop,2016,3:37,217,97,A# Minor,0.596,0.351,0.394,0.439,0.104,-5.9,False,2.56,71,6721,19.0,AWAL
+TRK00713,Midnight Time Now,Iron Lullaby,Hip-Hop,2017,4:28,268,122,D# Major,0.703,0.408,0.825,0.699,0.627,-7.2,True,1.15,39,2151,35.0,Sony Music
+TRK00714,Lost Grace Alone,Obsidian Coast,Pop,2023,2:26,146,115,G# Major,0.207,0.336,0.158,1.0,0.095,-8.9,False,7.34,194,13247,25.0,Jagjaguwar
+TRK00715,Blazing Skies,Rhys Adler,Hip-Hop,2023,4:00,240,81,D Major,0.815,0.375,0.482,0.4,0.153,-7.2,False,8.73,667,19465,,Universal Music
+TRK00716,Neon Lights,Mia Reid,R&B,2023,1:52,112,146,F Minor,0.713,0.225,0.63,0.571,0.028,-8.3,False,2.49,250,3918,30.0,AWAL
+TRK00717,Reckless Rain Always,Static Bloom,Pop,2022,4:20,260,74,F# Minor,0.741,0.36,0.757,0.371,0.024,-1.9,False,2.89,325,7808,,Universal Music
+TRK00718,Cloudy Roads Now,Lila West ft. Cole Monroe,Rock,2023,2:09,129,126,G Minor,0.804,0.577,0.035,0.205,0.106,-10.3,True,3.18,161,2919,,Sub Pop
+TRK00719,Broken Chains Inside,Paper Wolves,Pop,2023,5:00,300,126,C Major,0.481,0.492,0.724,0.711,0.155,-6.6,False,11.81,450,18361,,Concord
+TRK00720,Wild Lights Tonight,The Pale Hours,Indie,2024,3:12,192,87,G# Major,0.675,0.346,0.631,0.35,0.04,-5.7,False,0.71,47,470,,A24 Sounds
+TRK00721,Golden Echoes Always,Aria Adler,Indie,2023,4:16,256,92,F Major,0.604,0.647,0.312,0.674,0.101,-6.0,True,1.0,99,2263,,Sub Pop
+TRK00722,Velvet World,Soren Quinn ft. Indigo Blaine,Rock,2023,4:08,248,132,A Minor,0.703,0.461,0.92,0.563,0.071,-8.5,False,1.03,66,1211,4.0,Concord
+TRK00723,Ghostly World Together,Echo Chamber,Electronic,2023,3:10,190,135,C# Major,0.913,0.577,0.765,0.298,0.146,-2.7,True,3.48,267,5441,,Dead Oceans
+TRK00724,Electric Tears,Devon Monroe,Pop,2021,3:13,193,145,A Major,0.532,0.227,0.489,0.596,0.164,-14.8,False,6.3,581,17110,9.0,Warner Music
+TRK00725,Restless Grace,Remy Lowe,Indie,2018,2:55,175,103,F Minor,0.52,0.611,0.432,0.703,0.013,-11.3,False,1.03,53,994,20.0,Big Machine
+TRK00726,Lonely Fire,Indigo Mack ft. Ember Laurent,Electronic,2016,3:57,237,83,B Minor,1.0,0.629,0.474,0.233,0.187,-5.2,False,13.29,642,6719,,A24 Sounds
+TRK00727,Hollow World,Sage Quinn,Pop,2020,3:11,191,97,C# Major,0.702,0.27,0.235,0.39,0.1,-10.6,False,27.84,1948,54157,,Universal Music
+TRK00728,Sacred Roads Still,Kai Calloway,Latin,2017,2:56,176,99,D Minor,0.483,0.658,0.365,0.432,0.054,-10.8,False,7.01,294,11172,,Interscope
+TRK00729,Neon Heart Inside,Theo Solis ft. Soren Cain,Pop,2018,3:47,227,121,D Major,0.338,0.275,0.278,0.845,0.055,-9.1,False,17.72,992,11294,,AWAL
+TRK00730,Blazing Days,Dex Adler,Electronic,2015,2:53,173,113,A Major,0.929,0.716,0.184,0.301,0.084,-10.2,False,1.23,55,1525,,Dead Oceans
+TRK00731,Silver Waves,Aria Kade,Pop,2019,3:14,194,98,B Major,0.364,0.472,0.324,1.0,0.055,-5.3,True,1.3,135,1427,18.0,Big Machine
+TRK00732,Lonely Lights Together,Juno Cross,Electronic,2024,3:31,211,80,E Minor,0.986,0.727,0.527,0.2,0.039,-4.3,False,8.28,710,9534,31.0,Jagjaguwar
+TRK00733,Cloudy Stars Away,Sage Reid ft. Theo Ashford,Pop,2020,3:03,183,124,F# Major,0.495,0.458,0.268,0.64,0.047,-7.2,False,3.96,248,9797,,Universal Music
+TRK00734,Dark Lights,River Drake,Pop,2019,3:08,188,109,G Minor,0.273,0.185,0.168,0.821,0.036,-3.8,False,1.3,69,1640,4.0,Sony Music
+TRK00735,Silver Time Always,Vera Steele,Rock,2020,4:25,265,80,A# Major,0.825,0.639,0.377,0.418,0.241,-12.4,False,26.51,2081,45704,43.0,Universal Music
+TRK00736,Wasted Heart,Indigo Pierce,Latin,2019,3:19,199,91,C# Minor,0.707,0.455,0.218,0.318,0.086,-7.2,False,6.1,301,7099,,Beggars Group
+TRK00737,Electric Fire,The Drift,Hip-Hop,2022,3:13,193,70,G# Minor,0.603,0.389,0.496,0.508,1.0,-2.8,True,10.46,711,30086,,Sony Music
+TRK00738,Fearless Dreams,Theo Fox,Electronic,2022,3:20,200,125,E Minor,0.967,0.645,0.671,0.326,0.11,-4.1,False,1.75,190,4262,75.0,Jagjaguwar
+TRK00739,Midnight Dreams Now,Cleo Lowe,Rock,2015,3:44,224,130,F# Minor,0.369,0.184,0.511,0.665,0.131,-2.5,True,36.01,1432,56111,,Secretly Canadian
+TRK00740,Sacred Roads,Remy Cruz,Indie,2021,2:48,168,76,E Minor,0.613,0.469,0.526,0.604,0.035,-9.6,False,3.41,139,7902,,Big Machine
+TRK00741,Velvet Nights,Remy Steele,Hip-Hop,2015,3:43,223,105,C# Minor,0.67,0.506,0.474,0.476,0.20700000000000002,-4.3,True,15.25,615,19627,,Warner Music
+TRK00742,Quiet Stars,Theo Adler,Rock,2022,3:37,217,63,G# Major,0.783,0.624,0.844,0.422,0.087,-9.0,False,1.97,134,1389,39.0,Jagjaguwar
+TRK00743,Frozen Tears Alone,Sage Pierce,Country,2024,2:19,139,128,C Minor,0.572,0.461,0.549,0.681,0.049,-5.4,False,5.28,313,8322,,Dead Oceans
+TRK00744,Quiet Summer,Ember Blaine ft. Rhys Monroe,Hip-Hop,2024,4:35,275,75,C Major,0.579,0.656,0.488,0.51,0.171,-2.9,True,8.76,360,16744,,Sony Music
+TRK00745,Bitter Rain,Juno Voss,Hip-Hop,2018,4:23,263,138,C Major,0.453,0.442,0.396,0.463,0.34500000000000003,-10.3,False,55.09,2739,75659,,A24 Sounds
+TRK00746,Frozen Nights Again,Crater Lake,Indie,2023,2:57,177,117,A Minor,0.314,0.175,0.479,0.717,0.117,-14.0,False,2.38,124,3579,,Dead Oceans
+TRK00747,Dark Silence,Soren Monroe,Hip-Hop,2023,2:44,164,113,D Major,0.677,0.503,0.639,0.359,0.084,-1.0,True,5.49,209,12550,15.0,Sony Music
+TRK00748,Wild Bones,Ember Calloway ft. Zoe Monroe,Hip-Hop,2024,3:36,216,87,C# Minor,0.48,0.51,0.459,0.361,0.309,-5.8,True,9.16,437,25085,33.0,Warner Music
+TRK00749,Crimson Blues Inside,Luna Wren,Hip-Hop,2019,2:33,153,94,C Major,0.356,0.098,0.461,0.702,0.384,-7.9,True,0.66,71,1805,,Universal Music
+TRK00750,Midnight Echoes,Juno Vale ft. Cleo Steele,R&B,2021,4:19,259,72,C Major,0.199,0.411,0.429,0.865,0.051,-8.1,False,0.25,90,484,3.0,Concord
+TRK00751,Timeless Night,Axel Holt,Country,2018,3:09,189,139,C Minor,0.308,0.092,0.405,0.876,0.047,-14.8,False,1.13,74,2343,,Big Machine
+TRK00752,Burning Fire Now,Cole Steele,Electronic,2015,4:29,269,136,A Minor,1.0,0.776,0.586,0.063,0.117,-6.8,True,14.26,564,26124,,Sub Pop
+TRK00753,Neon Lights Inside,Dex Fox,Electronic,2022,2:56,176,74,G# Major,0.862,0.561,0.471,0.321,0.01,-9.4,False,39.11,3055,55852,45.0,Big Machine
+TRK00754,Hollow Bones Tonight,Petra Laurent ft. Vera Voss,Hip-Hop,2020,3:23,203,95,D Minor,0.72,0.461,0.685,0.559,0.246,-7.3,True,1.25,114,2931,,A24 Sounds
+TRK00755,Shattered Memories Inside,Obsidian Coast,Pop,2019,4:15,255,107,B Major,0.721,0.286,0.83,0.354,0.303,-7.4,False,0.85,1,661,,Secretly Canadian
+TRK00756,Frozen Time Inside,Elijah Nova ft. Zoe Mack,Pop,2023,3:15,195,106,D Major,0.729,0.601,0.578,0.481,0.01,-19.3,False,31.04,2069,84895,,Sony Music
+TRK00757,Wasted Skies,Devon Reid,Pop,2021,3:37,217,92,E Minor,0.313,0.023,0.205,0.941,0.159,-5.8,False,2.0,81,2418,,Concord
+TRK00758,Neon Skies,Elijah Nova,Pop,2024,4:09,249,96,C Minor,0.396,0.055,0.353,0.46,0.127,-6.8,True,2.62,116,2743,,Jagjaguwar
+TRK00759,Faded Stars,Indigo Bane ft. Soren Vale,Electronic,2023,3:06,186,134,A Minor,0.767,0.661,0.302,0.419,0.026,-6.4,True,28.13,1558,33333,2.0,Concord
+TRK00760,Broken Stars,Asha Wren,Pop,2024,2:39,159,147,D Major,0.443,0.538,0.508,0.785,0.124,-8.1,False,22.83,1591,57743,,Universal Music
+TRK00761,Distant Skies,Theo West,Pop,2023,2:32,152,139,E Major,0.419,0.179,0.571,0.623,0.183,-7.3,False,14.21,1057,16657,43.0,Sony Music
+TRK00762,Velvet Rain,Devon Solis ft. Devon Pierce,Hip-Hop,2017,3:49,229,104,C# Major,0.387,0.392,0.53,0.857,0.096,-6.9,False,0.44,1,890,,Concord
+TRK00763,Ghostly Blues,Marcus Cain ft. Lyra Cruz,Hip-Hop,2016,3:42,222,112,C Minor,0.772,0.613,0.607,0.459,0.14100000000000001,-6.5,False,0.79,1,1072,,Dead Oceans
+TRK00764,Golden Silence,Ghost Circuit,Pop,2024,4:07,247,104,F Major,0.652,0.411,0.269,0.691,0.084,-5.8,False,18.2,1142,38966,,Sony Music
+TRK00765,Wasted Night,Skye Ashford,Pop,2017,3:17,197,71,A Major,0.309,0.388,0.565,0.823,0.179,-6.5,False,6.19,351,12250,2.0,Dead Oceans
+TRK00766,Reckless Love,Elijah Solis ft. Vera Pierce,Hip-Hop,2020,2:33,153,135,E Major,0.672,0.414,0.66,0.685,0.159,-1.0,True,1.51,1,4521,39.0,Secretly Canadian
+TRK00767,Ghostly Chains,Skye Mack,Rock,2022,1:58,118,128,E Minor,0.663,0.503,0.313,0.506,0.079,-10.0,True,2.68,165,3423,,Universal Music
+TRK00768,Frozen Love,Finn Lowe,R&B,2018,5:16,316,80,G Major,0.571,0.196,0.192,0.379,0.048,-8.8,False,17.45,595,23985,,Beggars Group
+TRK00769,Blazing Soul,Juno Calloway ft. River Reid,Indie,2018,3:47,227,123,G Minor,0.881,0.403,0.235,0.219,0.084,-1.6,False,29.99,1410,29897,,A24 Sounds
+TRK00770,Wild Lights Still,Echo Chamber,R&B,2021,3:32,212,77,B Minor,0.291,0.353,0.363,0.889,0.19,-8.0,False,4.15,263,6888,,Beggars Group
+TRK00771,Broken Eyes Away,Cleo Drake,Electronic,2020,3:38,218,73,D Major,0.908,0.667,0.826,0.393,0.089,-4.2,False,1.7,22,4408,122.0,Interscope
+TRK00772,Wild Eyes,Marcus Holt,Country,2022,2:33,153,82,C# Major,0.444,0.269,0.399,0.608,0.062,-7.0,False,2.94,254,3020,53.0,Jagjaguwar
+TRK00773,Hollow Summer,Remy West ft. Luna Hartley,Rock,2016,2:57,177,139,F# Major,0.666,0.7,0.433,0.684,0.08,-8.3,False,23.36,1090,67826,16.0,Secretly Canadian
+TRK00774,Timeless Summer,Indigo Hartley,Electronic,2021,4:33,273,147,D Minor,0.637,0.68,0.332,0.448,0.043,-4.0,False,23.35,799,12443,,Dead Oceans
+TRK00775,Blazing Heart Inside,Lila Stone ft. Marcus Blaine,Hip-Hop,2018,3:52,232,142,D# Minor,0.647,0.482,0.76,0.538,0.11099999999999999,-5.7,False,5.3,384,13318,25.0,Universal Music
+TRK00776,Wild Shadows,Cleo Ashford,Hip-Hop,2022,2:58,178,124,C# Major,0.527,0.139,0.705,0.631,0.645,-12.9,True,2.11,130,4703,,Warner Music
+TRK00777,Bitter Soul,Cole Steele ft. Mia Reid,Hip-Hop,2017,2:40,160,93,C Minor,0.625,0.391,0.873,0.34,0.9119999999999999,-6.9,True,16.74,1181,46254,,Universal Music
+TRK00778,Velvet Soul,The Hollow Kings,Pop,2018,3:07,187,165,C# Major,0.397,0.141,0.553,0.669,0.02,-11.0,False,33.95,2250,61263,,Universal Music
+TRK00779,Midnight Waves,The Drift,R&B,2023,3:15,195,121,G# Minor,0.828,0.551,0.506,0.623,0.131,-3.1,False,0.64,1,1409,,Big Machine
+TRK00780,Fearless Silence,Rhys West ft. Remy Steele,Pop,2018,4:45,285,72,F# Minor,0.728,0.342,0.3,0.307,0.163,-1.4,False,3.04,167,1895,,Sony Music
+TRK00781,Cloudy Grace,Lila Cross,Electronic,2023,3:20,200,129,A Minor,0.872,0.399,0.827,0.377,0.031,-1.0,False,18.97,1132,28187,,Jagjaguwar
+TRK00782,Sweet Days,Jace Drake,Indie,2019,2:42,162,91,B Major,0.653,0.108,0.212,0.339,0.056,-6.2,True,4.55,219,11041,,Dead Oceans
+TRK00783,Burning Shadows Inside,Crater Lake,Rock,2018,3:25,205,82,D Major,0.704,0.481,0.765,0.325,0.052,-9.1,True,2.18,109,1683,,Jagjaguwar
+TRK00784,Golden Eyes,Soren Adler,Pop,2019,3:37,217,109,G Minor,0.937,0.287,0.378,0.081,0.376,-6.4,False,5.26,276,12918,,Warner Music
+TRK00785,Dark Dreams Again,Crater Lake,Hip-Hop,2024,2:38,158,143,C# Major,0.712,0.418,0.538,0.543,0.9239999999999999,-10.8,False,6.87,203,8729,,Sony Music
+TRK00786,Timeless Grace,Marcus Nova,Hip-Hop,2020,3:42,222,75,D# Minor,0.483,0.411,0.475,0.509,0.11699999999999999,-1.0,False,0.96,1,1327,,Warner Music
+TRK00787,Midnight Memories,Petra Mack,Latin,2019,4:13,253,82,B Minor,0.612,0.297,0.482,0.662,0.026,-3.3,False,4.66,331,9871,,A24 Sounds
+TRK00788,Fearless Love,Electric Fauna,Electronic,2021,3:32,212,91,G# Minor,1.0,0.498,0.719,0.136,0.152,-6.4,True,6.74,297,4687,,A24 Sounds
+TRK00789,Broken Memories,Zoe Blaine ft. Luna Mack,R&B,2020,2:57,177,146,E Minor,0.29,0.179,0.139,0.783,0.127,-4.0,False,2.2,63,4535,9.0,Interscope
+TRK00790,Silver Tears,Elijah Cruz ft. Theo Laurent,Rock,2023,3:07,187,117,D Minor,0.392,0.139,0.399,0.736,0.222,-9.2,True,1.53,143,4259,,Dead Oceans
+TRK00791,Cloudy Soul,Soren Cruz ft. Elijah Bane,Electronic,2024,2:24,144,133,D# Minor,0.735,0.504,0.254,0.218,0.035,-11.4,False,2.11,143,1549,,Concord
+TRK00792,Crimson Love Together,The Hollow Kings,R&B,2021,3:22,202,105,E Major,0.728,0.329,0.231,0.442,0.146,-15.2,True,1.18,36,1336,52.0,Beggars Group
+TRK00793,Hollow Roads,Electric Fauna,Pop,2021,3:39,219,123,E Minor,0.796,0.503,0.581,0.405,0.046,-7.2,False,12.63,900,6746,12.0,Jagjaguwar
+TRK00794,Crimson Soul,Soren Lowe,Pop,2020,2:53,173,132,B Major,0.736,0.43,0.384,0.548,0.135,-8.2,False,1.16,98,2082,59.0,Universal Music
+TRK00795,Ghostly Skies,Nora Lowe,Pop,2024,4:41,281,127,B Minor,0.372,0.24,0.218,0.587,0.08,-5.7,True,5.42,256,12614,,Sub Pop
+TRK00796,Blazing Love Together,Aria Holt,Rock,2021,3:57,237,96,A# Minor,0.57,0.599,0.263,0.446,0.375,-7.5,False,2.57,151,7237,11.0,Beggars Group
+TRK00797,Burning Echoes Always,Nora Stone ft. Asha Ashford,Indie,2018,2:19,139,100,D# Minor,0.389,0.281,0.477,0.768,0.117,-5.8,True,1.64,138,2328,,Sub Pop
+TRK00798,Blazing Rain Forever,Aria Solano ft. Lyra Hartley,Electronic,2024,2:20,140,78,D# Major,0.928,0.674,0.179,0.427,0.064,-4.7,False,25.22,1771,21988,,Secretly Canadian
+TRK00799,Velvet Soul Now,Nora Cruz,Rock,2024,2:50,170,139,F Major,0.781,0.42,0.678,0.304,0.092,-12.6,False,3.58,291,2050,173.0,Dead Oceans
+TRK00800,Frozen Heart,Soren Fox,Country,2020,4:27,267,76,D Minor,0.144,0.125,0.905,0.737,0.076,-4.5,False,1.74,101,2283,25.0,Jagjaguwar
+TRK00801,Velvet Fire,Lyra Steele,Pop,2020,4:01,241,80,C# Minor,0.616,0.362,0.322,0.469,0.033,-8.9,True,1.54,102,2742,10.0,Secretly Canadian
+TRK00802,Golden Tears,Rhys Pierce ft. Juno Mack,Pop,2022,4:29,269,121,A Major,0.798,0.523,0.28,0.24,0.383,-5.7,False,6.53,276,17970,,Secretly Canadian
+TRK00803,Burning Nights,Solar Hymn,Country,2023,3:27,207,84,F Minor,0.864,0.652,0.385,0.357,0.295,-3.9,False,12.36,614,12868,20.0,Secretly Canadian
+TRK00804,Neon Skies Together,Luna Nova,Country,2021,3:19,199,91,A# Minor,0.429,0.209,0.302,0.527,0.071,-3.9,True,21.8,881,53480,66.0,Interscope
+TRK00805,Quiet Dreams Now,Cole Reid ft. Axel Blaine,Electronic,2020,2:40,160,126,G Minor,0.565,0.312,0.266,0.665,0.144,-7.0,False,3.34,241,5685,6.0,Jagjaguwar
+TRK00806,Broken Echoes,Cleo Monroe,Hip-Hop,2019,3:40,220,62,E Minor,0.521,0.271,0.24,0.609,1.0,-6.9,False,3.08,129,8220,12.0,Concord
+TRK00807,Broken Fire,Elijah Calloway,Latin,2019,3:20,200,68,G# Minor,0.573,0.302,0.23,0.662,0.221,-4.4,False,4.9,249,13022,,Jagjaguwar
+TRK00808,Sweet Memories Inside,Cleo Blaine,R&B,2017,3:18,198,98,E Minor,0.827,0.562,0.626,0.048,0.064,-12.8,True,5.09,338,13459,,Concord
+TRK00809,Distant Waves Still,Luna Steele,Electronic,2023,4:28,268,141,F# Major,0.594,0.335,0.146,0.314,0.077,-10.8,False,1.55,32,2330,66.0,Concord
+TRK00810,Sweet Heart Inside,The Drift,Pop,2017,3:22,202,145,G Minor,0.827,0.747,0.533,0.494,0.021,-8.5,False,27.42,1375,37442,,Warner Music
+TRK00811,Crimson Rain,Neon Static,Rock,2020,4:18,258,130,F Minor,0.658,0.803,0.343,0.387,0.153,-12.2,True,4.28,254,4357,,Universal Music
+TRK00812,Electric Days Inside,Sage Mack,Indie,2023,2:27,147,74,B Minor,0.561,0.285,0.675,0.375,0.222,-8.5,False,8.46,697,9061,,Sub Pop
+TRK00813,Crimson Mind,Indigo Steele,Indie,2020,5:09,309,124,E Minor,0.547,0.397,0.471,0.538,0.223,-8.6,False,7.22,299,14732,,Secretly Canadian
+TRK00814,Dark Soul,Static Bloom,Rock,2019,3:13,193,91,G Minor,1.0,0.795,0.581,0.229,0.144,-7.2,False,6.99,380,20304,,Sony Music
+TRK00815,Sacred Blues,Asha Cruz,Rock,2024,3:54,234,88,G# Major,0.844,0.511,0.621,0.306,0.109,-7.7,False,1.15,52,2317,,Sony Music
+TRK00816,Lonely Memories,Lyra Calloway,Electronic,2017,4:00,240,113,D# Major,0.514,0.195,0.37,0.645,0.037,-3.8,True,4.06,222,6215,,Beggars Group
+TRK00817,Ghostly Heart,Zoe Ashford,Rock,2024,3:08,188,132,A# Major,0.809,0.769,0.57,0.393,0.106,-5.5,False,82.27,2996,90995,180.0,Beggars Group
+TRK00818,Faded Grace,Nora Blaine ft. Petra West,Hip-Hop,2016,3:58,238,135,G# Minor,0.565,0.463,0.432,0.582,0.15000000000000002,-7.7,False,32.08,1162,68327,,Big Machine
+TRK00819,Hollow Waves,Asha Cruz ft. Cleo Blaine,Pop,2020,4:00,240,125,G# Minor,0.474,0.353,0.581,0.783,0.125,-8.7,False,5.1,353,5239,39.0,Warner Music
+TRK00820,Midnight Shadows Always,Theo Nova,Pop,2022,3:00,180,140,A# Major,0.457,0.5,0.385,0.633,0.045,-7.7,False,2.61,169,1914,,Warner Music
+TRK00821,Golden Memories,Cleo Solis ft. Rhys Holt,R&B,2020,3:00,180,90,A# Major,0.525,0.449,0.275,0.575,0.124,-7.6,False,0.23,5,168,,Big Machine
+TRK00822,Crimson Bones Always,Finn Steele,Pop,2021,3:29,209,89,G Minor,0.811,0.52,0.353,0.448,0.237,-1.0,False,2.19,62,5751,,Sony Music
+TRK00823,Broken Nights Alone,Kai Adler ft. Aria Quinn,Pop,2018,3:23,203,69,C Major,0.415,0.133,0.312,0.734,0.111,-12.6,False,3.72,279,5414,,Universal Music
+TRK00824,Silver Lights Inside,Nora Cross,Country,2021,4:20,260,148,A# Major,0.377,0.176,0.345,0.59,0.107,-10.7,False,2.77,223,7896,,Jagjaguwar
+TRK00825,Silver Soul Forever,Solar Hymn,Electronic,2017,3:54,234,142,D Major,0.963,0.795,0.679,0.219,0.17,-11.3,False,2.97,216,5173,19.0,Interscope
+TRK00826,Quiet Heart Again,Rhys Wren ft. Ember Reid,Pop,2023,3:24,204,76,D Minor,0.759,0.589,0.735,0.445,0.338,-6.6,False,9.48,539,21128,120.0,Universal Music
+TRK00827,Distant Blues Always,Mia Quinn ft. Luna Solis,Hip-Hop,2022,3:50,230,138,A# Minor,0.804,0.496,0.386,0.286,0.22499999999999998,-6.7,True,1.14,12,2926,,Secretly Canadian
+TRK00828,Restless Eyes,Solar Hymn,R&B,2021,2:09,129,73,D# Minor,0.359,0.481,0.682,0.648,0.125,-9.5,False,5.96,410,16009,4.0,Sub Pop
+TRK00829,Bitter Heart,Petra Monroe,Hip-Hop,2016,3:04,184,121,E Major,0.75,0.465,0.503,0.233,0.8250000000000001,-4.4,False,3.53,273,3199,,Dead Oceans
+TRK00830,Electric Waves,Remy Fox ft. Remy Laurent,Rock,2021,3:38,218,83,F# Major,0.955,0.759,0.345,0.0,0.14,-6.2,False,1.33,1,1385,,Sony Music
+TRK00831,Midnight Shadows Inside,Cleo Solis,Rock,2021,4:09,249,129,E Minor,0.676,0.47,0.444,0.414,0.017,-4.2,False,36.83,2116,32234,,Beggars Group
+TRK00832,Crimson Love,The Hollow Kings,Pop,2019,3:35,215,127,G Minor,0.793,0.786,0.49,0.381,0.046,-3.3,False,10.94,786,17655,,Sony Music
+TRK00833,Lonely Love Alone,Vera Reid,R&B,2022,4:22,262,92,A Major,0.515,0.44,0.748,0.457,0.15,-15.0,True,1.51,30,1340,,AWAL
+TRK00834,Quiet Skies,Sage Stone ft. Lyra Lowe,Pop,2016,4:00,240,84,A Minor,0.451,0.3,0.572,0.805,0.06,-5.1,False,7.98,429,16974,,Sony Music
+TRK00835,Distant World,Paper Wolves,Rock,2018,3:08,188,147,G Minor,1.0,0.625,0.228,0.074,0.26,-12.0,False,0.68,88,956,,Dead Oceans
+TRK00836,Broken Time Inside,Jace Quinn ft. Cleo Solis,Pop,2023,3:22,202,72,F# Minor,0.32,0.206,0.598,0.854,0.363,-6.6,False,1.78,29,5180,6.0,Beggars Group
+TRK00837,Restless Winter,Velvet Riot,Pop,2017,3:43,223,152,D Major,0.711,0.361,0.179,0.481,0.051,-7.8,False,23.01,1470,58479,,Sony Music
+TRK00838,Electric Skies Alone,Juno Adler,Pop,2019,3:10,190,83,D# Major,0.792,0.323,0.211,0.628,0.036,-7.6,False,6.53,139,15088,15.0,Jagjaguwar
+TRK00839,Reckless Lights Always,Finn Voss,Indie,2022,4:25,265,123,G Major,0.405,0.306,0.208,0.741,0.061,-11.7,False,5.97,363,13264,,Dead Oceans
+TRK00840,Ghostly Grace,Ghost Circuit,Pop,2023,2:45,165,76,D Minor,0.441,0.212,0.614,0.474,0.059,-3.9,False,15.23,853,9122,,Concord
+TRK00841,Distant Winter,Nora Cruz,Hip-Hop,2016,3:39,219,71,D Minor,0.525,0.266,0.607,0.707,0.8430000000000001,-12.0,False,9.02,254,6397,,Beggars Group
+TRK00842,Midnight Mind,Remy Hartley,Pop,2017,3:55,235,141,C Major,0.898,0.571,0.11,0.485,0.036,-4.9,False,2.9,159,4582,,A24 Sounds
+TRK00843,Ghostly Dreams,Lyra Reid,R&B,2021,3:15,195,92,C Major,0.395,0.264,0.669,0.471,0.149,-12.5,False,14.12,878,39348,,Big Machine
+TRK00844,Midnight Shadows Away,Petra Laurent ft. Mia Wren,Rock,2022,3:07,187,122,A Major,0.867,0.565,0.48,0.383,0.249,-7.6,False,0.47,1,345,,Universal Music
+TRK00845,Distant Eyes,River Drake,Country,2021,3:24,204,132,A# Minor,0.665,0.676,0.264,0.571,0.158,-1.2,False,1.75,191,2713,,AWAL
+TRK00846,Distant Silence Inside,Nora Blaine ft. Cleo Calloway,Electronic,2022,3:58,238,136,F Minor,0.7,0.548,0.743,0.414,0.116,-1.0,True,3.7,347,9193,,Dead Oceans
+TRK00847,Silver Soul Alone,Echo Chamber,Rock,2023,3:08,188,118,E Major,0.636,0.708,0.332,0.201,0.072,-13.2,False,8.6,268,11175,21.0,Sony Music
+TRK00848,Reckless Dreams,Skye Kade,Electronic,2024,2:46,166,77,E Minor,1.0,0.589,0.597,0.164,0.36,-10.0,False,2.78,236,7849,7.0,AWAL
+TRK00849,Fearless Summer,Devon Holt,Pop,2020,4:11,251,122,A# Minor,0.885,0.685,0.625,0.222,0.067,-9.3,False,0.41,1,1163,53.0,Sony Music
+TRK00850,Fearless Nights Together,Devon Vale ft. Jace Ashford,Country,2018,3:42,222,152,D# Minor,0.581,0.324,0.496,0.719,0.175,-1.0,False,0.34,1,218,,AWAL
+TRK00851,Electric Heart,Dex Quinn ft. Devon Kade,Country,2019,4:05,245,90,G Minor,0.699,0.376,0.476,0.43,0.072,-7.7,False,3.79,237,7735,,A24 Sounds
+TRK00852,Wild Heart,Theo Ashford ft. Remy Wren,Hip-Hop,2017,3:56,236,143,F Major,0.579,0.677,0.262,0.487,0.056999999999999995,-3.7,False,2.2,175,1900,28.0,Interscope
+TRK00853,Fearless Nights,Cole Solano,Electronic,2020,4:50,290,70,B Minor,0.398,0.151,0.761,0.611,0.066,-6.5,False,1.27,43,2035,,Concord
+TRK00854,Quiet Soul,Finn Bane ft. Jace Mack,Pop,2024,4:09,249,82,D# Minor,0.329,0.0,0.421,0.776,0.072,-11.7,True,1.05,61,2881,,Sony Music
+TRK00855,Midnight Tears,Soren Calloway,Rock,2020,2:59,179,112,C Minor,1.0,0.551,0.338,0.207,0.073,-14.0,False,4.95,193,3382,5.0,Sony Music
+TRK00856,Cloudy Heart Inside,Finn Wren ft. Petra Vale,R&B,2017,3:45,225,116,F# Minor,0.498,0.043,0.571,0.507,0.048,-9.6,False,22.26,1545,63294,,Secretly Canadian
+TRK00857,Sweet Eyes,Sage Adler ft. Indigo Monroe,Country,2021,3:06,186,145,C Major,0.836,0.41,0.484,0.363,0.135,-1.0,False,4.97,275,14841,,Beggars Group
+TRK00858,Broken Blues,Zoe Ashford,Hip-Hop,2024,3:10,190,122,G# Minor,0.943,0.493,0.573,0.179,0.44399999999999995,-6.6,False,23.46,661,51039,,Concord
+TRK00859,Reckless Shadows Away,Cleo Wren,Electronic,2018,2:33,153,84,C# Minor,0.871,0.571,0.533,0.0,0.064,-3.8,False,2.53,42,3518,30.0,A24 Sounds
+TRK00860,Velvet Night Still,Solar Hymn,Electronic,2023,3:16,196,116,G# Major,0.555,0.074,0.413,0.636,0.064,-12.5,False,7.51,367,8467,,Concord
+TRK00861,Electric Echoes Always,Kai Voss ft. Lyra West,Pop,2023,3:48,228,94,G# Minor,0.231,0.318,0.619,0.884,0.035,-8.6,False,24.47,1288,38699,200.0,AWAL
+TRK00862,Neon Blues Still,Skye Laurent,Electronic,2020,3:24,204,144,F Major,0.893,0.318,0.41,0.31,0.101,-4.8,False,3.39,259,3219,11.0,AWAL
+TRK00863,Cloudy Summer,The Pale Hours,Electronic,2022,2:45,165,78,B Minor,0.713,0.446,0.154,0.377,0.247,-11.3,False,4.34,220,2387,131.0,Interscope
+TRK00864,Sweet Fire,Velvet Riot,R&B,2020,2:29,149,119,F Major,0.478,0.265,0.596,0.609,0.247,-7.7,False,2.56,205,1681,12.0,Beggars Group
+TRK00865,Fearless Lights,Dex Quinn ft. Axel Cain,Latin,2019,4:47,287,76,A# Major,0.488,0.433,0.121,0.708,0.051,-10.6,True,8.94,521,19300,,Sony Music
+TRK00866,Cloudy Bones,Velvet Riot,Pop,2020,3:39,219,133,D# Minor,0.83,0.589,0.206,0.26,0.404,-4.6,False,13.44,454,7417,,AWAL
+TRK00867,Burning Fire Always,Finn Solano,Pop,2017,2:56,176,126,G Minor,0.616,0.567,0.482,0.61,0.061,-6.1,False,6.47,443,8111,18.0,Big Machine
+TRK00868,Midnight Grace Alone,Theo Hartley,Pop,2022,3:45,225,118,E Minor,0.434,0.231,0.575,0.476,0.036,-5.1,False,3.12,154,6835,,Universal Music
+TRK00869,Cloudy Winter,Remy Kade,Pop,2023,4:50,290,95,G Minor,0.518,0.272,0.478,0.606,0.028,-4.5,False,0.6,1,562,,Warner Music
+TRK00870,Faded Fire Forever,Luna Voss ft. Lila Nova,Rock,2019,3:51,231,132,B Major,0.74,0.539,0.516,0.411,0.035,-8.3,False,3.88,169,5163,23.0,Universal Music
+TRK00871,Ghostly World,Axel Blaine,Indie,2021,1:41,101,69,G# Minor,0.509,0.475,0.469,0.713,0.107,-4.0,False,3.26,183,1886,9.0,AWAL
+TRK00872,Shattered Tears Tonight,Skye Shaw,Rock,2018,5:08,308,119,G Minor,1.0,0.766,0.688,0.09,0.067,-9.6,False,5.59,382,4366,,Sony Music
+TRK00873,Blazing Soul Alone,Devon Solis ft. Vera Voss,Electronic,2017,2:17,137,80,E Major,0.7,0.5,0.393,0.343,0.05,-5.3,True,4.77,148,5079,,A24 Sounds
+TRK00874,Restless Summer Now,The Pale Hours,Hip-Hop,2022,3:19,199,141,F# Minor,0.636,0.446,0.672,0.324,0.126,-14.4,False,32.43,2462,26444,12.0,Big Machine
+TRK00875,Dark Dreams Now,Kai Wren ft. Jace Adler,Hip-Hop,2017,2:44,164,142,F Major,0.395,0.252,0.382,0.616,0.10200000000000001,-10.1,False,1.66,157,2789,,Jagjaguwar
+TRK00876,Wild Dreams Still,Juno Drake,Indie,2023,2:59,179,93,F Major,0.296,0.25,0.646,0.794,0.04,-1.0,False,0.54,73,441,,Sub Pop
+TRK00877,Crimson Chains Still,Axel Wren ft. Elijah Solano,Electronic,2019,3:38,218,145,B Minor,0.914,0.879,0.296,0.053,0.185,-5.4,False,0.94,89,1187,,Dead Oceans
+TRK00878,Neon Fire Still,Jace Nova,Hip-Hop,2023,2:08,128,124,D Minor,0.972,0.598,0.686,0.169,1.0,-5.4,True,1.85,65,4271,22.0,Concord
+TRK00879,Dark Time Tonight,Midnight Radius,Country,2020,3:24,204,123,F# Minor,0.677,0.389,0.059,0.532,0.365,-10.4,False,16.97,799,36224,,Secretly Canadian
+TRK00880,Reckless Days Inside,Asha Holt ft. Ember Quinn,Rock,2020,4:11,251,75,G Minor,0.933,0.545,0.433,0.241,0.142,-11.3,False,0.77,73,1122,,Jagjaguwar
+TRK00881,Golden Rain,Lila Holt ft. Lyra Solis,Pop,2023,2:55,175,115,A# Major,0.637,0.469,0.313,0.499,0.055,-8.4,False,0.93,37,2629,10.0,AWAL
+TRK00882,Reckless Grace,Luna Cross,Rock,2021,2:34,154,124,D Minor,0.588,0.085,0.515,0.349,0.048,-7.7,False,7.16,320,17671,,Universal Music
+TRK00883,Crimson Time Always,Lyra Nova,Electronic,2018,3:22,202,85,G Major,0.725,0.452,0.675,0.408,0.15,-1.0,False,12.42,559,25062,,Concord
+TRK00884,Lost Love,Aria Pierce,Hip-Hop,2023,3:14,194,109,F# Major,0.609,0.519,0.803,0.516,0.201,-3.9,True,0.56,101,891,10.0,Universal Music
+TRK00885,Silver Love,Ghost Circuit,Indie,2020,3:04,184,129,C Major,0.773,0.429,0.527,0.362,0.114,-7.1,False,0.42,71,273,3.0,Beggars Group
+TRK00886,Wasted Time,Lyra Cain,Rock,2017,2:42,162,106,D# Major,0.67,0.462,0.586,0.482,0.385,-7.3,True,1.47,37,2252,6.0,Beggars Group
+TRK00887,Cloudy Roads Together,Axel Bane,Rock,2020,3:47,227,85,A# Major,0.897,0.878,0.584,0.245,0.098,-4.8,False,9.77,627,18203,,Warner Music
+TRK00888,Lonely Chains,Soren Lowe,Indie,2022,3:50,230,74,F# Minor,0.562,0.412,0.603,0.496,0.508,-12.1,False,5.06,452,15066,78.0,Interscope
+TRK00889,Dark Shadows,Remy Solis ft. Devon Reid,Rock,2022,2:47,167,121,A# Minor,0.408,0.0,0.834,0.549,0.033,-14.2,False,1.58,174,4548,,Interscope
+TRK00890,Timeless Soul Together,Ember Cruz,Hip-Hop,2023,2:52,172,118,D Minor,0.56,0.167,0.536,0.669,0.35100000000000003,-4.9,False,11.04,591,8617,,Universal Music
+TRK00891,Broken Summer,Neon Static,Pop,2021,3:32,212,143,B Major,0.454,0.26,0.56,0.49,0.106,-7.2,False,4.91,360,14475,9.0,Secretly Canadian
+TRK00892,Ghostly Summer,Skye Adler,Hip-Hop,2018,2:50,170,143,A# Minor,0.706,0.346,0.51,0.454,0.11099999999999999,-12.1,True,3.58,327,8543,,Sub Pop
+TRK00893,Wild Roads,Cole Holt ft. Aria Calloway,Hip-Hop,2019,3:34,214,132,A# Major,0.615,0.414,0.319,0.726,0.46799999999999997,-14.8,False,0.51,26,1124,,Warner Music
+TRK00894,Neon World,Marcus Steele,Pop,2017,4:23,263,108,D Minor,0.747,0.444,0.896,0.535,0.279,-4.4,False,1.5,50,4138,,Jagjaguwar
+TRK00895,Hollow Tears,The Drift,Rock,2023,3:25,205,134,G Minor,0.659,0.592,0.279,0.534,0.478,-9.3,False,53.73,1989,70528,,Universal Music
+TRK00896,Silver Nights Now,Zoe Hartley,Pop,2017,2:41,161,117,D# Major,0.357,0.079,0.532,0.744,0.114,-6.1,False,2.65,72,3970,16.0,Sony Music
+TRK00897,Frozen Roads,Kai Nova ft. Theo West,Pop,2022,3:42,222,75,A# Minor,0.684,0.416,0.34,0.437,0.018,-8.4,False,1.21,123,3239,22.0,Beggars Group
+TRK00898,Lost Lies Inside,Lyra Solano,Rock,2022,3:20,200,132,A# Minor,0.966,0.658,0.625,0.119,0.12,-7.6,False,2.56,146,1945,,Sony Music
+TRK00899,Cloudy Stars Alone,Echo Chamber,Hip-Hop,2023,3:21,201,91,F Major,0.91,0.639,0.613,0.242,0.44699999999999995,-9.6,True,4.93,217,11205,,Sony Music
+TRK00900,Restless Days,Elijah Lowe,Electronic,2016,3:45,225,130,A# Minor,1.0,0.671,0.756,0.269,0.068,-7.8,False,12.85,945,32440,,AWAL
+TRK00901,Faded Winter,Sage West ft. Petra Ashford,Electronic,2018,3:53,233,120,G Minor,0.467,0.0,0.275,0.673,0.097,-5.5,False,9.23,491,25037,101.0,Interscope
+TRK00902,Wasted Rain,Aria Bane,Hip-Hop,2024,3:28,208,120,D Major,0.712,0.474,0.659,0.525,0.168,-8.5,False,1.76,110,1844,17.0,Warner Music
+TRK00903,Neon Memories,Devon Cruz ft. Skye Mack,Pop,2022,3:25,205,116,C Major,0.768,0.478,0.504,0.532,0.074,-8.7,False,21.93,690,48204,,Warner Music
+TRK00904,Dark Fire Always,Luna Laurent ft. Aria Nova,Rock,2021,4:45,285,79,F Major,0.663,0.552,0.287,0.451,0.185,-5.4,True,12.05,545,8607,15.0,Interscope
+TRK00905,Hollow Love Together,Axel Steele,Pop,2023,4:13,253,81,C# Minor,0.844,0.65,0.537,0.348,0.249,-5.1,False,2.37,14,6286,,Sony Music
+TRK00906,Hollow Dreams,Juno Shaw ft. Asha Monroe,Rock,2024,3:59,239,140,F Major,0.82,0.567,0.703,0.116,0.03,-11.5,False,3.59,253,6119,3.0,Warner Music
+TRK00907,Neon Time,Kai Ashford,R&B,2019,3:32,212,114,A# Major,0.359,0.277,0.717,0.984,0.055,-7.6,False,9.03,411,18605,,Concord
+TRK00908,Distant Shadows,Indigo Blaine,Electronic,2024,2:49,169,86,A# Major,0.952,0.808,0.389,0.189,0.023,-9.3,False,17.15,608,45077,200.0,Secretly Canadian
+TRK00909,Cloudy Lies,Echo Chamber,Rock,2017,4:10,250,158,A# Minor,0.788,0.673,0.682,0.448,0.357,-7.5,False,0.57,62,1006,,Secretly Canadian
+TRK00910,Cloudy Fire Now,River Vale,Country,2024,3:32,212,125,A Minor,0.454,0.334,0.408,0.587,0.165,-2.5,False,4.65,165,8238,,Dead Oceans
+TRK00911,Lost Waves Now,Remy Mack,Pop,2018,3:05,185,135,G# Minor,0.614,0.699,0.547,0.456,0.017,-6.2,False,3.95,235,6563,30.0,Warner Music
+TRK00912,Neon Days,Mia Quinn,Indie,2019,3:18,198,117,A Minor,0.62,0.315,0.234,0.476,0.078,-1.0,True,1.97,148,3943,,Interscope
+TRK00913,Sweet Rain,Marcus Drake,R&B,2017,2:50,170,140,G Minor,0.589,0.217,0.545,0.379,0.065,-6.7,True,1.94,83,4449,,AWAL
+TRK00914,Quiet Waves Away,Remy Ashford,Hip-Hop,2023,4:07,247,136,C Minor,0.866,0.561,0.311,0.01,0.135,-8.1,True,16.62,539,41764,,Dead Oceans
+TRK00915,Frozen Bones Together,The Hollow Kings,Pop,2024,3:53,233,122,A Major,0.615,0.347,0.439,0.647,0.188,-7.6,False,8.5,545,4883,,Warner Music
+TRK00916,Wild Grace,Petra Drake,Pop,2019,3:34,214,114,D# Major,0.642,0.072,0.784,0.552,0.185,-7.0,False,63.98,2816,87664,,A24 Sounds
+TRK00917,Blazing Blues,River Kade ft. Sage Steele,Country,2019,3:25,205,84,D# Minor,0.509,0.24,0.481,0.483,0.102,-6.4,False,1.97,103,3115,,Big Machine
+TRK00918,Velvet Silence Alone,Devon West,Pop,2019,3:01,181,116,F Major,0.582,0.426,0.454,0.589,0.049,-11.0,False,4.94,323,3688,,Universal Music
+TRK00919,Cloudy Heart,Paper Wolves,Indie,2017,2:06,126,129,A Major,0.554,0.352,0.59,0.656,0.049,-8.3,False,6.13,380,14583,,Secretly Canadian
+TRK00920,Fearless Bones,Paper Wolves,Rock,2023,2:33,153,125,A# Minor,0.89,0.47,0.427,0.205,0.085,-10.0,True,13.53,630,24451,32.0,Sub Pop
+TRK00921,Dark Chains Still,Solar Hymn,Rock,2016,2:59,179,131,D# Minor,0.468,0.31,0.301,0.675,0.057,-3.9,False,23.83,1882,12027,,Universal Music
+TRK00922,Wild Winter,Marcus West,Electronic,2024,2:53,173,106,F Major,0.937,0.626,0.417,0.371,0.082,-14.2,False,4.79,205,9955,,Dead Oceans
+TRK00923,Reckless Days,Aria Cross,Pop,2024,3:38,218,121,A# Major,0.476,0.41,0.582,0.447,0.128,-7.0,False,1.02,32,1374,,Universal Music
+TRK00924,Neon Shadows,Midnight Radius,Hip-Hop,2017,3:58,238,67,C# Major,0.886,0.486,0.517,0.355,0.07200000000000001,-12.8,True,1.63,55,3776,,Universal Music
+TRK00925,Cloudy Rain,Juno Mack,Country,2021,3:22,202,107,F# Major,0.844,0.671,0.302,0.369,0.045,-6.0,False,5.03,142,4774,,Sub Pop
+TRK00926,Shattered Roads Alone,Electric Fauna,Pop,2024,4:21,261,85,G# Major,0.799,0.367,0.969,0.586,0.08,-8.9,False,18.26,908,9185,,Warner Music
+TRK00927,Hollow Echoes,Rhys Drake,Country,2023,2:57,177,121,C# Minor,0.701,0.385,0.526,0.506,0.287,-13.9,False,0.64,105,458,,Beggars Group
+TRK00928,Wasted Waves Alone,Cole Kade ft. Vera Pierce,Latin,2022,3:22,202,83,C# Minor,0.452,0.532,0.549,0.589,0.161,-4.2,True,0.92,1,1472,6.0,Sony Music
+TRK00929,Hollow Chains Forever,Lila Fox ft. Nora Lowe,Pop,2015,3:25,205,142,C Major,0.489,0.175,0.771,0.573,0.082,-16.3,False,10.85,673,25714,80.0,Sony Music
+TRK00930,Faded Lies,Electric Fauna,Rock,2016,4:09,249,119,C Major,0.572,0.28,0.412,0.785,0.113,-7.6,True,0.76,111,1527,100.0,Big Machine
+TRK00931,Sweet Chains Now,Marcus Adler ft. Mia Pierce,Pop,2023,3:31,211,126,B Minor,0.357,0.057,0.451,0.672,0.076,-5.1,False,0.98,90,526,,Universal Music
+TRK00932,Silver Chains Tonight,Mia Laurent,Electronic,2020,3:32,212,113,F# Major,1.0,0.534,0.292,0.27,0.194,-2.7,False,18.22,890,36057,,Beggars Group
+TRK00933,Restless World,Midnight Radius,Latin,2022,2:24,144,123,D# Major,0.741,0.501,0.414,0.379,0.116,-13.1,False,3.15,116,5372,,Sony Music
+TRK00934,Frozen Grace,Nora Pierce ft. Skye Fox,Indie,2023,2:53,173,79,F# Major,0.293,0.289,0.384,0.895,0.228,-9.3,False,2.87,92,7150,82.0,Interscope
+TRK00935,Sweet Lights,Static Bloom,Country,2020,4:09,249,112,B Minor,0.362,0.233,0.621,0.846,0.028,-3.7,False,24.63,1086,28119,10.0,AWAL
+TRK00936,Hollow Days,Soren Stone,Pop,2017,2:08,128,123,D# Major,0.655,0.38,0.614,0.473,0.043,-3.5,True,1.03,22,2366,,Sub Pop
+TRK00937,Wasted Shadows,Asha Cross ft. Lyra Cross,Rock,2020,4:18,258,137,G Major,0.87,0.392,0.649,0.255,0.102,-3.0,False,0.8,99,1663,100.0,Interscope
+TRK00938,Quiet Night,Nora Drake,Pop,2024,3:46,226,132,G# Minor,0.834,0.44,0.303,0.281,0.122,-1.0,False,35.27,1264,72567,,Sony Music
+TRK00939,Wild Rain,Skye Ashford,Indie,2020,2:59,179,126,G Minor,0.45,0.076,0.228,0.433,0.56,-9.3,False,5.63,361,8523,11.0,Big Machine
+TRK00940,Blazing Heart,The Hollow Kings,Pop,2016,2:55,175,89,F# Minor,0.657,0.53,0.474,0.486,0.019,-6.2,True,9.86,349,5246,23.0,Warner Music
+TRK00941,Bitter Echoes,Axel Shaw ft. Mia Laurent,Pop,2024,4:39,279,125,E Minor,0.713,0.576,0.295,0.439,0.08,-8.7,False,2.83,161,2742,,Universal Music
+TRK00942,Burning Bones Together,Luna Fox ft. Elijah Solis,Pop,2022,4:21,261,136,E Minor,0.427,0.272,0.292,0.56,0.077,-14.4,False,3.66,211,9554,,Beggars Group
+TRK00943,Lost Roads Forever,The Hollow Kings,Pop,2021,3:22,202,82,B Major,0.65,0.484,0.61,0.26,0.099,-7.8,True,1.67,20,3410,8.0,Universal Music
+TRK00944,Restless Dreams,Nora Steele,Pop,2023,3:32,212,140,C# Major,0.491,0.442,0.614,0.632,0.328,-14.5,True,6.38,263,12411,40.0,Universal Music
+TRK00945,Velvet Heart,River Kade ft. Rhys Pierce,Pop,2020,3:02,182,92,D Major,0.701,0.47,0.613,0.479,0.165,-9.3,False,12.25,783,22224,49.0,Secretly Canadian
+TRK00946,Silver Chains Away,Lyra Bane ft. Petra Nova,Indie,2024,3:32,212,81,F# Major,0.789,0.708,0.58,0.416,0.023,-12.6,False,5.47,276,3787,25.0,Sub Pop
+TRK00947,Electric Eyes Now,Jace Ashford,R&B,2023,3:01,181,123,C# Major,0.762,0.352,0.761,0.272,0.28,-6.0,False,16.76,744,22947,,Secretly Canadian
+TRK00948,Crimson Night,Luna Nova ft. Aria Holt,Hip-Hop,2019,3:24,204,133,D# Major,0.54,0.302,0.337,0.616,0.8220000000000001,-10.2,True,9.79,511,20048,,Universal Music
+TRK00949,Dark Days,Marcus Voss,R&B,2020,4:36,276,104,B Minor,0.618,0.336,0.755,0.484,0.101,-13.7,False,1.06,1,862,3.0,Concord
+TRK00950,Golden Skies Still,Elijah Solano ft. Zoe Calloway,Hip-Hop,2019,3:23,203,127,G# Minor,0.414,0.36,0.292,0.773,0.069,-4.5,False,3.43,172,9612,,Concord
+TRK00951,Timeless Roads Tonight,Soren Vale ft. River Cross,R&B,2022,2:47,167,135,A Major,0.343,0.022,0.699,0.609,0.073,-9.6,False,2.34,157,1594,118.0,Sub Pop
+TRK00952,Timeless Roads Away,Dex Mack,Hip-Hop,2022,2:35,155,134,C# Minor,0.652,0.627,0.837,0.616,0.357,-9.0,True,11.18,370,24590,4.0,Sony Music
+TRK00953,Broken Soul,Kai Stone,Rock,2021,3:32,212,121,C Major,0.632,0.489,0.497,0.676,0.182,-10.9,False,7.61,495,9536,,Warner Music
+TRK00954,Silver Skies Forever,Juno Nova,Hip-Hop,2024,2:58,178,129,A Minor,0.783,0.754,0.496,0.388,0.06,-3.5,False,5.01,303,13322,12.0,Secretly Canadian
+TRK00955,Frozen Summer,Theo Calloway,Pop,2021,3:36,216,126,G# Minor,0.246,0.154,0.38,0.852,0.044,-6.6,False,15.61,1121,40072,,Interscope
+TRK00956,Neon Dreams,The Hollow Kings,Rock,2023,2:25,145,111,F# Major,0.704,0.381,0.577,0.531,0.198,-9.6,False,0.37,1,493,,Jagjaguwar
+TRK00957,Reckless Mind,Cleo Cruz,R&B,2022,3:53,233,121,D Major,0.46,0.391,0.792,0.509,0.273,-14.2,False,1.92,192,3178,,Secretly Canadian
+TRK00958,Neon World Tonight,Elijah Blaine ft. Petra Quinn,R&B,2021,2:47,167,123,A Minor,0.376,0.389,0.638,0.641,0.116,-1.0,False,2.13,228,6172,,Beggars Group
+TRK00959,Fearless Memories,Crater Lake,Hip-Hop,2016,3:29,209,142,C Minor,0.722,0.369,0.731,0.445,0.618,-1.0,True,5.65,150,11411,50.0,Beggars Group
+TRK00960,Frozen Chains,Vera Mack ft. Kai Cruz,Rock,2022,3:14,194,151,F Minor,0.723,0.19,0.652,0.665,0.118,-2.4,False,8.62,264,4439,,Interscope
+TRK00961,Ghostly Lights Together,The Drift,R&B,2022,4:32,272,121,D Major,0.389,0.0,0.242,0.545,0.177,-10.0,False,4.19,369,10236,,Concord
+TRK00962,Quiet Echoes,Kai Pierce ft. Lila Adler,Pop,2017,3:34,214,135,D Major,0.79,0.55,0.496,0.565,0.092,-9.3,False,0.74,15,1038,,Big Machine
+TRK00963,Hollow World Inside,Velvet Riot,Pop,2023,4:41,281,137,C Major,0.548,0.572,0.237,0.538,0.121,-6.1,False,7.16,257,8517,34.0,Sony Music
+TRK00964,Cloudy Nights,Petra Holt,Hip-Hop,2021,3:48,228,138,G# Minor,0.215,0.0,0.886,0.824,0.093,-10.6,False,4.94,207,12746,3.0,A24 Sounds
+TRK00965,Fearless Waves,Skye Nova,Pop,2019,4:21,261,123,G Major,0.343,0.185,0.745,0.872,0.146,-11.0,False,0.61,1,1780,34.0,Dead Oceans
+TRK00966,Cloudy Love Always,Axel Shaw ft. Skye Cruz,Hip-Hop,2023,3:19,199,162,E Major,0.738,0.431,0.359,0.652,0.09,-2.4,True,2.87,113,1880,26.0,Sony Music
+TRK00967,Dark Winter,River Cain,Pop,2020,3:40,220,103,D Minor,0.405,0.532,0.758,0.727,0.146,-7.7,False,6.76,270,9977,,Warner Music
+TRK00968,Quiet Tears Again,Obsidian Coast,Electronic,2022,4:13,253,117,G Major,0.953,0.936,0.644,0.377,0.058,-11.4,False,36.02,1651,43198,,A24 Sounds
+TRK00969,Faded Tears,Jace Nova,Electronic,2022,4:01,241,125,F Major,0.526,0.401,0.186,0.469,0.11,-4.2,False,1.02,1,2799,,Sub Pop
+TRK00970,Reckless Roads,Sage Holt,R&B,2016,3:47,227,100,F Minor,0.706,0.585,0.635,0.372,0.038,-9.5,False,11.38,604,30375,,Beggars Group
+TRK00971,Wild Chains Now,Crater Lake,Electronic,2020,3:15,195,112,B Major,1.0,0.772,0.275,0.038,0.055,-14.4,False,1.03,1,2835,,Dead Oceans
+TRK00972,Bitter Eyes,Asha Cain ft. Kai Pierce,Hip-Hop,2018,3:21,201,90,D Minor,0.665,0.253,0.462,0.406,0.33,-11.5,True,0.79,126,479,,Concord
+TRK00973,Wild Nights,Ember Adler,Country,2018,4:10,250,78,D# Major,0.253,0.262,0.476,0.865,0.15,-9.3,False,0.85,22,531,,Jagjaguwar
+TRK00974,Broken Chains,Mia Mack ft. Skye Cain,R&B,2022,4:18,258,117,F# Minor,0.586,0.238,0.304,0.557,0.197,-6.7,False,9.22,551,17319,,Secretly Canadian
+TRK00975,Shattered Echoes Forever,Rhys Solano ft. Theo Pierce,Rock,2015,3:04,184,126,D# Major,0.561,0.341,0.462,0.758,0.033,-6.9,False,4.8,194,4402,62.0,AWAL
+TRK00976,Silver Dreams Now,Nora Solis,Pop,2024,2:59,179,138,D# Minor,0.654,0.585,0.469,0.723,0.025,-3.2,False,2.82,50,2204,,Warner Music
+TRK00977,Electric Winter,Rhys Adler,Electronic,2020,2:53,173,116,B Minor,0.699,0.466,0.56,0.424,0.038,-8.3,True,7.54,554,8677,15.0,Sub Pop
+TRK00978,Crimson Memories,Dex Solis ft. Jace Ashford,Electronic,2019,3:59,239,121,D Minor,0.901,0.74,0.761,0.198,0.035,-9.1,False,4.36,149,9912,,AWAL
+TRK00979,Restless Tears,Crater Lake,Electronic,2024,2:52,172,115,D# Minor,0.615,0.582,0.562,0.647,0.287,-3.1,False,4.9,203,10677,,Concord
+TRK00980,Faded Eyes,River Solis,R&B,2021,3:58,238,126,B Minor,0.203,0.0,0.707,0.989,0.24,-4.1,False,2.82,117,6945,,A24 Sounds
+TRK00981,Golden Soul,Rhys Steele,Country,2022,3:48,228,113,B Major,0.39,0.0,0.313,0.741,0.037,-8.2,False,1.1,103,722,,Jagjaguwar
+TRK00982,Shattered Chains,Juno Holt ft. Soren Stone,Country,2022,3:06,186,115,G Major,0.487,0.479,0.665,0.695,0.322,-6.5,True,37.85,2825,91446,21.0,AWAL
+TRK00983,Lost Dreams Inside,Luna Adler,Electronic,2024,4:26,266,132,G Major,0.733,0.645,0.841,0.479,0.229,-9.2,False,26.19,1297,45218,,Beggars Group
+TRK00984,Faded Rain,Finn Blaine ft. Remy Blaine,Latin,2017,2:31,151,99,B Major,0.671,0.472,0.756,0.345,0.022,-11.6,False,32.37,2627,41514,,Universal Music
+TRK00985,Velvet Shadows,Ghost Circuit,Country,2016,4:30,270,132,A Major,0.694,0.506,0.9,0.299,0.036,-1.0,False,2.02,100,4091,,Sub Pop
+TRK00986,Broken Winter,Jace Blaine ft. Sage Blaine,Pop,2024,3:39,219,115,C Minor,0.497,0.448,0.546,0.596,0.022,-9.4,False,1.75,94,4372,,Concord
+TRK00987,Electric Bones Inside,Remy Drake,Electronic,2015,2:08,128,144,D Minor,0.689,0.57,0.327,0.425,0.077,-6.5,False,2.37,155,1800,,Beggars Group
+TRK00988,Frozen Skies,Mia Solano,Pop,2022,4:27,267,93,F Minor,0.657,0.384,0.725,0.508,0.083,-12.8,False,16.97,1337,42734,,A24 Sounds
+TRK00989,Burning Silence,Solar Hymn,Hip-Hop,2022,4:04,244,82,E Major,0.565,0.501,0.116,0.532,0.249,-4.9,True,4.2,273,8079,5.0,Big Machine
+TRK00990,Crimson Time,Jace Vale,Hip-Hop,2021,3:11,191,78,G# Minor,0.351,0.18,0.405,0.515,0.048,-11.7,False,2.06,115,4223,7.0,Warner Music
+TRK00991,Burning Fire,Petra Laurent,Rock,2023,2:50,170,138,C# Minor,0.43,0.314,0.251,0.403,0.026,-1.6,False,6.77,457,18261,28.0,Warner Music
+TRK00992,Wasted Days,Iron Lullaby,Pop,2024,2:27,147,112,F Minor,0.58,0.405,0.355,0.624,0.101,-1.2,True,1.63,105,3708,,Concord
+TRK00993,Distant Mind Together,Nora Solano,Pop,2016,4:59,299,69,G Minor,0.5,0.205,0.656,0.52,0.135,-5.5,False,0.7,1,1371,,Universal Music
+TRK00994,Silver Fire Alone,Sage Nova,Pop,2022,2:52,172,154,E Major,0.692,0.346,0.342,0.419,0.016,-7.1,False,4.97,107,6660,,Universal Music
+TRK00995,Faded Waves,Iron Lullaby,Electronic,2022,2:39,159,84,A Major,0.723,0.783,0.437,0.355,0.029,-8.2,True,2.15,176,3817,,Concord
+TRK00996,Dark Memories Always,Echo Chamber,Indie,2019,3:37,217,126,F# Minor,0.666,0.308,0.514,0.358,0.186,-7.7,False,4.06,87,10521,49.0,Secretly Canadian
+TRK00997,Crimson Chains,Axel Blaine,Latin,2024,2:25,145,143,B Minor,0.685,0.497,0.28,0.339,0.031,-6.1,False,0.13,46,388,,Universal Music
+TRK00998,Fearless Days Always,Lyra Hartley ft. Axel Kade,Rock,2021,2:50,170,124,F Minor,1.0,0.731,0.553,0.322,0.081,-7.2,False,1.31,152,3131,,Universal Music
+TRK00999,Fearless Stars Together,Dex Laurent,Hip-Hop,2018,4:05,245,143,C Minor,0.363,0.228,0.47,0.681,0.08700000000000001,-4.1,True,3.88,288,9604,200.0,Warner Music
+TRK01000,Electric Grace Together,Ember Monroe ft. Indigo Drake,Indie,2023,3:45,225,133,D Minor,0.539,0.444,0.647,0.645,0.16,-10.7,False,0.59,1,1326,,Secretly Canadian
+TRK01001,Neon Winter,Jace West ft. Cleo Hartley,Pop,2024,3:12,192,118,E Minor,0.504,0.374,0.483,0.689,0.016,-2.2,False,0.62,44,1498,,Warner Music
+TRK01002,Crimson Tears Together,Kai Cain ft. Indigo Holt,Latin,2017,3:28,208,68,G Minor,0.712,0.341,0.519,0.468,0.064,-9.0,False,4.31,226,4775,77.0,Sub Pop
+TRK01003,Midnight Waves Always,River Stone ft. Remy Quinn,Electronic,2023,3:10,190,78,A Minor,0.745,0.559,0.52,0.5,0.174,-10.1,False,10.51,496,16391,,Big Machine
+TRK01004,Timeless Heart Always,Static Bloom,Rock,2018,3:25,205,104,C# Major,1.0,0.574,0.707,0.202,0.134,-6.2,False,1.29,96,2438,,Jagjaguwar
+TRK01005,Burning Blues,Petra Solis,Pop,2015,2:58,178,152,F Major,0.726,0.716,0.685,0.583,0.057,-6.0,True,2.88,74,5396,12.0,Universal Music
+TRK01006,Lost Days Tonight,The Pale Hours,Pop,2019,3:05,185,118,C Major,0.67,0.496,0.789,0.563,0.047,-13.6,False,3.03,159,6039,8.0,Sony Music
+TRK01007,Sweet World,Luna Calloway,Rock,2023,3:04,184,116,A Major,0.562,0.267,0.248,0.665,0.068,-9.2,False,0.55,74,1613,,Sony Music
+TRK01008,Hollow Fire Always,Velvet Riot,Hip-Hop,2017,2:59,179,81,A Minor,0.322,0.257,0.751,0.63,0.08700000000000001,-15.1,True,19.09,1476,50362,,Sub Pop
+TRK01009,Blazing Heart Together,Cole Mack,Indie,2017,4:07,247,128,C Minor,0.653,0.295,0.254,0.509,0.076,-9.9,False,3.23,7,8299,,Secretly Canadian
+TRK01010,Frozen Eyes Away,Finn Stone ft. Cleo Pierce,Electronic,2023,3:56,236,75,D Major,1.0,0.686,0.499,0.0,0.077,-9.7,False,3.37,153,8680,61.0,Concord
+TRK01011,Distant Mind,Solar Hymn,Hip-Hop,2020,2:52,172,124,B Major,0.742,0.451,0.412,0.575,0.177,-6.5,False,6.75,530,16762,107.0,Universal Music
+TRK01012,Sweet Love,Lila Wren ft. River Kade,Pop,2017,2:42,162,117,B Minor,0.645,0.303,0.345,0.409,0.183,-10.3,False,0.54,93,1186,,Universal Music
+TRK01013,Velvet Mind,Rhys Blaine,Rock,2018,3:21,201,102,C Minor,0.675,0.321,0.613,0.402,0.035,-9.4,False,13.61,820,15533,,Sony Music
+TRK01014,Reckless Rain,Elijah Adler ft. Lyra Kade,Pop,2023,4:49,289,76,C Minor,0.554,0.701,0.304,0.393,0.021,-2.9,False,16.54,603,43655,,Warner Music
+TRK01015,Golden Silence Tonight,Lyra Adler ft. Asha Solano,Electronic,2022,2:48,168,133,F Major,0.844,0.561,0.521,0.32,0.054,-1.0,False,5.04,287,6044,1.0,Interscope
+TRK01016,Restless Lies Still,The Drift,Electronic,2023,3:21,201,144,F# Major,0.775,0.443,0.533,0.348,0.091,-10.7,False,7.7,463,17804,,Sub Pop
+TRK01017,Burning Rain Now,Theo Vale ft. Rhys Cross,R&B,2017,3:30,210,109,C# Minor,0.474,0.223,0.421,0.84,0.075,-3.9,False,2.68,132,2083,52.0,Big Machine
+TRK01018,Shattered Eyes Now,Neon Static,Rock,2021,3:23,203,124,C Minor,0.703,0.523,0.515,0.541,0.073,-6.1,False,12.84,499,23987,26.0,Sony Music
+TRK01019,Wild Days,Paper Wolves,Hip-Hop,2023,3:10,190,81,D Minor,0.4,0.171,0.555,0.618,0.099,-13.6,False,1.45,101,1880,,Sub Pop
+TRK01020,Fearless Bones Inside,Cleo Cain ft. Jace Solano,Indie,2019,4:11,251,76,B Minor,0.287,0.033,0.736,0.57,0.037,-10.3,True,3.97,118,8976,,Beggars Group
+TRK01021,Cloudy Shadows,Petra Pierce,Electronic,2018,3:44,224,88,B Major,0.759,0.489,0.16,0.119,0.056,-18.1,True,4.27,414,11265,,AWAL
+TRK01022,Bitter Shadows,Marcus Hartley,Electronic,2020,3:59,239,140,F# Major,0.751,0.483,0.264,0.276,0.052,-6.4,False,3.95,14,2128,,Concord
+TRK01023,Hollow Eyes,Asha Blaine ft. Cole Cross,Rock,2020,3:49,229,144,C# Major,0.695,0.393,0.284,0.284,0.198,-11.3,False,16.69,1353,13115,,A24 Sounds
+TRK01024,Golden Days,Velvet Riot,Indie,2018,4:01,241,82,F Major,0.769,0.375,0.617,0.427,0.101,-7.0,True,70.79,4044,199188,,Sub Pop
+TRK01025,Lost Tears,Nora Cain,Pop,2024,4:27,267,112,C# Major,0.775,0.449,0.441,0.363,0.054,-1.0,False,3.68,310,4041,,AWAL
+TRK01026,Quiet Eyes Away,Rhys Monroe,Hip-Hop,2021,4:18,258,140,C# Major,0.808,0.459,0.434,0.356,0.591,-1.9,False,7.7,461,17917,,Sony Music
+TRK01027,Lost Summer Away,The Drift,R&B,2022,4:55,295,108,F Major,0.489,0.233,0.818,0.495,0.117,-10.2,False,1.48,1,3746,47.0,A24 Sounds
+TRK01028,Burning Winter,Axel Vale,Pop,2017,4:13,253,137,B Minor,0.687,0.485,0.133,0.469,0.028,-11.0,False,15.67,679,36846,,Universal Music
+TRK01029,Lonely Silence Still,Marcus Hartley,R&B,2022,3:02,182,131,B Major,0.503,0.639,0.382,0.427,0.006,-3.0,False,2.14,143,1241,,Concord
+TRK01030,Frozen Bones,Jace Vale ft. Cole Blaine,Hip-Hop,2021,3:59,239,122,F Minor,0.729,0.66,0.533,0.406,0.084,-11.0,False,249.3,16578,583002,14.0,Universal Music
+TRK01031,Blazing Skies Away,Dex Mack,Pop,2024,3:54,234,157,F# Major,0.731,0.747,0.181,0.515,0.132,-4.0,False,0.48,59,1393,164.0,Universal Music
+TRK01032,Midnight Dreams,Kai Shaw,Pop,2020,4:40,280,118,A Major,0.532,0.266,0.748,0.531,0.167,-1.0,False,67.81,4434,96424,10.0,Universal Music
+TRK01033,Lonely Night,Remy Mack,Indie,2023,2:50,170,73,B Major,0.397,0.493,0.947,0.736,0.022,-5.1,False,15.31,1134,34840,,AWAL
+TRK01034,Bitter Mind Still,Lyra Ashford,R&B,2019,3:48,228,126,G# Major,0.488,0.349,0.185,0.372,0.139,-3.4,False,0.96,110,1143,,Dead Oceans
+TRK01035,Shattered Memories Forever,Lila Calloway,Hip-Hop,2022,3:01,181,103,A# Major,0.733,0.615,0.33,0.167,0.405,-3.8,False,85.65,5385,256405,,Universal Music
+TRK01036,Faded Heart Now,Devon Solis ft. Vera Reid,Pop,2024,3:46,226,117,C Minor,0.705,0.522,0.543,0.475,0.251,-9.4,False,1.27,154,1296,,Sony Music
+TRK01037,Shattered Days Now,Vera Drake,Hip-Hop,2022,3:19,199,131,B Minor,0.541,0.304,0.629,0.693,0.528,-6.5,True,2.79,107,3526,,Warner Music
+TRK01038,Wasted Stars,Jace Solis,Pop,2022,3:45,225,110,F Major,0.434,0.383,0.367,0.624,0.242,-10.8,False,0.78,1,717,3.0,Universal Music
+TRK01039,Faded Dreams,Solar Hymn,R&B,2024,2:33,153,153,D Major,0.524,0.408,0.78,0.838,0.121,-3.0,True,3.51,184,10136,,Concord
+TRK01040,Shattered Fire,Indigo Quinn ft. Mia Reid,Pop,2024,3:57,237,124,C Major,0.796,0.27,0.717,0.19,0.118,-11.3,False,3.96,320,7637,,Big Machine
+TRK01041,Electric Grace,Axel Mack,Pop,2018,3:35,215,80,F# Minor,0.582,0.361,0.671,0.453,0.063,-5.0,False,12.11,524,13532,,Sony Music
+TRK01042,Velvet Heart Alone,Soren Wren,Pop,2018,3:33,213,134,G Major,0.337,0.341,0.627,0.747,0.158,-3.5,True,97.98,5366,81937,43.0,Sony Music
+TRK01043,Dark Night,Marcus Monroe ft. Skye Reid,Electronic,2021,4:41,281,127,G Major,1.0,0.689,0.436,0.256,0.028,-9.2,False,2.15,261,5777,,Beggars Group
+TRK01044,Cloudy Memories Alone,Soren Lowe,Electronic,2024,3:12,192,118,F Minor,0.723,0.536,0.596,0.352,0.073,-10.0,False,0.12,1,78,,Beggars Group
+TRK01045,Broken Night,Cole Ashford ft. Axel Shaw,Electronic,2021,3:40,220,125,C# Minor,1.0,0.545,0.461,0.073,0.126,-8.1,True,9.71,452,20470,17.0,Big Machine
+TRK01046,Wasted Lies,The Pale Hours,Rock,2020,3:31,211,88,D# Minor,0.744,0.519,0.265,0.479,0.253,-10.6,False,2.03,59,4111,9.0,Universal Music
+TRK01047,Timeless Dreams,Nora Laurent ft. Devon Holt,Latin,2021,3:35,215,125,D# Major,0.404,0.249,0.657,0.693,0.056,-7.0,False,44.43,3342,107942,,Universal Music
+TRK01048,Wild Silence Alone,Cleo Blaine,Rock,2016,4:51,291,132,F Major,0.867,0.535,0.405,0.265,0.178,-10.7,False,3.9,134,8598,9.0,Jagjaguwar
+TRK01049,Lost Winter Forever,Zoe Nova,Indie,2018,3:29,209,121,F# Major,0.322,0.114,0.241,0.802,0.07,-10.5,False,1.53,174,3964,,Concord
+TRK01050,Cloudy Chains,Soren Kade,Electronic,2017,3:05,185,141,B Minor,0.693,0.579,0.331,0.429,0.181,-5.6,True,1.1,123,654,,Concord
+TRK01051,Shattered Time,Skye Cain,Pop,2015,4:38,278,89,A# Minor,0.471,0.355,0.55,0.606,0.043,-5.3,False,9.11,572,14354,,Universal Music
+TRK01052,Hollow Grace Away,Cole Laurent,R&B,2023,3:15,195,90,G# Major,0.399,0.294,0.849,0.66,0.147,-8.5,False,2.95,106,2072,,Beggars Group
+TRK01053,Cloudy Blues Away,Marcus Solano,Rock,2019,2:26,146,137,G Minor,0.755,0.778,0.343,0.297,0.076,-13.3,False,27.88,1552,42183,67.0,Jagjaguwar
+TRK01054,Reckless Time Tonight,Midnight Radius,Electronic,2018,2:59,179,137,C# Major,1.0,0.716,0.531,0.089,0.032,-3.4,False,3.13,168,5953,,Big Machine
+TRK01055,Faded Heart,Iron Lullaby,Pop,2021,2:40,160,144,D Minor,0.509,0.499,0.702,0.53,0.073,-9.1,False,26.29,1004,52170,21.0,Warner Music
+TRK01056,Silver Roads Alone,Static Bloom,Hip-Hop,2019,2:19,139,143,B Major,0.84,0.584,0.661,0.332,0.708,-1.0,False,0.69,19,1940,9.0,Warner Music
+TRK01057,Restless Stars Together,Zoe Cross ft. Theo Laurent,Indie,2020,3:13,193,122,A Major,0.161,0.055,0.321,0.647,0.036,-8.0,False,0.43,81,1205,7.0,Dead Oceans
+TRK01058,Reckless Night,River Steele,Pop,2019,3:24,204,153,B Major,0.749,0.339,0.609,0.514,0.025,-7.0,False,12.16,546,15497,,Big Machine
+TRK01059,Quiet Mind Tonight,Zoe Pierce ft. Rhys Vale,Pop,2015,4:12,252,143,D Minor,0.482,0.347,0.52,0.617,0.113,-9.0,False,2.22,136,4989,83.0,Sony Music
+TRK01060,Silver Roads Always,Skye Pierce,Hip-Hop,2022,3:51,231,84,A Major,0.398,0.0,0.844,0.554,0.063,-6.6,True,2.98,120,6799,,Sub Pop
+TRK01061,Reckless Silence,Sage Lowe ft. Nora Reid,Rock,2017,3:49,229,72,C# Major,0.815,0.568,0.561,0.542,0.287,-1.0,False,1.1,166,3182,2.0,Warner Music
+TRK01062,Lost Fire,Lyra Wren ft. River Monroe,Indie,2018,2:53,173,105,C Minor,0.545,0.398,0.316,0.569,0.281,-8.7,False,1.0,119,709,,Beggars Group
+TRK01063,Sweet Nights,Devon Kade,Electronic,2018,4:01,241,129,G# Minor,0.708,0.43,0.662,0.273,0.188,-3.0,False,9.41,437,19223,22.0,Sub Pop
+TRK01064,Sweet Chains,Paper Wolves,Country,2020,4:20,260,134,F Minor,0.101,0.053,0.711,1.0,0.081,-7.2,False,4.06,163,6163,,Big Machine
+TRK01065,Timeless Heart Tonight,Petra Laurent,Rock,2018,3:42,222,124,F# Minor,1.0,0.475,0.362,0.363,0.311,-3.4,False,1.04,1,1423,,Concord
+TRK01066,Wild Blues Inside,Solar Hymn,Hip-Hop,2020,3:43,223,77,F Minor,0.526,0.536,0.522,0.47,0.723,-14.3,True,11.62,876,23748,7.0,Warner Music
+TRK01067,Midnight Summer Still,Kai Calloway,Pop,2019,2:39,159,131,G Minor,0.615,0.353,0.524,0.469,0.054,-1.0,False,19.06,985,22849,,Warner Music
+TRK01068,Lost Love Always,Neon Static,Pop,2016,4:07,247,128,A# Major,0.617,0.265,0.666,0.451,0.26,-6.3,False,3.54,197,2087,,Sony Music
+TRK01069,Sacred Heart Together,River Laurent,R&B,2024,4:35,275,98,A# Major,0.373,0.319,0.576,0.475,0.04,-8.4,False,15.63,553,38207,14.0,Jagjaguwar
+TRK01070,Golden Summer,Dex West,Pop,2019,3:39,219,127,F Major,0.456,0.312,0.463,0.674,0.07,-4.3,False,1.12,73,803,97.0,Dead Oceans
+TRK01071,Shattered Soul Forever,Lila Monroe,Hip-Hop,2017,3:04,184,77,A# Major,0.789,0.463,0.614,0.47,0.06,-7.0,True,8.67,358,11448,62.0,Universal Music
+TRK01072,Wasted Echoes,Nora Adler ft. Jace Steele,Indie,2021,3:21,201,130,D Major,0.546,0.29,0.395,0.642,0.092,-11.5,False,5.16,437,10254,,Jagjaguwar
+TRK01073,Sweet Lies Forever,Dex Steele,Rock,2017,3:11,191,147,A Major,1.0,0.649,0.718,0.204,0.065,-16.0,False,1.46,35,3006,5.0,Warner Music
+TRK01074,Lost Grace,Paper Wolves,Pop,2023,3:13,193,116,G Major,0.509,0.519,0.418,0.706,0.057,-1.1,True,60.88,4781,131845,,Sony Music
+TRK01075,Shattered Silence,Elijah Cruz ft. Axel Bane,Electronic,2016,3:52,232,91,B Minor,0.872,0.633,0.609,0.166,0.072,-8.3,True,5.52,232,16484,,Sub Pop
+TRK01076,Burning Love Still,Indigo Monroe,Rock,2021,3:38,218,115,C Minor,0.686,0.441,0.438,0.669,0.052,-9.6,True,1.94,115,2916,,Secretly Canadian
+TRK01077,Restless Soul,Iron Lullaby,Indie,2024,4:05,245,126,C# Minor,0.659,0.548,0.428,0.38,0.085,-9.4,False,4.35,174,3670,,Concord
+TRK01078,Fearless Skies,Vera Hartley ft. Zoe Drake,Electronic,2017,3:41,221,125,G# Minor,0.55,0.361,0.417,0.481,0.229,-2.4,True,1.32,1,1115,23.0,A24 Sounds
+TRK01079,Shattered Roads,Jace Shaw ft. Rhys Quinn,Pop,2018,2:54,174,132,C Major,0.936,0.665,0.353,0.182,0.035,-9.2,False,0.91,76,1615,,Universal Music
+TRK01080,Bitter Eyes Now,Cleo Blaine,Pop,2022,3:08,188,97,G# Major,0.4,0.281,0.092,0.602,0.164,-5.2,False,2.34,104,3414,19.0,Universal Music
+TRK01081,Blazing Lies Alone,Ghost Circuit,Hip-Hop,2024,3:06,186,126,G# Major,0.59,0.466,0.524,0.505,0.29400000000000004,-8.7,False,2.58,80,7179,,Warner Music
+TRK01082,Cloudy Tears,Iron Lullaby,Electronic,2020,3:20,200,115,C# Minor,1.0,0.588,0.443,0.172,0.111,-11.9,False,1.46,98,2594,9.0,Beggars Group
+TRK01083,Hollow Memories Inside,Lyra Voss,Rock,2022,4:35,275,140,G# Major,0.715,0.305,0.407,0.444,0.08,-4.3,False,21.36,1570,34814,,Warner Music
+TRK01084,Quiet Shadows,Ghost Circuit,R&B,2017,4:41,281,120,A# Minor,0.383,0.376,0.846,0.595,0.046,-3.6,False,1.51,225,4010,,Concord
+TRK01085,Electric Echoes,Lyra Cross,Rock,2022,3:59,239,115,C Major,0.829,0.75,0.608,0.357,0.117,-9.9,False,1.25,121,3112,,Universal Music
+TRK01086,Sacred Skies,Asha Adler ft. River Stone,Hip-Hop,2019,3:32,212,86,F# Major,0.642,0.264,0.685,0.356,0.372,-7.6,False,0.89,79,2033,,Sony Music
+TRK01087,Frozen Lights,Nora Voss,Pop,2022,2:35,155,126,D# Minor,0.526,0.367,0.514,0.667,0.043,-7.2,False,0.79,1,1436,18.0,AWAL
+TRK01088,Dark Rain,Cole Holt,Pop,2016,3:35,215,91,B Major,0.349,0.164,0.339,0.807,0.028,-5.9,True,15.5,553,16843,,Dead Oceans
+TRK01089,Ghostly Roads Together,Midnight Radius,Hip-Hop,2021,2:57,177,130,D Minor,0.764,0.62,0.766,0.388,0.264,-1.0,False,5.85,343,11224,,Sony Music
+TRK01090,Bitter Lights,Velvet Riot,Rock,2018,4:29,269,108,F# Minor,0.792,0.549,0.183,0.288,0.15,-8.6,False,10.1,621,7973,,Warner Music
+TRK01091,Ghostly Time,Remy Pierce,Country,2022,2:26,146,115,G Minor,0.523,0.806,0.543,0.619,0.183,-8.7,False,15.78,757,29067,,Secretly Canadian
+TRK01092,Hollow Grace,Devon Pierce,Pop,2023,3:42,222,64,G# Minor,0.619,0.36,0.85,0.398,0.215,-8.1,False,2.74,232,7202,,Warner Music
+TRK01093,Broken Love Away,Neon Static,Electronic,2023,2:54,174,103,F Major,0.824,0.751,0.473,0.345,0.11,-10.8,True,28.61,1440,51141,,Dead Oceans
+TRK01094,Lost Winter Now,Lyra Reid,Pop,2024,3:27,207,76,D# Major,0.59,0.612,0.753,0.51,0.066,-13.5,False,1.88,94,1261,,Jagjaguwar
+TRK01095,Frozen World Inside,River Kade,Electronic,2021,3:52,232,128,G Minor,0.819,0.607,0.38,0.66,0.082,-7.0,False,1.01,68,584,,AWAL
+TRK01096,Wild Night Away,Lila Adler,Pop,2022,4:06,246,120,A Major,0.442,0.292,0.306,0.499,0.03,-5.7,True,6.83,410,18107,,Sub Pop
+TRK01097,Ghostly Memories,Obsidian Coast,Electronic,2015,3:25,205,92,G# Major,0.587,0.395,0.858,0.21,0.048,-7.5,False,4.89,369,5186,,Big Machine
+TRK01098,Wild Tears,Finn Pierce,Pop,2024,3:56,236,152,E Major,0.719,0.469,0.766,0.348,0.079,-7.7,False,5.11,247,9270,,Universal Music
+TRK01099,Golden Rain Forever,Remy Cross ft. Petra Hartley,Pop,2022,3:02,182,113,D# Minor,0.582,0.537,0.275,0.329,0.066,-10.6,False,15.72,1145,38387,,Interscope
+TRK01100,Burning Echoes,Zoe Mack,Rock,2020,3:36,216,113,D Major,0.569,0.248,0.299,0.458,0.088,-6.6,False,4.77,291,5404,200.0,AWAL
+TRK01101,Timeless Blues Tonight,Zoe Nova ft. Rhys Solano,Hip-Hop,2020,4:05,245,123,D# Minor,0.771,0.479,0.683,0.227,0.081,-6.9,True,6.25,213,14647,,AWAL
+TRK01102,Restless Fire,Luna Nova ft. Luna Nova,Rock,2023,3:40,220,148,C# Major,0.475,0.269,0.812,0.511,0.033,-5.8,True,24.72,1616,17013,,Universal Music
+TRK01103,Shattered Blues,Vera Holt,Hip-Hop,2023,3:07,187,83,E Major,0.37,0.0,0.9,0.576,0.45899999999999996,-6.4,True,5.97,436,14158,6.0,Sony Music
+TRK01104,Restless Grace Now,Theo Hartley,Country,2023,3:16,196,95,B Major,0.608,0.515,0.579,0.629,0.042,-6.1,True,8.02,208,5292,39.0,Jagjaguwar
+TRK01105,Sweet Shadows Now,Elijah Bane,Hip-Hop,2021,4:06,246,126,F Major,0.552,0.508,0.529,0.553,0.14400000000000002,-2.9,False,0.66,51,787,5.0,Jagjaguwar
+TRK01106,Broken Memories Always,The Pale Hours,Rock,2020,2:46,166,96,D Major,0.844,0.46,0.705,0.454,0.089,-5.5,False,523.17,16655,597334,,Interscope
+TRK01107,Neon Night,Ghost Circuit,Indie,2024,2:51,171,107,D# Minor,0.127,0.227,0.352,0.903,0.039,-5.8,False,0.54,19,1473,,Sub Pop
+TRK01108,Lost Chains,Marcus Monroe ft. Axel Solis,Electronic,2022,3:50,230,113,A Major,0.955,0.399,0.669,0.347,0.199,-13.6,False,2.08,167,3819,,Beggars Group
+TRK01109,Golden Nights Always,Static Bloom,Hip-Hop,2021,3:10,190,85,F Major,0.675,0.442,0.679,0.424,0.09,-3.8,False,1.99,107,5189,35.0,Sony Music
+TRK01110,Midnight Fire Together,Iron Lullaby,Rock,2022,2:32,152,114,A# Major,0.87,0.548,0.209,0.495,0.082,-8.5,False,65.07,4208,127257,19.0,Warner Music
+TRK01111,Distant Lights,Mia West ft. Petra Cain,Pop,2022,4:18,258,90,E Major,0.764,0.509,0.306,0.445,0.045,-7.2,False,1.92,85,4833,23.0,Big Machine
+TRK01112,Velvet Love Away,Aria Ashford ft. Lyra Quinn,Rock,2022,2:45,165,96,E Minor,0.666,0.444,0.893,0.374,0.093,-12.0,False,7.46,379,14012,,Sony Music
+TRK01113,Crimson Shadows Inside,Solar Hymn,Hip-Hop,2021,3:19,199,130,F# Major,0.415,0.259,0.666,0.742,0.165,-1.0,True,2.01,125,3265,,Warner Music
+TRK01114,Faded Summer,Aria Mack ft. Mia Pierce,R&B,2024,3:03,183,83,A Minor,0.523,0.286,0.498,0.585,0.081,-16.2,False,1.1,30,2359,,Sub Pop
+TRK01115,Golden Love,Luna Pierce,Indie,2023,3:16,196,140,C# Major,0.458,0.282,0.806,0.609,0.218,-2.3,False,8.86,656,10774,6.0,Secretly Canadian
+TRK01116,Quiet Fire,Indigo Solano,Pop,2021,2:53,173,154,E Major,0.767,0.689,0.801,0.398,0.047,-6.0,False,1.64,164,4586,,Universal Music
+TRK01117,Wild Stars Forever,Juno Holt ft. Elijah Steele,Pop,2018,3:54,234,133,E Minor,0.531,0.264,0.361,0.665,0.047,-14.2,True,5.39,359,14932,,Universal Music
+TRK01118,Fearless Night,Cleo Monroe,Hip-Hop,2022,3:31,211,111,B Major,0.479,0.627,0.371,0.363,0.192,-1.0,True,9.48,318,6463,,Warner Music
+TRK01119,Lonely Rain Again,Jace Hartley,Rock,2022,4:04,244,119,A# Minor,1.0,0.561,0.578,0.158,0.267,-5.7,True,50.09,3756,139849,,Universal Music
+TRK01120,Electric Chains,Marcus Vale,Hip-Hop,2021,3:04,184,129,E Major,0.291,0.223,0.26,0.849,0.22799999999999998,-15.8,True,0.81,1,773,,Warner Music
+TRK01121,Sweet Mind Tonight,The Pale Hours,Electronic,2024,4:48,288,125,C# Major,0.61,0.476,0.614,0.542,0.22,-9.0,False,3.48,92,7667,,AWAL
+TRK01122,Restless Heart,Jace Monroe,Rock,2017,2:15,135,112,D Minor,0.886,0.535,0.819,0.156,0.071,-5.6,False,3.54,199,9054,10.0,Interscope
+TRK01123,Fearless Night Still,Skye Hartley,Country,2019,2:27,147,116,C# Major,0.689,0.641,0.467,0.165,0.213,-1.5,False,4.14,230,4566,,AWAL
+TRK01124,Ghostly Lights,Velvet Riot,Hip-Hop,2024,4:34,274,83,F Minor,0.669,0.511,0.352,0.669,0.342,-8.9,True,119.63,7180,93507,,Warner Music
+TRK01125,Silver Summer Always,Ghost Circuit,Pop,2024,3:45,225,128,A Minor,0.522,0.311,0.407,0.56,0.128,-16.8,False,3.39,139,8103,,Warner Music
+TRK01126,Timeless Waves Away,Marcus Cross,Hip-Hop,2020,3:40,220,78,D# Major,0.587,0.574,0.579,0.712,0.078,-2.4,True,0.16,1,256,33.0,Universal Music
+TRK01127,Lost Rain,Juno Laurent,Electronic,2018,3:43,223,74,F# Major,0.838,0.403,0.205,0.425,0.023,-5.8,False,3.18,175,5459,,A24 Sounds
+TRK01128,Distant World Alone,Rhys Hartley,Hip-Hop,2020,3:49,229,148,C Minor,0.783,0.43,0.273,0.278,0.579,-15.3,False,3.56,310,8560,12.0,Warner Music
+TRK01129,Electric World,Marcus Holt,Hip-Hop,2021,3:38,218,150,C# Major,0.912,0.672,0.647,0.0,0.573,-6.3,False,3.05,240,3460,,Universal Music
+TRK01130,Bitter Skies Alone,Aria Calloway,Hip-Hop,2021,2:50,170,103,B Minor,0.67,0.548,0.345,0.409,1.0,-5.9,True,1.64,287,1218,,Sony Music
+TRK01131,Golden Grace,Cole West,R&B,2019,3:58,238,125,G Major,0.306,0.244,0.75,0.751,0.025,-8.6,True,0.74,45,2141,8.0,A24 Sounds
+TRK01132,Midnight Tears Alone,Neon Static,Country,2019,3:52,232,131,D# Major,0.659,0.411,0.548,0.527,0.121,-10.4,False,68.53,5142,154134,,Big Machine
+TRK01133,Reckless Shadows,Soren Ashford,Hip-Hop,2022,4:21,261,80,G Minor,0.448,0.256,0.499,0.508,0.10799999999999998,-9.6,False,6.35,365,13527,,Secretly Canadian
+TRK01134,Broken World Still,Dex Hartley ft. Skye Mack,Pop,2022,4:34,274,112,E Minor,0.353,0.388,0.929,0.739,0.045,-8.6,False,3.27,195,4356,,Warner Music
+TRK01135,Golden Lights Inside,Ember Kade ft. Mia Calloway,Hip-Hop,2022,3:40,220,119,A Minor,0.899,0.618,0.755,0.302,0.165,-6.3,False,66.75,2081,199533,35.0,Warner Music
+TRK01136,Wasted Night Always,Skye Bane ft. River Laurent,Hip-Hop,2020,2:40,160,150,C# Minor,0.906,0.467,0.671,0.394,0.333,-4.7,True,1.34,49,1415,,Universal Music
+TRK01137,Silver Summer,Crater Lake,Latin,2020,4:34,274,121,D Major,0.52,0.208,0.176,0.547,0.048,-15.0,False,9.1,647,8601,,Interscope
+TRK01138,Bitter Skies,Theo Drake ft. Sage Reid,Rock,2020,2:48,168,124,B Major,0.885,0.787,0.388,0.345,0.084,-6.6,False,0.82,1,1062,,Concord
+TRK01139,Silver Skies,Iron Lullaby,Electronic,2024,3:40,220,103,A Major,0.664,0.331,0.365,0.503,0.16,-5.8,False,11.26,738,26431,,Beggars Group
+TRK01140,Timeless Time,Ghost Circuit,Country,2020,3:17,197,118,B Major,0.573,0.411,0.143,0.647,0.202,-6.9,False,0.95,133,1037,,Concord
+TRK01141,Sacred Winter Now,Luna Mack ft. Axel Cruz,Electronic,2022,3:11,191,109,D Major,0.714,0.653,0.507,0.33,0.143,-8.9,True,7.74,619,9921,10.0,Sub Pop
+TRK01142,Velvet Echoes,Lyra Quinn ft. Elijah Wren,Hip-Hop,2021,3:56,236,117,D Minor,0.654,0.501,0.526,0.108,0.354,-2.5,True,52.94,2685,96566,,Concord
+TRK01143,Neon Blues,Elijah Voss ft. Indigo Steele,Electronic,2024,3:36,216,70,C# Major,0.721,0.363,0.123,0.395,0.073,-2.8,True,4.79,314,10178,24.0,Beggars Group
+TRK01144,Neon Rain,Nora Monroe,Hip-Hop,2020,3:47,227,102,G# Major,0.613,0.256,0.363,0.482,0.156,-8.8,True,0.24,10,209,1.0,Universal Music
+TRK01145,Distant Dreams,Echo Chamber,Hip-Hop,2020,2:56,176,126,F Minor,0.77,0.762,0.669,0.245,0.378,-7.8,True,4.36,297,9315,33.0,Universal Music
+TRK01146,Distant Chains Always,Jace Kade,Latin,2023,3:20,200,104,F Major,0.642,0.272,0.219,0.305,0.035,-4.8,False,7.88,433,11446,,Interscope
+TRK01147,Cloudy Silence Tonight,Aria Hartley,Hip-Hop,2018,2:58,178,83,C# Minor,0.933,0.529,0.526,0.185,0.27,-3.0,False,13.28,550,18132,,Sony Music
+TRK01148,Blazing Dreams,Devon Reid,Rock,2022,3:19,199,72,A Major,0.492,0.372,0.359,0.593,0.035,-10.4,False,28.52,1334,19893,,Sony Music
+TRK01149,Sweet Waves Again,Vera Hartley,Pop,2020,3:22,202,114,A# Major,0.58,0.346,0.374,0.547,0.079,-11.2,False,30.17,2184,88546,29.0,Sony Music
+TRK01150,Silver Eyes Alone,Jace Adler,Pop,2024,4:37,277,126,C Minor,0.841,0.627,0.22,0.053,0.035,-6.5,False,3.58,222,7993,,Big Machine
+TRK01151,Fearless Summer Still,Vera Steele ft. Aria Hartley,Electronic,2023,3:17,197,138,G# Minor,0.864,0.356,0.5,0.098,0.06,-11.4,False,1.79,72,1341,,Jagjaguwar
+TRK01152,Cloudy Grace Alone,Solar Hymn,R&B,2015,2:06,126,137,E Minor,0.321,0.179,0.415,0.879,0.048,-14.3,False,0.95,55,1344,,Beggars Group
+TRK01153,Electric Soul Still,Marcus Mack ft. Ember Lowe,Electronic,2023,4:20,260,131,G Major,0.773,0.597,0.456,0.359,0.043,-10.4,True,2.09,168,1463,24.0,Concord
+TRK01154,Burning Lights,Remy Blaine ft. Vera Mack,Hip-Hop,2022,3:44,224,77,E Major,0.745,0.58,0.552,0.404,0.23099999999999998,-6.0,False,7.8,361,14459,,Warner Music
+TRK01155,Lost Waves,Cole Quinn,Pop,2021,3:22,202,134,F# Minor,0.43,0.199,0.514,0.496,0.012,-2.1,False,0.72,107,1620,,Warner Music
+TRK01156,Neon Mind Again,Marcus Adler,Rock,2018,3:10,190,139,A Major,0.651,0.28,0.595,0.479,0.019,-10.0,False,1.23,19,788,,Universal Music
+TRK01157,Hollow Days Again,Theo Solis,Rock,2017,2:51,171,139,D# Minor,0.673,0.467,0.59,0.417,0.156,-7.9,False,8.51,409,23874,,Big Machine
+TRK01158,Silver Mind Away,Ghost Circuit,R&B,2022,4:41,281,123,G Major,0.572,0.188,0.438,0.468,0.092,-7.0,False,1.81,55,2597,107.0,Concord
+TRK01159,Bitter Chains,Marcus Cross,Electronic,2020,3:29,209,115,C Major,0.586,0.561,0.444,0.356,0.046,-9.8,False,6.73,330,7315,7.0,Sub Pop
+TRK01160,Broken Rain Still,Skye Reid,Indie,2024,2:21,141,153,C Major,0.543,0.375,0.56,0.461,0.179,-10.0,False,1.47,124,1212,59.0,Secretly Canadian
+TRK01161,Fearless Memories Inside,Marcus West,R&B,2019,3:39,219,75,B Minor,0.454,0.198,0.235,0.873,0.049,-6.3,False,6.01,426,5193,27.0,Sub Pop
+TRK01162,Faded Echoes,Indigo Blaine,Hip-Hop,2022,4:13,253,91,C Major,0.52,0.19,0.5,0.542,0.156,-11.7,False,1.54,21,4041,,A24 Sounds
+TRK01163,Bitter Love,Zoe Quinn ft. Marcus Blaine,Electronic,2019,3:33,213,142,D# Minor,0.878,0.482,0.422,0.392,0.044,-10.2,False,0.35,103,595,,Secretly Canadian
+TRK01164,Ghostly Eyes,Cole Laurent,R&B,2022,2:53,173,136,F Major,0.811,0.308,0.242,0.328,0.377,-8.2,False,14.55,626,36318,1.0,A24 Sounds
+TRK01165,Hollow Shadows Always,Dex Laurent,Country,2016,2:49,169,135,G Major,0.475,0.378,0.819,0.583,0.099,-6.4,False,1.65,116,1761,,Beggars Group
+TRK01166,Wasted Fire Inside,Theo Lowe,Hip-Hop,2020,2:52,172,153,D Major,0.486,0.204,0.725,0.535,0.28800000000000003,-12.8,True,3.01,52,3897,49.0,Beggars Group
+TRK01167,Distant Night Again,Cleo Kade,Electronic,2018,4:25,265,108,C# Minor,0.9,0.641,0.855,0.441,0.119,-8.0,False,1.68,43,2572,,Secretly Canadian
+TRK01168,Reckless World Tonight,Sage Fox ft. Mia Shaw,Hip-Hop,2022,3:24,204,83,B Minor,0.484,0.39,0.541,0.658,0.056999999999999995,-12.0,True,8.52,533,13941,19.0,Universal Music
+TRK01169,Quiet Roads,Theo Fox,R&B,2019,2:23,143,74,E Major,0.452,0.429,0.466,0.544,0.051,-9.9,False,6.38,212,4747,,Interscope
+TRK01170,Distant Bones,Theo Steele ft. Devon Cruz,Country,2023,3:42,222,91,C Major,0.532,0.381,0.533,0.527,0.118,-4.7,False,8.54,523,5230,,Dead Oceans
+TRK01171,Blazing Lies Now,Echo Chamber,Country,2017,3:32,212,77,C Minor,0.429,0.436,0.304,0.786,0.082,-7.8,False,2.0,190,5979,18.0,Interscope
+TRK01172,Wasted Eyes,Finn West,Pop,2021,3:10,190,123,A# Major,0.729,0.668,0.677,0.076,0.479,-1.7,False,3.92,227,8492,76.0,Warner Music
+TRK01173,Silver Winter Forever,Mia Vale,Pop,2022,2:48,168,86,G# Minor,0.399,0.296,0.406,0.718,0.053,-7.8,False,7.22,454,4598,,Secretly Canadian
+TRK01174,Lost Tears Now,Rhys Cruz,R&B,2015,2:47,167,144,F Minor,0.558,0.407,0.533,0.618,0.175,-4.1,False,30.23,1855,73501,,Jagjaguwar
+TRK01175,Dark Bones Forever,Marcus Cross ft. Kai Laurent,Electronic,2015,4:08,248,110,G# Major,0.817,0.453,0.539,0.256,0.156,-4.7,False,6.04,213,8472,,Concord
+TRK01176,Broken Rain,Indigo Cross,Country,2019,3:36,216,134,A Minor,0.062,0.0,0.482,0.969,0.092,-7.5,False,1.12,1,2790,,A24 Sounds
+TRK01177,Shattered Lies,Vera Solano,Hip-Hop,2022,3:45,225,115,D# Minor,0.557,0.542,0.391,0.615,0.318,-12.1,True,5.95,379,17103,8.0,Universal Music
+TRK01178,Sacred Days Tonight,Mia Cross,Indie,2024,3:36,216,79,G Major,0.607,0.479,0.215,0.367,0.065,-7.9,False,3.42,165,1937,,Concord
+TRK01179,Sacred Lights,River Cross,Electronic,2017,3:39,219,113,C# Major,1.0,0.746,0.557,0.301,0.017,-9.4,False,0.3,71,873,,Interscope
+TRK01180,Sweet Rain Inside,Velvet Riot,Pop,2022,3:09,189,75,C Major,0.836,0.461,0.256,0.367,0.109,-9.5,False,0.38,53,347,14.0,Warner Music
+TRK01181,Golden Waves Always,Mia Vale,Pop,2022,3:19,199,123,F Minor,0.414,0.496,0.28,0.65,0.116,-7.0,True,3.85,167,4785,10.0,AWAL
+TRK01182,Wild Chains Again,Cole Solano,Electronic,2022,4:11,251,67,D Minor,0.664,0.4,0.308,0.481,0.131,-12.6,False,4.3,283,8889,,Big Machine
+TRK01183,Quiet World,Static Bloom,Pop,2021,4:21,261,119,G Major,0.561,0.252,0.196,0.636,0.086,-10.6,False,2.85,252,6525,,Universal Music
+TRK01184,Dark World,Cole Reid ft. Luna Lowe,R&B,2024,2:41,161,143,A# Major,0.512,0.252,0.696,0.868,0.178,-11.0,False,13.39,440,12393,,Interscope
+TRK01185,Crimson Shadows,Static Bloom,Rock,2021,3:19,199,81,E Major,0.958,0.843,0.456,0.307,0.041,-8.4,False,1.24,60,1044,,Sub Pop
+TRK01186,Golden Shadows,Asha Solis,Rock,2023,3:59,239,126,E Major,0.789,0.357,0.664,0.466,0.266,-10.2,False,0.7,15,851,24.0,A24 Sounds
+TRK01187,Ghostly Fire,Sage West ft. Indigo Laurent,Hip-Hop,2019,4:39,279,108,B Major,0.537,0.244,0.194,0.594,0.11099999999999999,-10.0,True,1.41,81,1852,,Warner Music
+TRK01188,Restless Lies Inside,Rhys Fox,Latin,2023,4:35,275,106,A Major,0.529,0.75,0.457,0.805,0.075,-7.0,False,1.91,169,2474,,Sony Music
+TRK01189,Sweet Silence,Cole Reid,R&B,2024,2:57,177,76,D# Major,0.621,0.535,0.344,0.327,0.142,-9.1,False,3.93,296,3648,6.0,Dead Oceans
+TRK01190,Shattered Soul Inside,Juno Adler,R&B,2024,4:15,255,134,E Minor,0.807,0.422,0.416,0.146,0.054,-7.5,True,1.5,1,4390,2.0,Beggars Group
+TRK01191,Broken Time,Marcus Laurent,R&B,2019,3:29,209,141,F Minor,0.575,0.222,0.52,0.558,0.149,-11.4,False,0.26,8,648,,A24 Sounds
+TRK01192,Dark Memories Away,Marcus Cruz,Rock,2023,4:07,247,90,A Major,0.363,0.002,0.441,0.789,0.062,-10.4,True,0.15,1,442,2.0,Warner Music
+TRK01193,Sacred Bones Now,Neon Static,Country,2017,3:57,237,125,F Minor,0.68,0.456,0.351,0.147,0.09,-1.0,True,4.81,398,3651,,Jagjaguwar
+TRK01194,Sweet Lights Alone,Crater Lake,Rock,2022,2:39,159,71,F# Major,0.373,0.344,0.644,0.701,0.071,-9.9,False,0.97,1,668,,Warner Music
+TRK01195,Midnight Soul,Remy Holt ft. Luna Cruz,Rock,2020,3:48,228,94,D Major,0.755,0.703,0.625,0.374,0.052,-14.9,False,0.31,1,570,,AWAL
+TRK01196,Shattered Mind Now,Sage Lowe ft. Petra Kade,Hip-Hop,2022,4:05,245,124,G Minor,0.584,0.114,0.566,0.622,1.0,-6.3,False,9.46,446,19262,,Sony Music
+TRK01197,Golden Skies,Iron Lullaby,Hip-Hop,2020,3:26,206,132,E Minor,0.75,0.302,0.329,0.451,0.126,-10.0,True,30.99,1597,64703,,Universal Music
+TRK01198,Hollow Eyes Now,Kai Hartley,R&B,2015,3:18,198,118,D# Major,0.587,0.365,0.585,0.313,0.013,-6.6,False,3.59,180,2631,,Interscope
+TRK01199,Lonely Blues Tonight,Soren Laurent ft. Ember Pierce,Hip-Hop,2018,2:27,147,125,E Major,0.955,1.0,0.376,0.106,0.129,-7.8,False,5.84,309,15239,,Universal Music
+TRK01200,Reckless World Inside,Zoe Kade ft. Remy Steele,R&B,2016,3:53,233,98,C# Minor,0.39,0.378,0.662,0.591,0.091,-5.6,False,5.84,431,10069,14.0,Dead Oceans
